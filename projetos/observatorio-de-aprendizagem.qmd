@@ -1,0 +1,18 @@
+---
+title: "Observatório de Aprendizagem"
+description: "Projeto fictício de escuta, acompanhamento e uso pedagógico de evidências."
+---
+
+> **Projeto demonstrativo.** Este conteúdo será substituído por uma iniciativa local aprovada, caso exista.
+
+## Finalidade
+
+Organizar conversas, dados e encaminhamentos que ajudem a compreender experiências de aprendizagem.
+
+## Público
+
+Coordenações, docentes e equipes de apoio acadêmico.
+
+## Resultados
+
+Os dados oficiais só serão publicados após revisão institucional.

@@ -1,0 +1,34 @@
+---
+title: "TÍTULO DA AÇÃO — SUBSTITUIR"
+description: "Resumo curto da ação — substituir"
+date: 2026-01-01
+categories: ["Eixo a definir"]
+status: "rascunho"
+image: ""
+image-alt: ""
+participantes: null
+horas: null
+publico: ""
+cursos: []
+local: ""
+projeto: ""
+ordem: null
+---
+
+> **MODELO EDITORIAL — NÃO PUBLICAR.** Copie para um arquivo `2026-MM-slug.qmd`, atualize a data real e submeta o conteúdo à revisão.
+
+## Objetivo
+
+Descreva por que a ação aconteceu.
+
+## Desenvolvimento
+
+Descreva o que foi realizado, com participantes, público e contexto quando conhecidos.
+
+## Resultados e encaminhamentos
+
+Registre resultados observáveis e próximos passos. Não use números sem fonte.
+
+## Evidências
+
+Inclua somente imagens e documentos autorizados. Toda imagem precisa de legenda e texto alternativo.

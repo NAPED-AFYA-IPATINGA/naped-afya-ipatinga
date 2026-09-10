@@ -1,0 +1,10 @@
+---
+title: "Projetos"
+description: "Iniciativas continuadas do NAPED Afya Ipatinga."
+---
+
+<div class="page-kicker">Iniciativas</div>
+
+Esta seção mostra exemplos fictícios de como projetos continuados serão apresentados e relacionados às ações do acervo.
+
+{{< include generated/projetos.md >}}

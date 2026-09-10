@@ -1,0 +1,12 @@
+---
+title: "Em Números · 2026.2"
+description: "Recorte do segundo semestre de 2026 do NAPED Afya Ipatinga."
+---
+
+<div class="page-kicker">Segundo semestre · 2026</div>
+
+Este recorte reunirá volume de ações, temas, alcance informado e uma narrativa dos principais resultados de julho a dezembro de 2026, derivados do mesmo acervo usado no Painel.
+
+<div class="demo-banner"><strong>Dados fictícios.</strong> Recorte calculado a partir dos registros demonstrativos de julho a dezembro.</div>
+
+{{< include ../generated/2026-2.md >}}

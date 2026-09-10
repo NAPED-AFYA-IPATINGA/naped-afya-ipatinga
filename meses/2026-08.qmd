@@ -1,0 +1,19 @@
+---
+title: "Agosto de 2026"
+description: "Ações demonstrativas do NAPED Afya Ipatinga em agosto de 2026."
+---
+
+<div class="page-kicker">Linha do tempo · 2026</div>
+
+<div class="demo-banner"><strong>Dados fictícios.</strong> Esta página é gerada automaticamente a partir dos arquivos em `acoes/`.</div>
+
+<div class="action-grid"><article class="action-card">
+  <a class="card-image" href="../acoes/2026-08-docencia-em-foco-ia-pesquisa.html"><img src="../fotos/2026-08-docencia-em-foco.jpg" alt="Arte da série Docência em Foco do NAPED Ipatinga com luminária, livros e materiais do mês" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">20/08/2026</div><span class="tag">Formação Docente</span><span class="tag">Produção de Conhecimento</span>
+  <h3><a href="../acoes/2026-08-docencia-em-foco-ia-pesquisa.html">Docência em Foco (Agosto) — IA em Pesquisas e Publicações Acadêmicas</a></h3><p>Edição de agosto da série Docência em Foco sobre o uso da Inteligência Artificial em pesquisas e publicações acadêmicas.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-08-afya-summit-2026.html"><img src="../fotos/2026-08-afya-summit-2026.jpg" alt="Arte de divulgação da seleção de Kennya De Paula Alves Albéfaro e Fabio Araújo Gomes de Castro para o Afya Summit 2026" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">01/08/2026</div><span class="tag">Formação Docente</span><span class="tag">Produção de Conhecimento</span>
+  <h3><a href="../acoes/2026-08-afya-summit-2026.html">Afya Summit 2026 — Representação da Afya Ipatinga</a></h3><p>Kennya De Paula Alves Albéfaro e o professor Fabio Araújo Gomes de Castro selecionados para representar a Afya Faculdade de Ciências Médicas de Ipatinga no Afya Summit 2026.</p></div>
+</article></div>

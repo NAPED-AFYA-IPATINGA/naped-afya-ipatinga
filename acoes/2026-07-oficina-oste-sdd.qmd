@@ -1,0 +1,42 @@
+---
+title: "Oficina OSTE — Semana de Desenvolvimento Docente"
+description: "Oficina com a metodologia OSTE (Objective Structured Teaching Encounters) na SDD da Afya Ipatinga, com simulação e feedback estruturado para docentes."
+date: 2026-07-08
+categories: ["Formação Docente", "Inovação Pedagógica"]
+status: "publicado"
+image: "fotos/2026-07-oficina-oste-sdd.jpg"
+image-alt: "Facilitadores apresentam slide sobre OSTE (Objective Structured Teaching Encounters) na SDD da Afya Ipatinga"
+participantes: null
+horas: null
+publico: "Docentes"
+cursos: []
+local: "Afya Ipatinga"
+projeto: ""
+ordem: 20
+---
+
+::: {.acao-figura}
+![Oficina OSTE na SDD](../fotos/2026-07-oficina-oste-sdd.jpg){#fig-oficina-oste fig-alt="Dois facilitadores em polo NAPED apresentam slide OSTE SDD 2026.1 em sala com projetor"}
+:::
+
+## Objetivo
+
+Desenvolver competências docentes por meio de simulação padronizada, usando a metodologia Objective Structured Teaching Encounters (OSTE) durante a Semana de Desenvolvimento Docente da Afya Ipatinga.
+
+## Desenvolvimento
+
+Inspirado no OSCE, o OSTE cria cenários padronizados em que professores enfrentam situações reais de ensino, interagindo com um estudante simulado. Após cada estação, os participantes recebem feedback estruturado e refletem sobre estratégias para aprimorar sua prática pedagógica.
+
+A oficina foi conduzida pelos professores Maria Luísa Franco e Fábio Castro.
+
+## Resultados e encaminhamentos
+
+Reforço do compromisso da Afya Ipatinga com a inovação pedagógica e a formação contínua dos docentes, por meio de prática simulada e feedback estruturado.
+
+## Evidências
+
+![Estação da oficina OSTE](../fotos/2026-07-oficina-oste-sdd-02.jpg){fig-alt="Registro de estação da oficina OSTE"}
+
+![Participação na oficina OSTE](../fotos/2026-07-oficina-oste-sdd-03.jpg){fig-alt="Docentes participando da oficina OSTE"}
+
+![Feedback na oficina OSTE](../fotos/2026-07-oficina-oste-sdd-04.jpg){fig-alt="Momento de feedback na oficina OSTE"}

@@ -1,0 +1,40 @@
+---
+title: "Volta às Aulas — Semestre 2026.2"
+description: "Acolhimento do corpo docente no início do semestre 2026.2, com mensagens personalizadas e painel de boas-vindas."
+date: 2026-07-15
+categories: ["Acolhimento Docente", "Comunicação Institucional"]
+status: "publicado"
+image: "fotos/2026-07-volta-as-aulas-2026-2.jpg"
+image-alt: "Arte de boas-vindas do NAPED aos docentes no semestre 2026.2"
+participantes: null
+horas: null
+publico: "Docentes"
+cursos: []
+local: "Afya Ipatinga"
+projeto: ""
+ordem: 30
+---
+
+::: {.acao-figura}
+![Boas-vindas docentes 2026.2](../fotos/2026-07-volta-as-aulas-2026-2.jpg){#fig-volta-aulas-2026-2 fig-alt="Card NAPED Afya com mensagem Sejam bem-vindos, docentes, para o semestre 2026.2"}
+:::
+
+## Objetivo
+
+Receber a equipe docente no início do semestre letivo 2026.2 de forma acolhedora e personalizada.
+
+## Desenvolvimento
+
+Além do envio de uma mensagem de boas-vindas personalizada a cada professor, desejando um semestre repleto de conquistas, aprendizado e sucesso, a equipe organizou um painel de boas-vindas para tornar o retorno ainda mais acolhedor e especial.
+
+## Resultados e encaminhamentos
+
+Início do semestre 2026.2 marcado por acolhimento institucional e comunicação direta com o corpo docente.
+
+## Evidências
+
+![Painel de boas-vindas](../fotos/2026-07-volta-as-aulas-2026-2-02.jpg){fig-alt="Registro do acolhimento de volta às aulas 2026.2"}
+
+![Mensagem aos docentes](../fotos/2026-07-volta-as-aulas-2026-2-03.jpg){fig-alt="Material de boas-vindas aos docentes"}
+
+![Acolhimento 2026.2](../fotos/2026-07-volta-as-aulas-2026-2-04.jpg){fig-alt="Registro adicional do acolhimento docente 2026.2"}

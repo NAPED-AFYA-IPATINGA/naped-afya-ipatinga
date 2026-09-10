@@ -1,0 +1,40 @@
+---
+title: "Docência em Foco (Agosto) — IA em Pesquisas e Publicações Acadêmicas"
+description: "Edição de agosto da série Docência em Foco sobre o uso da Inteligência Artificial em pesquisas e publicações acadêmicas."
+date: 2026-08-20
+categories: ["Formação Docente", "Produção de Conhecimento"]
+status: "publicado"
+image: "fotos/2026-08-docencia-em-foco.jpg"
+image-alt: "Arte da série Docência em Foco do NAPED Ipatinga com luminária, livros e materiais do mês"
+publico: "Docentes"
+local: "NAPED Ipatinga"
+projeto: ""
+---
+
+::: {.acao-figura}
+![Arte oficial da edição de agosto da série Docência em Foco](../fotos/2026-08-docencia-em-foco.jpg){#fig-docencia-foco-agosto fig-alt="Arte da série Docência em Foco do NAPED Ipatinga com luminária, livros e materiais do mês"}
+:::
+
+## Objetivo
+
+Fortalecer e inspirar a prática docente e assistencial por meio da edição de agosto da série **Docência em Foco**, dedicada ao tema essencial do uso da Inteligência Artificial em pesquisas e publicações acadêmicas.
+
+## Desenvolvimento
+
+Nesta edição, o NAPED Ipatinga destacou dois materiais de referência para orientar a reflexão docente:
+
+- **Diretrizes de Integridade do CNPq (Portaria nº 2.664/2026)**
+- **Artigo na Medical Teacher:** "When and how to disclose AI use in academic publishing: AMEE Guide No. 192"
+
+A série Docência em Foco compartilha mensalmente artigos, podcasts e materiais recomendados para potencializar o ensino e a prática docente.
+
+## Principais pontos de atenção
+
+- **Transparência:** declarar o uso de IA Generativa (IAG) em qualquer etapa (concepção, escrita, análise de dados ou submissão), detalhando a ferramenta e a finalidade.
+- **Vedação de autoria por IA:** é proibido submeter conteúdo gerado por IA como autoria humana.
+- **Responsabilidade integral:** os autores respondem por todo o conteúdo final, incluindo eventuais plágios ou imprecisões geradas pela ferramenta.
+- **Sigilo em pareceres:** é vedado inserir projetos de terceiros em ferramentas de IA para elaboração de pareceres científicos.
+
+## Resultados e encaminhamentos
+
+Divulgação da edição de agosto aos docentes para aprofundamento do debate sobre produção científica com uso responsável da IA, em alinhamento às diretrizes do CNPq e às boas práticas internacionais de publicação acadêmica.

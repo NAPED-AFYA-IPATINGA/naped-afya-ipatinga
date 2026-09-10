@@ -1,0 +1,11 @@
+_site/
+.quarto/
+_freeze/
+generated/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+
+/.quarto/
+**/*.quarto_ipynb

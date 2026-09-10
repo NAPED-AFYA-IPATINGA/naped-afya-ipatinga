@@ -1,0 +1,50 @@
+---
+title: "SDD — Semana de Desenvolvimento Docente"
+description: "Identidade visual e programação da SDD 2026.1, com cards informativos da agenda, horários, atividades e responsáveis."
+date: 2026-07-01
+categories: ["Formação Docente", "Comunicação Institucional"]
+status: "publicado"
+image: "fotos/2026-07-sdd-semana-desenvolvimento-docente.jpg"
+image-alt: "Foto coletiva da equipe docente e do NAPED na Semana de Desenvolvimento Docente da Afya Ipatinga"
+participantes: null
+horas: null
+publico: "Docentes"
+cursos: []
+local: "Afya Faculdade de Ciências Médicas de Ipatinga"
+projeto: ""
+ordem: 10
+---
+
+::: {.acao-figura}
+![Foto coletiva da abertura da SDD](../fotos/2026-07-sdd-semana-desenvolvimento-docente.jpg){#fig-sdd-2026-1 fig-alt="Grupo de docentes e equipe do NAPED posando em sala da Afya Ipatinga durante a Semana de Desenvolvimento Docente"}
+:::
+
+## Objetivo
+
+Organizar e divulgar a Semana de Desenvolvimento Docente (SDD 2026.1) do NAPED da Afya Faculdade de Ciências Médicas, alinhando identidade visual, programação e comunicação com o corpo docente.
+
+## Desenvolvimento
+
+O projeto consistiu na criação de uma série de cards informativos para divulgação da agenda do evento, organizando horários, atividades e responsáveis de forma clara e intuitiva.
+
+A abertura do primeiro dia tratou de alinhamento, desafios e perspectivas para o semestre, com a presença dos professores e abertura com o diretor Vinicius Lana, o Coordenador Acadêmico Rone Cesario e a equipe do NAPED.
+
+## Resultados e encaminhamentos
+
+Material de divulgação da SDD disponibilizado para a comunidade docente, com programação organizada e abertura institucional registrada.
+
+## Evidências
+
+![Momento da programação da SDD](../fotos/2026-07-sdd-semana-desenvolvimento-docente-02.jpg){fig-alt="Registro adicional da Semana de Desenvolvimento Docente"}
+
+![Atividade da SDD](../fotos/2026-07-sdd-semana-desenvolvimento-docente-03.jpg){fig-alt="Registro adicional da Semana de Desenvolvimento Docente"}
+
+![Registro da SDD](../fotos/2026-07-sdd-semana-desenvolvimento-docente-04.jpg){fig-alt="Registro adicional da Semana de Desenvolvimento Docente"}
+
+![Participantes na SDD](../fotos/2026-07-sdd-semana-desenvolvimento-docente-05.jpg){fig-alt="Participantes da Semana de Desenvolvimento Docente"}
+
+![Equipe na SDD](../fotos/2026-07-sdd-semana-desenvolvimento-docente-06.jpg){fig-alt="Equipe e docentes na Semana de Desenvolvimento Docente"}
+
+![Encontro da SDD](../fotos/2026-07-sdd-semana-desenvolvimento-docente-07.jpg){fig-alt="Encontro da Semana de Desenvolvimento Docente"}
+
+![Encerramento da programação da SDD](../fotos/2026-07-sdd-semana-desenvolvimento-docente-08.jpg){fig-alt="Registro amplo da Semana de Desenvolvimento Docente"}

@@ -1,0 +1,10 @@
+---
+title: "Ações por mês"
+description: "Navegação cronológica das ações do NAPED Afya Ipatinga em 2026."
+---
+
+<div class="page-kicker">Linha do tempo · 2026</div>
+
+Cada mês com ações aprovadas terá uma página própria. As páginas mensais serão geradas a partir dos arquivos de ações e identificadas por **ano e mês**, para que períodos de anos diferentes nunca se misturem.
+
+{{< include generated/meses.md >}}

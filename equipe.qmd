@@ -1,0 +1,16 @@
+---
+title: "Equipe"
+description: "Equipe do NAPED Afya Ipatinga."
+---
+
+<div class="page-kicker">Pessoas</div>
+
+<div class="demo-banner"><strong>Dados fictícios.</strong> Os perfis abaixo representam somente a composição visual desta página.</div>
+
+<div class="team-grid">
+  <article class="team-card"><span>Coordenação</span><h2>Marina Almeida</h2><p>Pedagoga e responsável pela articulação das ações de desenvolvimento docente.</p></article>
+  <article class="team-card"><span>Formação docente</span><h2>Rafael Moreira</h2><p>Professor e consultor pedagógico nas áreas de metodologias ativas e avaliação.</p></article>
+  <article class="team-card"><span>Experiência discente</span><h2>Camila Nunes</h2><p>Profissional de apoio aos projetos de aprendizagem, escuta e acompanhamento acadêmico.</p></article>
+</div>
+
+<div class="empty-state"><strong>Perfis aguardando revisão.</strong> A página institucional contém nomes históricos; este portfólio só exibirá perfis confirmados para a versão de 2026.</div>

@@ -1,0 +1,65 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render: python3 scripts/preparar.py
+  render:
+    - "*.qmd"
+    - "acoes/*.qmd"
+    - "projetos/*.qmd"
+    - "em-numeros/*.qmd"
+    - "!acoes/_modelo.qmd"
+    - "!projetos/_modelo.qmd"
+  resources:
+    - fotos/*.png
+    - fotos/*.jpg
+
+website:
+  title: "NAPED · Afya Ipatinga"
+  description: "Portfólio de ações e resultados do NAPED da Afya Ipatinga, Minas Gerais."
+  site-url: "https://jeffersonnetto.github.io/portifolio-naped-afya-ipatinga/"
+  navbar:
+    logo: assets/logo.png
+    title: false
+    left:
+      - href: index.qmd
+        text: Início
+      - href: acoes.qmd
+        text: Ações
+      - href: meses.qmd
+        text: Meses
+      - href: projetos.qmd
+        text: Projetos
+      - href: equipe.qmd
+        text: Equipe
+      - href: resultados.qmd
+        text: Painel
+      - text: Em Números
+        menu:
+          - href: em-numeros/2026-1.qmd
+            text: "2026.1"
+          - href: em-numeros/2026-2.qmd
+            text: "2026.2"
+      - href: comprovacoes.qmd
+        text: Comprovações
+    right:
+      - href: sobre.qmd
+        text: Sobre
+  page-footer:
+    left: "NAPED · Afya Ipatinga · Minas Gerais"
+    right: "Portfólio 2026"
+  search:
+    location: navbar
+    type: overlay
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    page-layout: full
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    lightbox: auto
+
+lang: pt-BR

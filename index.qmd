@@ -1,0 +1,32 @@
+---
+title: "Portfólio NAPED · Afya Ipatinga"
+description: "Estrutura do portfólio de ações e resultados do NAPED Afya Ipatinga."
+title-block: false
+---
+
+<div class="hero-panel" style="background-image: linear-gradient(90deg, rgba(59,7,48,.97) 0%, rgba(116,16,79,.86) 48%, rgba(199,11,117,.32) 100%), url('fotos/hero-workshop-demo.png');">
+  <div class="eyebrow">Portfólio pedagógico · 2026</div>
+  <h1>NAPED Afya Ipatinga</h1>
+  <p class="lead-copy">Um espaço para reunir ações, projetos, evidências e resultados do Núcleo de Apoio Pedagógico e Experiência Docente em Ipatinga, Minas Gerais.</p>
+</div>
+
+<div class="demo-banner"><strong>Ambiente demonstrativo.</strong> Ações, nomes, números e imagens abaixo são fictícios e existem apenas para visualizar a estrutura. Serão substituídos pelo conteúdo aprovado do NAPED Afya Ipatinga.</div>
+
+## Resultados em destaque
+
+{{< include generated/home.md >}}
+
+## Explore o portfólio
+
+<div class="link-grid">
+  <div><a class="link-card" href="acoes.html"><strong>Ações</strong><span>Registros de atividades do NAPED, pesquisáveis por período e tema.</span><b>Explorar →</b></a></div>
+  <div><a class="link-card" href="meses.html"><strong>Meses</strong><span>Uma visão cronológica do trabalho realizado em 2026.</span><b>Ver meses →</b></a></div>
+  <div><a class="link-card" href="projetos.html"><strong>Projetos</strong><span>Iniciativas continuadas com páginas e evidências próprias.</span><b>Conhecer →</b></a></div>
+  <div><a class="link-card" href="equipe.html"><strong>Equipe</strong><span>As pessoas responsáveis pelo trabalho pedagógico.</span><b>Ver equipe →</b></a></div>
+  <div><a class="link-card" href="resultados.html"><strong>Painel</strong><span>Indicadores derivados das ações aprovadas.</span><b>Consultar →</b></a></div>
+  <div><a class="link-card" href="comprovacoes.html"><strong>Comprovações</strong><span>Materiais públicos que documentam ações e projetos.</span><b>Ver evidências →</b></a></div>
+</div>
+
+## Ações recentes
+
+{{< include generated/recentes.md >}}

@@ -1,0 +1,40 @@
+---
+title: "Dia do Oncologista, do Pediatra e do Cirurgião Geral"
+description: "Homenagem de julho aos docentes das especialidades de Oncologia, Pediatria e Cirurgia Geral."
+date: 2026-07-22
+categories: ["Comunicação Institucional", "Valorização Docente"]
+status: "publicado"
+image: "fotos/2026-07-homenagem-oncologista.jpg"
+image-alt: "Arte do Dia do Médico Oncologista com o Dr. Luciano de Souza Viana, oncologista e professor da Afya Ipatinga"
+participantes: null
+horas: null
+publico: "Docentes"
+cursos: []
+local: "Afya Ipatinga"
+projeto: ""
+ordem: 40
+---
+
+::: {.acao-figura}
+![Dia do Médico Oncologista](../fotos/2026-07-homenagem-oncologista.jpg){#fig-homenagem-oncologista fig-alt="Cartaz do Dia do Médico Oncologista com retrato do Dr. Luciano de Souza Viana"}
+:::
+
+## Objetivo
+
+Celebrar o Dia do Oncologista, do Pediatra e do Cirurgião Geral, prestando homenagem aos professores dessas especialidades.
+
+## Desenvolvimento
+
+No mês de julho, a equipe destacou docentes que, além de compartilharem conhecimento e formarem novos profissionais, exercem suas especialidades com excelência, dedicação e compromisso com a vida.
+
+As artes de divulgação homenagearam o Dr. Luciano de Souza Viana (Oncologia), a Dra. Lara Saad (Pediatria) e o Dr. Felippe Hauck Mansur (Cirurgia Geral).
+
+## Resultados e encaminhamentos
+
+Registro público de reconhecimento às especialidades homenageadas e aos docentes envolvidos.
+
+## Evidências
+
+![Dia do Médico Pediatra](../fotos/2026-07-homenagem-pediatra.jpg){fig-alt="Cartaz do Dia do Médico Pediatra com retrato da Dra. Lara Saad"}
+
+![Dia do Médico Cirurgião Geral](../fotos/2026-07-homenagem-cirurgiao-geral.jpg){fig-alt="Cartaz do Dia do Médico Cirurgião Geral com retrato do Dr. Felippe Hauck Mansur"}

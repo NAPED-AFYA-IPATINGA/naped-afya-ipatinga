@@ -1,0 +1,12 @@
+---
+title: "Sobre o NAPED"
+description: "Apresentação do NAPED da Afya Ipatinga."
+---
+
+<div class="page-kicker">Afya Ipatinga · Minas Gerais</div>
+
+O Núcleo de Apoio Pedagógico e Experiência Docente (NAPED) é apresentado no [portal institucional da Afya Ipatinga](https://ipatinga.afya.com.br/institucional/naped) como espaço de apoio aos processos de ensino e aprendizagem e de qualificação pedagógica docente.
+
+Este portfólio reunirá a atuação local em 2026. Missão detalhada, equipe e canais de contato serão revisados com os responsáveis antes da publicação final.
+
+<div class="editorial-note"><strong>Fonte e revisão.</strong> Esta apresentação curta remete ao portal oficial. Dados de equipe, horários e contatos serão cadastrados somente após confirmação atual.</div>

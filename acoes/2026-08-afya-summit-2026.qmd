@@ -1,0 +1,32 @@
+---
+title: "Afya Summit 2026 — Representação da Afya Ipatinga"
+description: "Kennya De Paula Alves Albéfaro e o professor Fabio Araújo Gomes de Castro selecionados para representar a Afya Faculdade de Ciências Médicas de Ipatinga no Afya Summit 2026."
+date: 2026-08-01
+categories: ["Formação Docente", "Produção de Conhecimento"]
+status: "publicado"
+image: "fotos/2026-08-afya-summit-2026.jpg"
+image-alt: "Arte de divulgação da seleção de Kennya De Paula Alves Albéfaro e Fabio Araújo Gomes de Castro para o Afya Summit 2026"
+participantes: null
+horas: null
+publico: "Docentes"
+cursos: []
+local: "Afya Summit 2026"
+projeto: ""
+ordem: 10
+---
+
+::: {.acao-figura}
+![Arte Afya Summit 2026](../fotos/2026-08-afya-summit-2026.jpg){#fig-afya-summit-2026 fig-alt="Cartaz magenta com retratos da aluna Kennya e do professor Fabio selecionados para o Afya Summit 2026"}
+:::
+
+## Objetivo
+
+Reconhecer e divulgar a seleção de representantes da Afya Faculdade de Ciências Médicas de Ipatinga para o Afya Summit 2026.
+
+## Desenvolvimento
+
+Kennya De Paula Alves Albéfaro e o professor Fabio Araújo Gomes de Castro foram selecionados para representar a unidade no evento, que conecta ideias, inovação e o futuro da Medicina.
+
+## Resultados e encaminhamentos
+
+Comunicação institucional do orgulho da seleção e da representação da Afya Ipatinga no Afya Summit 2026.

@@ -1,0 +1,18 @@
+---
+title: "Laboratório de Práticas Docentes"
+description: "Projeto fictício de formação continuada, troca de experiências e experimentação pedagógica."
+---
+
+> **Projeto demonstrativo.** Esta página apresenta a estrutura prevista para uma iniciativa continuada do NAPED Afya Ipatinga.
+
+## Finalidade
+
+Criar espaços recorrentes para estudo, experimentação e compartilhamento de práticas docentes.
+
+## Público
+
+Docentes, preceptores e coordenações envolvidos nas experiências de ensino.
+
+## Resultados
+
+Os resultados reais serão vinculados automaticamente às ações relacionadas quando o acervo oficial for inserido.
