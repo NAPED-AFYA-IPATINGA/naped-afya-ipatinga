@@ -141,6 +141,7 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 .bar-row { display:grid; grid-template-columns: minmax(8rem, 1.5fr) 3fr 1.5rem; gap:.7rem; align-items:center; margin:.7rem 0; font-size:.9rem; }.bar-row i { height:.75rem; border-radius:99px; background:linear-gradient(90deg,$brand-accent,#8a1558); }.bar-row b { color:$muted; }
 .table-wrap { overflow:auto; background:$surface; border:1px solid $line; border-radius:.9rem; }.table-wrap table { width:100%; min-width:44rem; margin:0; }.table-wrap th { background:#f9eff4; }.table-wrap th,.table-wrap td { padding:.8rem; border-bottom:1px solid $line; text-align:left; }.table-wrap a { font-weight:700; }
 .editorial-note strong, .empty-state strong { color: $ink; }
+.about-intro { text-align: justify; text-justify: inter-word; }
 .page-kicker { color: $brand-accent; text-transform: uppercase; letter-spacing: .12em; font-weight: 800; font-size: .77rem; }
 .editorial-list { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: .8rem 2rem; padding: 0; list-style: none; }
 .editorial-list li { border-bottom: 1px solid $line; padding: 1rem 0; }
