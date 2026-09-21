@@ -1,0 +1,28 @@
+---
+title: "Circuito Residência Médica — Preparação inteligente para ENAMED e residência"
+description: "Encontro especial com Carolina Silveira da Silva sobre preparação estratégica para o ENAMED e a residência médica."
+date: 2026-08-31
+categories: ["Acompanhamento Acadêmico", "Preparação ENAMED"]
+status: "publicado"
+image: "fotos/2026-08-circuito-residencia-enamed.png"
+image-alt: "Card do Circuito Residência Médica sobre preparação inteligente para ENAMED e residência médica"
+participantes: null
+horas: null
+publico: "Estudantes de Medicina"
+cursos: ["Medicina"]
+local: "Afya Ipatinga"
+projeto: "Projeto ENAMED"
+ordem: 25
+---
+
+::: {.acao-figura}
+![Card do Circuito Residência Médica](../fotos/2026-08-circuito-residencia-enamed.png){#fig-circuito-residencia-enamed fig-alt="Arte do Circuito Residência Médica com Carolina Silveira da Silva, em 31 de agosto de 2026"}
+:::
+
+## Preparação estratégica para os próximos desafios
+
+O **Circuito Residência Médica** promoveu um encontro especial sobre preparação inteligente para o ENAMED e para a residência médica, com a participação de **Carolina Silveira da Silva**. A atividade ofereceu aos estudantes conteúdos e orientações voltados à organização de uma trajetória de estudos mais estratégica e consciente.
+
+O encontro destacou a importância de transformar objetivos de médio e longo prazo em um planejamento possível, combinando revisão de conteúdos, prática com questões, análise de desempenho e atenção às necessidades individuais de aprendizagem. Essa organização favorece maior clareza para enfrentar os desafios do ENAMED e dos processos seletivos de residência.
+
+Como ação do Projeto ENAMED, o Circuito reforça que a preparação acadêmica se constrói de forma contínua. Orientação qualificada, constância e decisões baseadas no próprio percurso de aprendizagem ajudam os estudantes a desenvolver segurança, autonomia e foco para os próximos passos da carreira médica.

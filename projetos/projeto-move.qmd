@@ -1,0 +1,24 @@
+---
+title: "Projeto MOVE — Professores em Movimento"
+description: "Projeto de formação docente que promove troca de experiências e aplicação de estratégias ativas nas práticas pedagógicas."
+project-key: "Projeto MOVE — Professores em Movimento"
+label: "Formação docente"
+cta: "Conhecer o projeto →"
+image: "fotos/2026-08-terceiro-encontro-move-card.png"
+image-alt: "Card do Projeto MOVE — Professores em Movimento"
+---
+
+::: {.project-feature-image}
+![Card do Projeto MOVE — Professores em Movimento](../fotos/2026-08-terceiro-encontro-move-card.png){fig-alt="Arte do Projeto MOVE — Professores em Movimento, com convite para o encontro de encerramento da turma 2026/1"}
+:::
+
+O **Projeto MOVE — Professores em Movimento** é uma iniciativa de formação docente voltada à experimentação, ao compartilhamento de experiências e à construção coletiva de práticas pedagógicas mais ativas e conectadas às realidades das escolas.
+
+Ao longo dos encontros, os participantes refletem sobre suas práticas, apresentam como as propostas foram desenvolvidas e analisam os resultados alcançados. Esse percurso transforma a formação em um espaço de colaboração, acompanhamento e aprendizagem entre pares.
+
+## Ações do Projeto MOVE
+
+Esta ramificação reúne as ações do portfólio vinculadas ao Projeto MOVE — Professores em Movimento.
+
+{{< include ../generated/projeto-projeto-move.md >}}
+

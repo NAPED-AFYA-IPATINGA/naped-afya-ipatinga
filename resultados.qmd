@@ -7,8 +7,6 @@ description: "Indicadores do portfólio NAPED Afya Ipatinga."
 
 O painel terá indicadores calculados a partir das ações aprovadas: volume mensal, eixos, participação e horas quando esses dados existirem. Cada indicador apresentará período e cobertura dos registros.
 
-<div class="demo-banner"><strong>Dados fictícios.</strong> O painel abaixo é calculado a partir das ações demonstrativas em `acoes/`.</div>
-
 {{< include generated/resultados.md >}}
 
 ## Como os números serão lidos

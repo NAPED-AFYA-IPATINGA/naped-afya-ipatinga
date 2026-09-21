@@ -1,0 +1,30 @@
+---
+title: "Elaboração, cadastro de itens, aplicação e pós-provas"
+description: "Formação docente sobre as etapas de elaboração, cadastro, aplicação e análise pós-prova de instrumentos avaliativos."
+date: 2026-09-02
+categories: ["Formação Docente", "Avaliação da Aprendizagem"]
+status: "publicado"
+image: "fotos/2026-09-elaboracao-cadastro-itens-pos-provas.png"
+image-alt: "Convite para formação sobre elaboração, cadastro de itens, aplicação e pós-provas"
+participantes: null
+horas: null
+publico: "Docentes e responsáveis locais pela avaliação"
+cursos: []
+local: "Encontro on-line"
+projeto: "Formação docente em avaliação"
+ordem: 15
+---
+
+::: {.acao-figura}
+![Convite para a formação Elaboração, cadastro de itens, aplicação e pós-provas](../fotos/2026-09-elaboracao-cadastro-itens-pos-provas.png){#fig-elaboracao-itens fig-alt="Arte da Afya convidando para formação em 2 de setembro, às 18 horas, sobre elaboração, cadastro de itens, aplicação e pós-provas"}
+:::
+
+## Avaliação planejada, aplicada e analisada
+
+Em 2 de setembro de 2026, foi realizada a formação **Elaboração, cadastro de itens, aplicação e pós-provas**, destinada aos responsáveis locais e aos docentes envolvidos nos processos avaliativos. O encontro abordou, de modo integrado, as etapas que sustentam uma avaliação consistente: o planejamento dos itens, o registro no sistema, a aplicação organizada e a leitura pedagógica dos resultados.
+
+A elaboração de itens requer clareza sobre os objetivos de aprendizagem e sobre a competência que se deseja observar. Itens bem construídos apresentam enunciados objetivos, alternativas coerentes e critérios que favorecem uma avaliação justa, permitindo identificar não apenas o que o estudante recorda, mas como mobiliza conhecimentos em situações relevantes para sua formação.
+
+O cadastro e a aplicação também foram discutidos como etapas essenciais para a qualidade do processo. A organização prévia dos instrumentos, a conferência de informações e o acompanhamento das condições de realização contribuem para maior segurança, rastreabilidade e equidade para os estudantes.
+
+Por fim, a etapa pós-prova foi apresentada como oportunidade de aprendizagem institucional. A análise dos resultados, das dúvidas recorrentes e do desempenho por item oferece subsídios para qualificar o feedback, revisar estratégias de ensino e aperfeiçoar futuras avaliações. Assim, a prova deixa de ser um momento isolado de verificação e passa a integrar um ciclo contínuo de acompanhamento e melhoria da aprendizagem.

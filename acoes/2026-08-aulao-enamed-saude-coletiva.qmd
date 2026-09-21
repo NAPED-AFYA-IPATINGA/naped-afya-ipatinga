@@ -1,0 +1,28 @@
+---
+title: "Aulão ENAMED — Saúde Coletiva"
+description: "Aulão preparatório para o ENAMED sobre ética médica e declaração de óbito, conduzido por Lucas Primo."
+date: 2026-08-11
+categories: ["Acompanhamento Acadêmico", "Preparação ENAMED"]
+status: "publicado"
+image: "fotos/2026-08-aulao-enamed-saude-coletiva.png"
+image-alt: "Card do Aulão ENAMED Saúde Coletiva sobre ética médica e declaração de óbito"
+participantes: null
+horas: null
+publico: "Estudantes de Medicina"
+cursos: ["Medicina"]
+local: "Encontro on-line"
+projeto: "Projeto ENAMED"
+ordem: 23
+---
+
+::: {.acao-figura}
+![Card do Aulão ENAMED — Saúde Coletiva](../fotos/2026-08-aulao-enamed-saude-coletiva.png){#fig-aulao-enamed-saude-coletiva fig-alt="Arte da Afya para o Aulão ENAMED de Saúde Coletiva, realizado em 11 de agosto, às 19h30, com Lucas Primo"}
+:::
+
+## Ética e responsabilidade na formação médica
+
+Foi realizado o **Aulão ENAMED — Saúde Coletiva**, com o tema **Ética Médica e Declaração de Óbito**, conduzido por Lucas Primo. A atividade integrou as ações do Projeto ENAMED e ofereceu aos estudantes um momento de revisão e aprofundamento de conteúdos fundamentais para a prática médica.
+
+Ao abordar ética médica e declaração de óbito, o encontro evidenciou que a formação profissional envolve não apenas o domínio técnico, mas também responsabilidade, comunicação e compromisso com os aspectos legais e humanos do cuidado. São temas que atravessam diferentes cenários da atuação médica e exigem atenção qualificada nas decisões cotidianas.
+
+O aulão contribuiu para reforçar conhecimentos relevantes para a avaliação do ENAMED e para a construção de uma prática profissional segura e ética. Ao integrar revisão direcionada e reflexão sobre situações reais da assistência, o Projeto ENAMED amplia as oportunidades de preparação acadêmica dos estudantes.

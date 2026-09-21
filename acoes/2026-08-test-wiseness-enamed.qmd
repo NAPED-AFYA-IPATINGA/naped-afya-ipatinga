@@ -1,0 +1,28 @@
+---
+title: "Aula especial Test Wiseness — Projeto ENAMED"
+description: "Aula com a Prof.ª Letícia Guimarães sobre estratégias para interpretar enunciados, analisar alternativas e resolver questões de prova."
+date: 2026-08-31
+categories: ["Acompanhamento Acadêmico", "Preparação ENAMED"]
+status: "publicado"
+image: "fotos/2026-08-test-wiseness-enamed.png"
+image-alt: "Card da aula especial Test Wiseness, com a professora Letícia Guimarães"
+participantes: null
+horas: null
+publico: "Estudantes de Medicina"
+cursos: ["Medicina"]
+local: "Encontro on-line"
+projeto: "Projeto ENAMED"
+ordem: 26
+---
+
+::: {.acao-figura}
+![Card da aula especial Test Wiseness](../fotos/2026-08-test-wiseness-enamed.png){#fig-test-wiseness-enamed fig-alt="Arte da aula especial Test Wiseness, ministrada pela professora Letícia Guimarães em 31 de agosto, às 19h30, por Microsoft Teams"}
+:::
+
+## Estratégia também se aprende
+
+A Prof.ª **Letícia Guimarães**, mentora ENAMED, conduziu a aula especial **Test Wiseness**, voltada ao desenvolvimento de habilidades para a resolução de questões de prova. A atividade apresentou estratégias práticas para interpretar enunciados, analisar alternativas e tomar decisões com mais precisão em situações avaliativas.
+
+Resolver questões envolve mais do que reconhecer conteúdos. Exige leitura atenta, identificação do que está sendo solicitado, avaliação crítica das alternativas e gestão do tempo. Ao trabalhar essas habilidades de forma explícita, a aula ajudou os estudantes a reconhecer padrões, evitar interpretações apressadas e utilizar melhor seus conhecimentos durante a prova.
+
+Integrada ao Projeto ENAMED, a ação reforça a importância de uma preparação que una conteúdo, prática deliberada e confiança. Pequenos ajustes de estratégia podem qualificar a experiência de avaliação e contribuir para resultados mais consistentes.

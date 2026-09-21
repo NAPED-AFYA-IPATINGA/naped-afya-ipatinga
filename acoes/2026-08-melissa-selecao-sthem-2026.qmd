@@ -1,0 +1,37 @@
+---
+title: "Prof.ª Melissa Araújo Ulhoa Quintão no STHEM 2026"
+description: "Seleção da Prof.ª Melissa Araújo Ulhoa Quintão para o Programa Educadores Multiplicadores do XIII Programa de Formação de Professores STHEM 2026."
+date: 2026-08-01
+date-format: "MMMM YYYY"
+categories: ["Formação Docente", "Reconhecimento Acadêmico"]
+status: "publicado"
+image: "fotos/2026-08-melissa-selecao-sthem-2026.png"
+image-alt: "Card parabenizando a professora Melissa Araújo Ulhoa Quintão pela seleção para o STHEM 2026"
+participantes: null
+horas: null
+publico: "Docentes"
+cursos: ["Medicina"]
+local: "UniÍtalo, São Paulo, e atividades on-line"
+projeto: "Programa Educadores Multiplicadores"
+ordem: 19
+---
+
+::: {.acao-figura}
+![Card sobre a seleção da Prof.ª Melissa Araújo Ulhoa Quintão para o STHEM 2026](../fotos/2026-08-melissa-selecao-sthem-2026.png){#fig-melissa-sthem fig-alt="Arte de reconhecimento à professora Melissa Araújo Ulhoa Quintão pela seleção no Programa Educadores Multiplicadores STHEM 2026"}
+:::
+
+## Formação, inovação e efeito multiplicador
+
+A Prof.ª **Melissa Araújo Ulhoa Quintão** foi selecionada entre os 25 educadores do **Programa Educadores Multiplicadores — STHEM 2026**. A conquista reconhece sua trajetória e amplia as possibilidades de troca de experiências, inovação pedagógica e impacto institucional na Afya Ipatinga.
+
+O programa integra o **XIII Programa de Formação de Professores do Consórcio STHEM**, cujo tema é *Inovação, Aprendizagem e Transformação da Prática Docente*. A formação já está em andamento, com percurso previsto de agosto de 2026 a setembro de 2027. O módulo presencial ocorreu na **UniÍtalo, em São Paulo**, de 24 a 26 de agosto de 2026; as demais etapas articulam atividades on-line síncronas, assíncronas, mentorias e o desenvolvimento de projetos aplicados.
+
+Ser educadora multiplicadora significa levar o aprendizado da formação para além da experiência individual. Ao compartilhar práticas, recursos e reflexões com outros docentes, a participante contribui para fortalecer metodologias centradas na aprendizagem, o uso crítico de tecnologias educacionais e a criação de soluções alinhadas aos desafios reais da formação em saúde.
+
+Para a Afya Ipatinga, essa seleção representa uma oportunidade de qualificar continuamente a experiência de ensino e de ampliar redes de colaboração. O conhecimento construído no STHEM poderá inspirar ações de formação docente e projetos pedagógicos com potencial de gerar impacto positivo na aprendizagem dos estudantes.
+
+::: {.callout-note appearance="simple"}
+#### Sobre o encontro
+
+As informações sobre o período, a estrutura e os objetivos da formação foram consultadas nas páginas oficiais do [XIII Programa de Formação de Professores 2026](https://www.consorciosthem.com/eventos/formacao-2026/) e da notícia do Consórcio STHEM sobre o [módulo presencial realizado na UniÍtalo](https://www.consorciosthem.com/formacao-debate-transformacao-docente-e-experiencia-de-aprendizagem-com-o-uso-da-ia/).
+:::

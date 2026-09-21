@@ -1,0 +1,31 @@
+---
+title: "Projeto ENAMED"
+description: "Projeto de acompanhamento acadêmico e preparação estratégica para o Exame Nacional de Avaliação da Formação Médica."
+project-key: "Projeto ENAMED"
+label: "Acompanhamento acadêmico"
+cta: "Conhecer o projeto →"
+image: "fotos/2026-09-segundo-encontro-mentores-enamed.png"
+image-alt: "Registro de encontro on-line de mentores do Projeto ENAMED"
+---
+
+::: {.project-feature-image}
+![Encontro on-line de mentores do Projeto ENAMED](../fotos/2026-09-segundo-encontro-mentores-enamed.png){fig-alt="Montagem de capturas de tela de reuniões on-line realizadas por mentores do Projeto ENAMED"}
+:::
+
+O **Projeto ENAMED** reúne ações de acompanhamento acadêmico, orientação de estudos e preparação estratégica para o **Exame Nacional de Avaliação da Formação Médica**. A iniciativa compreende o exame como parte do processo formativo e busca apoiar estudantes no desenvolvimento contínuo de competências, habilidades e conhecimentos essenciais à prática médica.
+
+Em articulação com docentes, mentores e equipes pedagógicas, o projeto promove momentos de escuta, análise de desempenho, simulados, revisões e orientações direcionadas. Essas ações ajudam a identificar avanços e necessidades de aprendizagem, transformando dados de desempenho em estratégias concretas de apoio ao estudante.
+
+O trabalho dos mentores é central nesse percurso: aproxima o acompanhamento institucional da experiência individual de cada aluno, favorece a definição de prioridades e fortalece a autonomia para estudar. Ao combinar acompanhamento, prática avaliativa e devolutivas pedagógicas, o Projeto ENAMED contribui para uma preparação responsável, contínua e conectada à qualidade da formação médica.
+
+## Ações do Projeto ENAMED
+
+Esta ramificação reúne as ações do portfólio vinculadas ao Projeto ENAMED, incluindo mentorias, simulados, aulas preparatórias, orientações e reuniões de acompanhamento.
+
+{{< include ../generated/projeto-projeto-enamed.md >}}
+
+::: {.callout-note appearance="simple"}
+#### Referência institucional
+
+O projeto se orienta pela compreensão do ENAMED como instrumento nacional de avaliação das competências, habilidades e conhecimentos desenvolvidos na formação médica. Consulte o [Portal ENAMED da Afya](https://itajuba.afya.com.br/paginas/portal-enamed) e a página da [Plataforma ENAMED Afya](https://parnaiba.afya.com.br/noticias/plataforma-enamed-sua-preparacao-comeca-agora).
+:::

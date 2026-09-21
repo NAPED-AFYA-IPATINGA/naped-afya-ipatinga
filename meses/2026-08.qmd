@@ -6,9 +6,39 @@ description: "Ações do NAPED Afya Ipatinga em agosto de 2026."
 <div class="page-kicker">Linha do tempo · 2026</div>
 
 <div class="action-grid"><article class="action-card">
+  <a class="card-image" href="../acoes/2026-08-test-wiseness-enamed.html"><img src="../fotos/2026-08-test-wiseness-enamed.png" alt="Card da aula especial Test Wiseness, com a professora Letícia Guimarães" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">31/08/2026</div><span class="tag">Acompanhamento Acadêmico</span><span class="tag">Preparação ENAMED</span>
+  <h3><a href="../acoes/2026-08-test-wiseness-enamed.html">Aula especial Test Wiseness — Projeto ENAMED</a></h3><p>Aula com a Prof.ª Letícia Guimarães sobre estratégias para interpretar enunciados, analisar alternativas e resolver questões de prova.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-08-circuito-residencia-enamed.html"><img src="../fotos/2026-08-circuito-residencia-enamed.png" alt="Card do Circuito Residência Médica sobre preparação inteligente para ENAMED e residência médica" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">31/08/2026</div><span class="tag">Acompanhamento Acadêmico</span><span class="tag">Preparação ENAMED</span>
+  <h3><a href="../acoes/2026-08-circuito-residencia-enamed.html">Circuito Residência Médica — Preparação inteligente para ENAMED e residência</a></h3><p>Encontro especial com Carolina Silveira da Silva sobre preparação estratégica para o ENAMED e a residência médica.</p></div>
+</article>
+<article class="action-card">
   <a class="card-image" href="../acoes/2026-08-docencia-em-foco-ia-pesquisa.html"><img src="../fotos/2026-08-docencia-em-foco.jpg" alt="Arte da série Docência em Foco do NAPED Ipatinga com luminária, livros e materiais do mês" loading="lazy"></a>
   <div class="card-body"><div class="card-meta">20/08/2026</div><span class="tag">Formação Docente</span><span class="tag">Produção de Conhecimento</span>
   <h3><a href="../acoes/2026-08-docencia-em-foco-ia-pesquisa.html">Docência em Foco (Agosto) — IA em Pesquisas e Publicações Acadêmicas</a></h3><p>Edição de agosto da série Docência em Foco sobre o uso da Inteligência Artificial em pesquisas e publicações acadêmicas.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-08-aulao-enamed-saude-coletiva.html"><img src="../fotos/2026-08-aulao-enamed-saude-coletiva.png" alt="Card do Aulão ENAMED Saúde Coletiva sobre ética médica e declaração de óbito" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">11/08/2026</div><span class="tag">Acompanhamento Acadêmico</span><span class="tag">Preparação ENAMED</span>
+  <h3><a href="../acoes/2026-08-aulao-enamed-saude-coletiva.html">Aulão ENAMED — Saúde Coletiva</a></h3><p>Aulão preparatório para o ENAMED sobre ética médica e declaração de óbito, conduzido por Lucas Primo.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-08-atualizacao-edital-inep-49-enamed.html"><img src="../fotos/2026-08-atualizacao-edital-inep-49-enamed.png" alt="Comunicado sobre atualização do Edital Inep nº 49/2026 e as etapas do ENAMED" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">10/08/2026</div><span class="tag">Acompanhamento Acadêmico</span><span class="tag">Orientação Discente</span>
+  <h3><a href="../acoes/2026-08-atualizacao-edital-inep-49-enamed.html">Atualização do Edital Inep nº 49/2026 — ENAMED</a></h3><p>Orientação acadêmica sobre a republicação do Edital Inep nº 49/2026 e as duas etapas obrigatórias do ENAMED para estudantes de Medicina.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-08-terceiro-encontro-projeto-move.html"><img src="../fotos/2026-08-terceiro-encontro-move-card.png" alt="Convite para o terceiro encontro do Projeto MOVE — Professores em Movimento" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">08/08/2026</div><span class="tag">Formação Docente</span><span class="tag">Projetos Institucionais</span>
+  <h3><a href="../acoes/2026-08-terceiro-encontro-projeto-move.html">3º encontro e encerramento da turma 2026/1 — Projeto MOVE</a></h3><p>Encontro de encerramento da turma 2026/1 do Projeto MOVE, dedicado à socialização de estratégias ativas aplicadas nas práticas pedagógicas.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-08-melissa-selecao-sthem-2026.html"><img src="../fotos/2026-08-melissa-selecao-sthem-2026.png" alt="Card parabenizando a professora Melissa Araújo Ulhoa Quintão pela seleção para o STHEM 2026" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">01/08/2026</div><span class="tag">Formação Docente</span><span class="tag">Reconhecimento Acadêmico</span>
+  <h3><a href="../acoes/2026-08-melissa-selecao-sthem-2026.html">Prof.ª Melissa Araújo Ulhoa Quintão no STHEM 2026</a></h3><p>Seleção da Prof.ª Melissa Araújo Ulhoa Quintão para o Programa Educadores Multiplicadores do XIII Programa de Formação de Professores STHEM 2026.</p></div>
 </article>
 <article class="action-card">
   <a class="card-image" href="../acoes/2026-08-afya-summit-2026.html"><img src="../fotos/2026-08-afya-summit-2026.jpg" alt="Arte de divulgação da seleção de Kennya De Paula Alves Albéfaro e Fabio Araújo Gomes de Castro para o Afya Summit 2026" loading="lazy"></a>

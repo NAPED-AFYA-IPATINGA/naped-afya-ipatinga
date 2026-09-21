@@ -82,7 +82,7 @@ def project_records() -> list[dict]:
         data, _ = qmd_data(path)
         if not data.get("title") or not data.get("description"):
             fail(f"{path.relative_to(ROOT)} precisa de title e description.")
-        records.append({**data, "url": f"projetos/{path.stem}.html"})
+        records.append({**data, "source": path, "url": f"projetos/{path.stem}.html"})
     return records
 
 
@@ -154,6 +154,20 @@ description: "Ações do NAPED Afya Ipatinga em {MONTHS[month - 1]} de {year}."
         (MESES / filename).write_text(page, encoding="utf-8")
 
 
+def make_project_action_lists(records: list[dict], projects: list[dict]) -> None:
+    """Gera uma ramificação de ações para cada projeto publicado."""
+    for project in projects:
+        keys = {str(project["title"]).strip().casefold()}
+        if project.get("project-key"):
+            keys.add(str(project["project-key"]).strip().casefold())
+        related = [r for r in records if str(r.get("projeto") or "").strip().casefold() in keys]
+        if related:
+            content = '<div class="action-grid">' + "\n".join(action_card(r, PROJETOS) for r in related) + "</div>"
+        else:
+            content = '<div class="empty-state">Ainda não há ações vinculadas a este projeto.</div>'
+        write(f'projeto-{project["source"].stem}.md', content)
+
+
 def main() -> None:
     records = action_records()
     projects = project_records()
@@ -182,6 +196,7 @@ def main() -> None:
         sm = metrics(subset)
         write(filename, metric_grid(sm) + '<div class="action-grid">' + "\n".join(action_card(r, ROOT / "em-numeros") for r in subset) + "</div>")
     make_month_pages(records)
+    make_project_action_lists(records, projects)
     print(f"Gerados {len(records)} registros, {len(projects)} projetos e {len(by_month)} páginas mensais.")
 
 

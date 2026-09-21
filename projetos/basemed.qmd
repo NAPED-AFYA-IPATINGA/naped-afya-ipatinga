@@ -1,6 +1,7 @@
 ---
 title: "BASEMED — Construindo bases para avançar na Medicina"
 description: "Projeto da Coordenação Acadêmica e do NAPED para acolher, nivelar e integrar estudantes ingressantes do primeiro período de Medicina."
+project-key: "Projeto BASEMED"
 label: "Integração acadêmica"
 cta: "Conhecer o projeto →"
 image: "fotos/basemed.png"
@@ -16,3 +17,9 @@ O **BASEMED** é um projeto desenvolvido pela **Coordenação Acadêmica em parc
 Com atenção especial aos **Sistemas Orgânicos Integrados (SOI)** — eixo que costuma representar um desafio inicial para os ingressantes — o projeto propõe encontros semanais em pequenos grupos, destinados aos estudantes matriculados no primeiro período. As atividades favorecem a revisão e a consolidação de conteúdos fundamentais, a troca de experiências entre alunos e docentes e o desenvolvimento progressivo da autonomia para aprender.
 
 Ao reconhecer precocemente dúvidas e dificuldades próprias da transição para o ensino superior, o BASEMED contribui para reduzir fragilidades iniciais e ampliar a segurança dos estudantes em sua jornada. Assim, transforma acolhimento e acompanhamento pedagógico em bases sólidas para os próximos desafios da formação médica.
+
+## Ações do Projeto BASEMED
+
+Esta ramificação reúne as ações do portfólio vinculadas ao Projeto BASEMED.
+
+{{< include ../generated/projeto-basemed.md >}}

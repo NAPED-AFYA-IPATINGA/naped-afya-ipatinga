@@ -1,0 +1,36 @@
+---
+title: "Atualização do Edital Inep nº 49/2026 — ENAMED"
+description: "Orientação acadêmica sobre a republicação do Edital Inep nº 49/2026 e as duas etapas obrigatórias do ENAMED para estudantes de Medicina."
+date: 2026-08-10
+categories: ["Acompanhamento Acadêmico", "Orientação Discente"]
+status: "publicado"
+image: "fotos/2026-08-atualizacao-edital-inep-49-enamed.png"
+image-alt: "Comunicado sobre atualização do Edital Inep nº 49/2026 e as etapas do ENAMED"
+participantes: null
+horas: null
+publico: "Estudantes de Medicina"
+cursos: ["Medicina"]
+local: "Comunicação institucional"
+projeto: "Projeto ENAMED"
+ordem: 22
+---
+
+::: {.acao-figura}
+![Comunicado sobre a atualização do Edital Inep nº 49/2026](../fotos/2026-08-atualizacao-edital-inep-49-enamed.png){#fig-atualizacao-edital-enamed fig-alt="Arte informativa sobre o Edital Inep nº 49/2026, com duas etapas do ENAMED para estudantes no 8º e no 12º períodos"}
+:::
+
+## Regras atualizadas para participação no ENAMED
+
+O **Edital Inep nº 49/2026**, republicado em agosto, trouxe atualizações relevantes para a participação de estudantes de Medicina no ENAMED. A principal mudança é a organização do exame em **duas etapas obrigatórias**, de acordo com o momento da trajetória acadêmica: a primeira ao final do quarto ano e a segunda ao final do sexto ano da graduação.
+
+Na edição de 2026, participam da primeira etapa os estudantes que estiverem matriculados no **8º período** na data da prova; a segunda etapa é destinada aos estudantes do **12º período**. A atualização também reforça a importância de acompanhar a condição de habilitação: estudantes no 7º ou no 11º períodos na data do exame poderão ser registrados como não habilitados e deverão ser reinscritos em edição futura quando atenderem aos critérios.
+
+Os resultados têm finalidades distintas. A primeira etapa gera um boletim simplificado, sem indicação de nível de proficiência e sem uso em processos seletivos de residência médica de acesso direto. Já o resultado da segunda etapa, para o concluinte habilitado, passa a constar no histórico escolar, conforme as diretrizes divulgadas pelo Inep.
+
+Como ação do **Projeto ENAMED**, esta atualização busca apoiar os estudantes na leitura cuidadosa das regras e no acompanhamento das datas e procedimentos previstos. Manter-se informado é parte essencial de uma preparação organizada e responsável para o exame.
+
+::: {.callout-note appearance="simple"}
+#### Fonte oficial
+
+As orientações foram baseadas na notícia do Inep sobre a [republicação do Edital nº 49/2026](https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enamed/inep-atualiza-regras-do-enade-de-medicina-e-adequa-o-enamed-ao-regime-semestral) e nas [perguntas frequentes sobre o ENAMED](https://www.gov.br/inep/pt-br/acesso-a-informacao/perguntas-frequentes/exame-nacional-de-avaliacao-da-formacao-medica-enamed). Para situações individuais, os estudantes devem consultar o edital e os canais oficiais da instituição.
+:::

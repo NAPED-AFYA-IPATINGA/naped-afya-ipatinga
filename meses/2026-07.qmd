@@ -21,6 +21,11 @@ description: "Ações do NAPED Afya Ipatinga em julho de 2026."
   <h3><a href="../acoes/2026-07-oficina-oste-sdd.html">Oficina OSTE — Semana de Desenvolvimento Docente</a></h3><p>Oficina com a metodologia OSTE (Objective Structured Teaching Encounters) na SDD da Afya Ipatinga, com simulação e feedback estruturado para docentes.</p></div>
 </article>
 <article class="action-card">
+  <a class="card-image" href="../acoes/2026-07-primeiro-simulado-trajetoria-enamed.html"><img src="../fotos/2026-07-simulado-trajetoria-enamed-01.png" alt="Estudantes realizando o primeiro simulado pós-férias do programa Trajetória ENAMED" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">01/07/2026</div><span class="tag">Acompanhamento Acadêmico</span><span class="tag">Preparação ENAMED</span>
+  <h3><a href="../acoes/2026-07-primeiro-simulado-trajetoria-enamed.html">Primeiro simulado pós-férias — Trajetória ENAMED</a></h3><p>Realização do primeiro simulado pós-férias do programa Trajetória ENAMED, voltado ao acompanhamento da evolução acadêmica e à preparação estratégica dos estudantes.</p></div>
+</article>
+<article class="action-card">
   <a class="card-image" href="../acoes/2026-07-sdd-semana-desenvolvimento-docente.html"><img src="../fotos/2026-07-sdd-semana-desenvolvimento-docente.jpg" alt="Foto coletiva da equipe docente e do NAPED na Semana de Desenvolvimento Docente da Afya Ipatinga" loading="lazy"></a>
   <div class="card-body"><div class="card-meta">01/07/2026</div><span class="tag">Formação Docente</span><span class="tag">Comunicação Institucional</span>
   <h3><a href="../acoes/2026-07-sdd-semana-desenvolvimento-docente.html">SDD — Semana de Desenvolvimento Docente</a></h3><p>Identidade visual e programação da SDD 2026.1, com cards informativos da agenda, horários, atividades e responsáveis.</p></div>

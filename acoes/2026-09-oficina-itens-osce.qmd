@@ -1,0 +1,36 @@
+---
+title: "Descomplicando a Avaliação — Oficina prática de itens e OSCE"
+description: "Formação docente para qualificar a elaboração de itens avaliativos e o uso do OSCE na avaliação por competências em Medicina."
+date: 2026-09-24
+categories: ["Formação Docente", "Avaliação da Aprendizagem"]
+status: "publicado"
+image: "fotos/2026-09-oficina-itens-osce.jpg"
+image-alt: "Card da oficina Descomplicando a Avaliação: Oficina Prática de Itens e OSCE"
+participantes: null
+horas: null
+publico: "Docentes"
+cursos: ["Medicina"]
+local: "Laboratório de informática"
+projeto: "Formação docente em avaliação"
+ordem: 13
+---
+
+::: {.acao-figura}
+![Card da oficina Descomplicando a Avaliação: Oficina Prática de Itens e OSCE](../fotos/2026-09-oficina-itens-osce.jpg){#fig-oficina-itens-osce fig-alt="Arte do NAPED Afya para a oficina Descomplicando a Avaliação, com encontros em 24 e 25 de setembro no laboratório de informática"}
+:::
+
+## Avaliar para desenvolver competências
+
+Nos dias 24 e 25 de setembro de 2026, o NAPED realizará a oficina **Descomplicando a Avaliação: Oficina Prática de Itens e OSCE**, no laboratório de informática. A formação docente propõe um espaço de estudo e elaboração colaborativa de instrumentos avaliativos alinhados aos objetivos de aprendizagem do curso de Medicina.
+
+O **OSCE** (*Objective Structured Clinical Examination*, ou Exame Clínico Objetivo Estruturado) organiza a avaliação em estações com tarefas clínicas delimitadas, critérios previamente definidos e situações padronizadas. Essa estrutura permite observar, de forma planejada, a mobilização integrada de conhecimentos, habilidades e atitudes — como comunicação, raciocínio clínico, exame físico, tomada de decisão e profissionalismo.
+
+Na formação médica, o OSCE tem relevância metodológica por aproximar a avaliação de contextos de prática, sem abrir mão da consistência entre os participantes. Quando as estações e os itens são construídos a partir dos resultados de aprendizagem, com critérios claros e devolutivas oportunas, a avaliação deixa de ser apenas um registro de desempenho e passa a orientar a aprendizagem, a reflexão e o aprimoramento contínuo.
+
+A oficina também abordará a elaboração de itens avaliativos e o planejamento de estações, favorecendo escolhas coerentes com as competências que se deseja desenvolver. A proposta reforça que avaliações bem desenhadas ajudam a qualificar o ensino, oferecem evidências mais justas do progresso dos estudantes e contribuem para uma formação comprometida com o cuidado seguro e centrado na pessoa.
+
+::: {.callout-note appearance="simple"}
+#### Referências de apoio
+
+A abordagem considera recomendações internacionais de alinhamento entre resultados de aprendizagem, avaliação, garantia da qualidade e feedback oportuno. Consulte a [AMEE — Criterion 5: Assessment, monitoring and evaluation](https://courses.amee.org/mod/book/view.php?chapterid=1179&id=5195&lang=tl) e o material da [AAMC sobre uso do OSCE em cenários clínicos padronizados](https://www.aamc.org/media/67341/download).
+:::

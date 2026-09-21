@@ -6,9 +6,19 @@ description: "Ações do NAPED Afya Ipatinga em setembro de 2026."
 <div class="page-kicker">Linha do tempo · 2026</div>
 
 <div class="action-grid"><article class="action-card">
+  <a class="card-image" href="../acoes/2026-09-oficina-itens-osce.html"><img src="../fotos/2026-09-oficina-itens-osce.jpg" alt="Card da oficina Descomplicando a Avaliação: Oficina Prática de Itens e OSCE" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">24/09/2026</div><span class="tag">Formação Docente</span><span class="tag">Avaliação da Aprendizagem</span>
+  <h3><a href="../acoes/2026-09-oficina-itens-osce.html">Descomplicando a Avaliação — Oficina prática de itens e OSCE</a></h3><p>Formação docente para qualificar a elaboração de itens avaliativos e o uso do OSCE na avaliação por competências em Medicina.</p></div>
+</article>
+<article class="action-card">
   <a class="card-image" href="../acoes/2026-09-capacitacao-soi-novas-matrizes-she.html"><img src="../fotos/2026-09-capacitacao-soi-naped.png" alt="Card da capacitação SOI para novas matrizes SHE, exclusiva para os times de NAPED" loading="lazy"></a>
   <div class="card-body"><div class="card-meta">22/09/2026</div><span class="tag">Formação Docente</span><span class="tag">Gestão Pedagógica</span>
   <h3><a href="../acoes/2026-09-capacitacao-soi-novas-matrizes-she.html">Capacitação SOI para novas matrizes SHE</a></h3><p>Formação on-line exclusiva para o time NAPED, voltada ao alinhamento sobre o SOI nas novas matrizes SHE.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-09-xxii-jornada-academica-saude.html"><img src="../fotos/2026-09-xxii-jornada-academica-saude.png" alt="Card da XXII Jornada Acadêmica da Saúde e XII Congresso de Atualidades Médicas do Vale do Aço" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">21/09/2026</div><span class="tag">Eventos Acadêmicos</span><span class="tag">Formação em Saúde</span>
+  <h3><a href="../acoes/2026-09-xxii-jornada-academica-saude.html">XXII Jornada Acadêmica da Saúde</a></h3><p>Início da XXII Jornada Acadêmica da Saúde e do XII Congresso de Atualidades Médicas do Vale do Aço, com oficinas práticas e integração acadêmica.</p></div>
 </article>
 <article class="action-card">
   <a class="card-image" href="../acoes/2026-09-reuniao-alinhamento-equipe-naped.html"><img src="../fotos/2026-09-reuniao-alinhamento-naped.png" alt="Equipe do NAPED reunida em sala para alinhamento institucional" loading="lazy"></a>
@@ -29,4 +39,49 @@ description: "Ações do NAPED Afya Ipatinga em setembro de 2026."
   <a class="card-image" href="../acoes/2026-09-vitrine-soi-participacao-nacional.html"><img src="../fotos/2026-09-vitrine-soi-01.jpg" alt="Apresentação on-line sobre Biologia Tangível: o Laboratório em 3D, durante a Vitrine do SOI" loading="lazy"></a>
   <div class="card-body"><div class="card-meta">11/09/2026</div><span class="tag">Formação Docente</span><span class="tag">Sistemas Orgânicos Integrados</span>
   <h3><a href="../acoes/2026-09-vitrine-soi-participacao-nacional.html">Participação nacional — Vitrine do SOI</a></h3><p>Participação da Afya Ipatinga em encontro nacional que inaugurou a Vitrine do SOI, com demonstração de modelos e jogos aplicados às estações de laboratório.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-09-atualizacoes-atenahub.html"><img src="../fotos/2026-09-atualizacoes-atenahub-card.png" alt="Card Atualizações do AtenaHub, realizado em 8 de setembro de 2026" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">08/09/2026</div><span class="tag">Formação Docente</span><span class="tag">Tecnologias Educacionais</span>
+  <h3><a href="../acoes/2026-09-atualizacoes-atenahub.html">Atualizações do AtenaHub</a></h3><p>Ação de formação docente para apresentar novidades, melhorias e possibilidades pedagógicas da plataforma AtenaHub.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-09-ultimo-simulado-enamed.html"><img src="../fotos/2026-09-ultimo-simulado-enamed.png" alt="Informativo do último simulado ENAMED antes da prova oficial" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">02/09/2026</div><span class="tag">Acompanhamento Acadêmico</span><span class="tag">Preparação ENAMED</span>
+  <h3><a href="../acoes/2026-09-ultimo-simulado-enamed.html">Último simulado ENAMED antes da prova oficial</a></h3><p>Simulado preparatório para estudantes do 11º e 12º períodos, realizado como etapa final antes da prova oficial do ENAMED 2026.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-09-elaboracao-cadastro-itens-pos-provas.html"><img src="../fotos/2026-09-elaboracao-cadastro-itens-pos-provas.png" alt="Convite para formação sobre elaboração, cadastro de itens, aplicação e pós-provas" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">02/09/2026</div><span class="tag">Formação Docente</span><span class="tag">Avaliação da Aprendizagem</span>
+  <h3><a href="../acoes/2026-09-elaboracao-cadastro-itens-pos-provas.html">Elaboração, cadastro de itens, aplicação e pós-provas</a></h3><p>Formação docente sobre as etapas de elaboração, cadastro, aplicação e análise pós-prova de instrumentos avaliativos.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-09-reuniao-quinzenal-alinhamento-naped.html"><img src="../fotos/2026-09-reuniao-quinzenal-alinhamento-naped.png" alt="Equipe NAPED reunida para alinhamento quinzenal" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">01/09/2026</div><span class="tag">Gestão Pedagógica</span><span class="tag">Comunicação Institucional</span>
+  <h3><a href="../acoes/2026-09-reuniao-quinzenal-alinhamento-naped.html">Reunião quinzenal de alinhamento do NAPED</a></h3><p>Encontro quinzenal da equipe NAPED para alinhamento, planejamento e acompanhamento das ações pedagógicas.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-09-atendimento-canvas-equipe-naped.html"><img src="../fotos/2026-09-atendimento-canvas-equipe-naped.png" alt="Equipe NAPED reunida em atendimento sobre o Canvas" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">01/09/2026</div><span class="tag">Gestão Pedagógica</span><span class="tag">Tecnologias Educacionais</span>
+  <h3><a href="../acoes/2026-09-atendimento-canvas-equipe-naped.html">Atendimento ao Canvas com a equipe NAPED</a></h3><p>Comprovação de atendimento e orientação à equipe acadêmica no uso do Canvas, com apoio do NAPED.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-09-mapeamento-olhar-docente-2026-2.html"><img src="../fotos/2026-09-mapeamento-olhar-docente-01.png" alt="Slides da apresentação do Mapeamento Olhar Docente 2026.2" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">01/09/2026</div><span class="tag">Formação Docente</span><span class="tag">Gestão Pedagógica</span>
+  <h3><a href="../acoes/2026-09-mapeamento-olhar-docente-2026-2.html">Mapeamento Olhar Docente 2026.2</a></h3><p>Apresentação do diagnóstico institucional sobre desafios docentes e diretrizes de apoio pedagógico para o semestre 2026.2.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-09-reuniao-comite-enamed.html"><img src="../fotos/2026-09-reuniao-comite-enamed.png" alt="Integrantes do Comitê ENAMED reunidos na Afya Ipatinga" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">01/09/2026</div><span class="tag">Acompanhamento Acadêmico</span><span class="tag">Gestão Pedagógica</span>
+  <h3><a href="../acoes/2026-09-reuniao-comite-enamed.html">Reunião do Comitê ENAMED</a></h3><p>Encontro do Comitê ENAMED para discutir, planejar e alinhar as ações institucionais de acompanhamento e preparação acadêmica.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-09-segundo-encontro-mentores-enamed.html"><img src="../fotos/2026-09-segundo-encontro-mentores-enamed.png" alt="Registro de reunião on-line de mentores do Projeto ENAMED" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">01/09/2026</div><span class="tag">Acompanhamento Acadêmico</span><span class="tag">Formação Docente</span>
+  <h3><a href="../acoes/2026-09-segundo-encontro-mentores-enamed.html">2º encontro de mentores — Projeto ENAMED</a></h3><p>Reunião on-line de mentores do Projeto ENAMED para alinhar o acompanhamento acadêmico e as estratégias de apoio aos estudantes.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-09-participacao-nova-matriz-2027.html"><img src="../fotos/2026-09-nova-matriz-2027-apresentacao.jpg" alt="Apresentação da nova matriz curricular Medicina Afya AI First" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">01/09/2026</div><span class="tag">Participação Institucional</span><span class="tag">Formação Docente</span>
+  <h3><a href="../acoes/2026-09-participacao-nova-matriz-2027.html">Participação do NAPED — Nova Matriz Curricular Medicina Afya 2027</a></h3><p>Participação de integrantes do NAPED no encontro de apresentação da nova matriz curricular de Medicina Afya para 2027.</p></div>
 </article></div>

@@ -1,0 +1,30 @@
+---
+title: "XXII Jornada Acadêmica da Saúde"
+description: "Início da XXII Jornada Acadêmica da Saúde e do XII Congresso de Atualidades Médicas do Vale do Aço, com oficinas práticas e integração acadêmica."
+date: 2026-09-21
+categories: ["Eventos Acadêmicos", "Formação em Saúde"]
+status: "publicado"
+image: "fotos/2026-09-xxii-jornada-academica-saude.png"
+image-alt: "Card da XXII Jornada Acadêmica da Saúde e XII Congresso de Atualidades Médicas do Vale do Aço"
+participantes: null
+horas: null
+publico: "Comunidade acadêmica"
+cursos: ["Medicina"]
+local: "Afya Ipatinga"
+projeto: "Jornada Acadêmica da Saúde"
+ordem: 17
+---
+
+::: {.acao-figura}
+![Card da XXII Jornada Acadêmica da Saúde e XII Congresso de Atualidades Médicas do Vale do Aço](../fotos/2026-09-xxii-jornada-academica-saude.png){#fig-jornada-academica-saude fig-alt="Arte da XXII Jornada Acadêmica da Saúde com registros de oficinas práticas realizadas na Afya Ipatinga"}
+:::
+
+## Primeiro dia de aprendizagem e integração
+
+A Afya Ipatinga iniciou a **XXII Jornada Acadêmica da Saúde** e o **XII Congresso de Atualidades Médicas do Vale do Aço**, reunindo a comunidade acadêmica em uma programação voltada ao aprendizado, à prática e à integração. O primeiro dia foi marcado por oficinas que aproximam os estudantes de situações relevantes para a formação e para o cuidado em saúde.
+
+No período da manhã, foram realizadas sessões sobre prescrição em Pediatria e treinamento de imobilizações ortopédicas. As atividades ofereceram oportunidades de exercitar conhecimentos e habilidades em um ambiente orientado, fortalecendo a articulação entre fundamentos teóricos e práticas clínicas.
+
+À tarde, a programação segue com oficinas de hematologia, interpretação do eletrocardiograma na dor torácica, acesso venoso guiado por ultrassonografia, trabalho de parto, biossensores e outros temas. A diversidade de abordagens amplia o contato dos participantes com áreas e procedimentos que integram o cotidiano profissional.
+
+O encerramento do dia contará com a Abertura Oficial da Jornada. A iniciativa reafirma o compromisso da Afya Ipatinga e do NAPED com experiências acadêmicas que promovem participação, colaboração e formação em saúde orientada pelas necessidades da prática.

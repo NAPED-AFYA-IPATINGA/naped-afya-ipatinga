@@ -1,14 +1,39 @@
 ---
 title: "Equipe"
-description: "Equipe do NAPED Afya Ipatinga."
+description: "Equipe do NAPED Afya Ipatinga e minicurrículos profissionais baseados em fontes públicas."
 ---
 
 <div class="page-kicker">Pessoas</div>
 
-<div class="team-grid">
-  <article class="team-card"><span>Coordenação</span><h2>Marina Almeida</h2><p>Pedagoga e responsável pela articulação das ações de desenvolvimento docente.</p></article>
-  <article class="team-card"><span>Formação docente</span><h2>Rafael Moreira</h2><p>Professor e consultor pedagógico nas áreas de metodologias ativas e avaliação.</p></article>
-  <article class="team-card"><span>Experiência discente</span><h2>Camila Nunes</h2><p>Profissional de apoio aos projetos de aprendizagem, escuta e acompanhamento acadêmico.</p></article>
+O NAPED é formado por profissionais que articulam coordenação, formação docente, apoio pedagógico e tecnologias educacionais. Os nomes abaixo foram transcritos do card institucional enviado para esta atualização; os minicurrículos sintetizam informações públicas consultadas em 21 de setembro de 2026.
+
+## Equipe atual
+
+::: {.team-grid}
+<article class="team-card"><span>Coordenadora do NAPED</span><h2>Cristina Gonzaga</h2><p><strong>Maria Cristina Almeida Duarte Gonzaga</strong> é graduada em Letras e Pedagogia, com especialização em Alfabetização e Letramento e pós-graduação em Psicopedagogia. Coordena o NAPED, orienta professores no planejamento de aulas e avaliações e promove ações de formação e troca de experiências.</p></article>
+<article class="team-card team-card-rafaela"><span>Docente</span><h2>Rafaela Drumond</h2><p><strong>Rafaela Drumond Araújo</strong> é graduada em Medicina pela UFMG, especialista em Pediatria e professora da Afya Ipatinga. Atua como pediatra geral e desenvolve atividades de formação profissional, monitoria e liderança. É pós-graduanda em Saúde da Criança e do Adolescente.</p></article>
+<article class="team-card"><span>Docente</span><h2>Jaqueline Melo</h2><p><strong>Jaqueline Melo Soares</strong> é graduada em Medicina Veterinária pela UFU, mestre em Ciências Veterinárias e doutora em Ciências pela UFMG. É professora da Afya Ipatinga, coordena os eixos Sistemas Orgânicos Integrados I e II, orienta pesquisas e atua na implementação de metodologias ativas.</p></article>
+<article class="team-card"><span>Docente</span><h2>Marita Novais</h2><p><strong>Marita de Novais Costa Salles de Almeida</strong> é graduada em Medicina e mestre em Ciências da Saúde — Infectologia e Medicina Tropical pela UFMG. Possui atuação em Hematologia e Hemoterapia, trabalha como médica clínica e hematologista e participa de atividades de ensino, pesquisa e extensão na Afya Ipatinga.</p></article>
+<article class="team-card"><span>Docente</span><h2>Maria Luísa</h2><p><strong>Maria Luísa Franco de Salles</strong> é graduada em Medicina pelo Centro Universitário do Espírito Santo (2016), especialista em Medicina de Família e Comunidade e professora da Afya Ipatinga. Possui residência médica e especialização em Preceptoria de Residência, integrando cuidado, ensino e acompanhamento acadêmico.</p></article>
+<article class="team-card"><span>Docente</span><h2>Tatiane Araújo</h2><p><strong>Tatiane Araújo</strong> é graduada em Ciências Biológicas e Nutrição, mestre e doutora em Ciência e Tecnologia de Alimentos pela UFV. Possui especializações em Microbiologia, Metodologias Ativas e TDICs e Nutrição Clínica. Atua em microbiologia de alimentos, docência básica e superior e orientação de trabalhos acadêmicos.</p></article>
+<article class="team-card"><span>Docente</span><h2>Fábio Araújo</h2><p><strong>Fábio Araújo Gomes de Castro</strong> é graduado em Medicina pela UFMG, especialista em Medicina de Família e Comunidade e em Preceptoria, além de mestre em Ciências da Saúde pela UFV. É professor da Afya, preceptor de residência médica e orientador de projetos de extensão.</p></article>
+<article class="team-card"><span>Técnica educacional</span><h2>Amanda Kellen</h2><p><strong>Amanda Kellen</strong> atua como técnica educacional e oferece suporte em tecnologias educacionais, plataformas digitais e processos docentes e acadêmicos. Apoia as equipes na organização das rotinas e no uso dos recursos institucionais.</p></article>
 </div>
 
-<div class="empty-state"><strong>Perfis aguardando revisão.</strong> A página institucional contém nomes históricos; este portfólio só exibirá perfis confirmados para a versão de 2026.</div>
+## Outros membros
+
+<div class="empty-state"><strong>Espaço reservado.</strong> Esta seção será preenchida posteriormente com os nomes e minicurrículos das pessoas que já atuaram junto ao NAPED.</div>
+
+## Fontes e critérios de conferência
+
+- [Portfólio NAPED da Afya Ipatinga](https://ipatinga.afya.com.br/institucional/portifolio-naped), usado para a descrição institucional da coordenação e das atribuições do núcleo.
+- [Página de transparência da Afya Ipatinga](https://ipatinga.afya.com.br/institucional/transparencia), usada para conferir nomes completos, titulação e áreas do corpo docente.
+- [Perfil público de Rafaela Drumond Araújo com dados coletados do Lattes](https://www.escavador.com/sobre/3823102/rafaela-drumond-araujo).
+- [Perfil público de Jaqueline Melo Soares com dados coletados do Lattes](https://www.escavador.com/sobre/836469/jaqueline-melo-soares).
+- [Perfil público de Fábio Araújo Gomes de Castro com dados coletados do Lattes](https://www.escavador.com/sobre/378646593/fabio-araujo-gomes-de-castro).
+- [Perfil público de Maria Luísa Franco de Salles](https://agendarconsulta.com/perfil/dr-maria-luisa-franco-de-salles-1730319255).
+- [Dissertação de Marita de Novais Costa Salles de Almeida no repositório da UFMG](https://repositorio.ufmg.br/server/api/core/bitstreams/dc6d62ec-51de-490f-98ac-3f5d4f135dd0/content).
+- [Perfil profissional público de Amanda Kellen na Afya Ipatinga](https://br.linkedin.com/in/amanda-kellen-1989232b5) e [perfil profissional público de Tatiane Araújo](https://br.linkedin.com/in/dratatianearaujo), consultados apenas como pistas de identificação, não como substitutos do Lattes.
+- Informações complementares do minicurrículo de Tatiane Araújo fornecidas pela equipe do NAPED.
+
+Os dados curriculares podem ser atualizados pelos próprios pesquisadores. O perfil de Amanda Kellen ainda deve receber o respectivo link Lattes ou a confirmação do nome completo antes de uma versão institucional definitiva.

@@ -1,0 +1,28 @@
+---
+title: "Último simulado ENAMED antes da prova oficial"
+description: "Simulado preparatório para estudantes do 11º e 12º períodos, realizado como etapa final antes da prova oficial do ENAMED 2026."
+date: 2026-09-02
+categories: ["Acompanhamento Acadêmico", "Preparação ENAMED"]
+status: "publicado"
+image: "fotos/2026-09-ultimo-simulado-enamed.png"
+image-alt: "Informativo do último simulado ENAMED antes da prova oficial"
+participantes: null
+horas: null
+publico: "Estudantes de Medicina do 11º e 12º períodos"
+cursos: ["Medicina"]
+local: "Afya Ipatinga"
+projeto: "Projeto ENAMED"
+ordem: 27
+---
+
+::: {.acao-figura}
+![Informativo do último simulado ENAMED antes da prova oficial](../fotos/2026-09-ultimo-simulado-enamed.png){#fig-ultimo-simulado-enamed fig-alt="Arte do simulado ENAMED para estudantes do 11º e 12º períodos, realizado em 2 de setembro de 2026"}
+:::
+
+## Etapa final de preparação
+
+O **último simulado ENAMED antes da prova oficial** foi realizado como uma oportunidade de preparação para os estudantes do 11º e 12º períodos. A atividade buscou aproximar os participantes das condições de prova e apoiar a organização dos estudos na reta final.
+
+Além de revisar conteúdos, o simulado favoreceu a experiência de gestão do tempo, concentração e tomada de decisão diante das questões. A vivência em um formato próximo ao da avaliação permite que os estudantes reconheçam seus pontos fortes, identifiquem temas que ainda demandam atenção e ajustem estratégias de estudo.
+
+No Projeto ENAMED, os simulados constituem instrumentos de acompanhamento e aprendizagem. Eles oferecem dados e experiências que ajudam cada estudante a transformar a preparação em um percurso mais consciente, estruturado e alinhado aos desafios da formação médica.

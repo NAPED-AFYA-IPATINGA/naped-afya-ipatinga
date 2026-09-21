@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: _site
-  pre-render: python3 scripts/preparar.py
+  pre-render: python scripts/preparar.py
   render:
     - "*.qmd"
     - "acoes/*.qmd"
@@ -27,8 +27,16 @@ website:
         text: Ações
       - href: meses.qmd
         text: Meses
-      - href: projetos.qmd
-        text: Projetos
+      - text: Projetos
+        menu:
+          - href: projetos.qmd
+            text: Todos os projetos
+          - href: projetos/basemed.qmd
+            text: Projeto BASEMED
+          - href: projetos/projeto-move.qmd
+            text: Projeto MOVE
+          - href: projetos/projeto-enamed.qmd
+            text: Projeto ENAMED
       - href: equipe.qmd
         text: Equipe
       - href: resultados.qmd
