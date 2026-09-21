@@ -1,0 +1,16 @@
+---
+title: "Livro — Metodologias Ativas no Ensino Superior"
+description: "Participação da Afya Ipatinga na publicação sobre práticas pedagógicas de sucesso no ensino superior."
+label: "Produção acadêmica"
+cta: "Conhecer publicação →"
+image: "fotos/livro-metodologias-ativas-ensino-superior.png"
+image-alt: "Equipe da Afya Ipatinga reunida com exemplares do livro Metodologias Ativas no Ensino Superior"
+---
+
+::: {.project-feature-image}
+![Equipe da Afya Ipatinga com exemplares do livro *Metodologias Ativas no Ensino Superior*](../fotos/livro-metodologias-ativas-ensino-superior.png){fig-alt="Cinco integrantes da equipe da Afya Ipatinga reunidos; três deles seguram exemplares do livro Metodologias Ativas no Ensino Superior"}
+:::
+
+A nossa IES está presente no livro *METODOLOGIAS ATIVAS NO ENSINO SUPERIOR: ESTUDOS CONTEMPORÂNEOS AFYA EDUCACIONAL*. A publicação resulta de um esforço coletivo do NAPED, em parceria com os docentes, e reúne práticas pedagógicas de sucesso desenvolvidas em nossas instituições. Além disso, registra de forma científica a nossa filosofia pedagógica voltada para os processos de ensino-aprendizagem na graduação.
+
+Destacamos a participação de nossos docentes no *CAPÍTULO 12* – "Construção e uso de estruturas 3D de proteínas como estratégia de um ensino criativo de bioquímica no curso de Medicina", de autoria de Analina Furtado Valadão, Jaqueline Melo Soares, Ana Carolina Vale Campos Lisbôa, com início na página 188.
