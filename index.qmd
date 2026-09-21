@@ -10,8 +10,6 @@ title-block: false
   <p class="lead-copy">Um espaço para reunir ações, projetos, evidências e resultados do Núcleo de Apoio Pedagógico e Experiência Docente em Ipatinga, Minas Gerais.</p>
 </div>
 
-<div class="demo-banner"><strong>Ambiente demonstrativo.</strong> Ações, nomes, números e imagens abaixo são fictícios e existem apenas para visualizar a estrutura. Serão substituídos pelo conteúdo aprovado do NAPED Afya Ipatinga.</div>
-
 ## Resultados em destaque
 
 {{< include generated/home.md >}}

@@ -7,6 +7,26 @@ description: "Evidências públicas das ações do NAPED Afya Ipatinga."
 
 Esta seção organizará fotografias, materiais e documentos **autorizados para publicação pública**, ligados às ações e projetos correspondentes. Materiais internos não serão incluídos no repositório público.
 
-<div class="demo-banner"><strong>Exemplos fictícios.</strong> Esta organização ilustra como evidências públicas serão associadas ao acervo real.</div>
-
 {{< include generated/comprovacoes.md >}}
+
+## SDD — Listas de presença de 01/07/2026
+
+Registros de participação da Semana de Desenvolvimento Docente realizada em 01/07/2026. Selecione uma imagem para consultar o documento em tamanho ampliado.
+
+::: {.attendance-grid}
+[![Lista de presença da SDD de 01/07/2026 — documento 1](fotos/sdd-2026-07-01-lista-presenca-01.png)](fotos/sdd-2026-07-01-lista-presenca-01.png){.attendance-document}
+
+[![Lista de presença da SDD de 01/07/2026 — documento 2](fotos/sdd-2026-07-01-lista-presenca-02.png)](fotos/sdd-2026-07-01-lista-presenca-02.png){.attendance-document}
+
+[![Lista de presença da SDD de 01/07/2026 — documento 3](fotos/sdd-2026-07-01-lista-presenca-03.png)](fotos/sdd-2026-07-01-lista-presenca-03.png){.attendance-document}
+
+[![Lista de presença da SDD de 01/07/2026 — documento 4](fotos/sdd-2026-07-01-lista-presenca-04.png)](fotos/sdd-2026-07-01-lista-presenca-04.png){.attendance-document}
+
+[![Lista de presença da SDD de 01/07/2026 — documento 5](fotos/sdd-2026-07-01-lista-presenca-05.png)](fotos/sdd-2026-07-01-lista-presenca-05.png){.attendance-document}
+
+[![Lista de presença da SDD de 01/07/2026 — documento 6](fotos/sdd-2026-07-01-lista-presenca-06.png)](fotos/sdd-2026-07-01-lista-presenca-06.png){.attendance-document}
+
+[![Lista de presença da SDD de 01/07/2026 — documento 7](fotos/sdd-2026-07-01-lista-presenca-07.png)](fotos/sdd-2026-07-01-lista-presenca-07.png){.attendance-document}
+
+[![Lista de presença da SDD de 01/07/2026 — documento 8](fotos/sdd-2026-07-01-lista-presenca-08.png)](fotos/sdd-2026-07-01-lista-presenca-08.png){.attendance-document}
+:::

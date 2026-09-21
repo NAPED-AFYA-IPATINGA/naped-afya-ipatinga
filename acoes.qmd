@@ -5,8 +5,6 @@ description: "Acervo de ações do NAPED Afya Ipatinga em 2026."
 
 <div class="page-kicker">Acervo · 2026</div>
 
-As ações abaixo formam uma demonstração visual do acervo. Cada cartão vem de um arquivo próprio em `acoes/` e será substituído pelo registro aprovado correspondente.
-
 {{< include generated/acoes.md >}}
 
 ## Como o acervo será organizado

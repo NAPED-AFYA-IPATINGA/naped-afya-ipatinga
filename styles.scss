@@ -135,12 +135,22 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 .month-card:hover { color:$ink; border-color:#e7a5c9; }
 .month-card strong { font: 700 1.4rem Georgia, serif; }.month-card span { color:$muted; margin-top:.35rem; }.month-card b { color:$brand-accent; margin-top:auto; align-self:flex-end; }
 .project-card, .evidence-card, .team-card { padding: 1.4rem; }.project-card span,.evidence-card span,.team-card span { color:$brand-accent; font-weight:800; font-size:.76rem; letter-spacing:.09em; text-transform:uppercase; }
+.project-card-image { display: block; width: calc(100% + 2.8rem); height: 11rem; object-fit: cover; margin: -1.4rem -1.4rem 1.2rem; }
+.project-feature-image { margin: 1.2rem 0 1.8rem; }
+.project-feature-image img { width: 100%; height: auto; border-radius: .9rem; }
 .project-card h2,.evidence-card h2,.team-card h2 { font-size:1.5rem; margin:.55rem 0; }.project-card p,.evidence-card p,.team-card p { color:$muted; font-size:.94rem; }
 .project-card b { color:$brand-accent; display:block; margin-top:1.3rem; }.evidence-card a { color:$brand-accent; font-weight:700; }
 .bar-chart { max-width: 48rem; background:$surface; border:1px solid $line; border-radius:.9rem; padding:1.2rem; }
 .bar-row { display:grid; grid-template-columns: minmax(8rem, 1.5fr) 3fr 1.5rem; gap:.7rem; align-items:center; margin:.7rem 0; font-size:.9rem; }.bar-row i { height:.75rem; border-radius:99px; background:linear-gradient(90deg,$brand-accent,#8a1558); }.bar-row b { color:$muted; }
 .table-wrap { overflow:auto; background:$surface; border:1px solid $line; border-radius:.9rem; }.table-wrap table { width:100%; min-width:44rem; margin:0; }.table-wrap th { background:#f9eff4; }.table-wrap th,.table-wrap td { padding:.8rem; border-bottom:1px solid $line; text-align:left; }.table-wrap a { font-weight:700; }
 .editorial-note strong, .empty-state strong { color: $ink; }
+.about-intro { text-align: justify; text-justify: inter-word; }
+.about-practice p { text-align: justify; text-justify: inter-word; }
+.about-privacy { margin-top: 2.4rem; padding-top: .35rem; border-top: 1px solid $line; }
+.about-privacy p { text-align: justify; text-justify: inter-word; }
+.attendance-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 1.15rem; margin: 1.35rem 0 2.5rem; }
+.attendance-document { display: block; overflow: hidden; background: $surface; border: 1px solid $line; border-radius: 1rem; box-shadow: 0 10px 26px rgba(37,20,35,.04); }
+.attendance-document img { display: block; width: 100%; height: 24rem; object-fit: contain; background: #fff; }
 .page-kicker { color: $brand-accent; text-transform: uppercase; letter-spacing: .12em; font-weight: 800; font-size: .77rem; }
 .editorial-list { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: .8rem 2rem; padding: 0; list-style: none; }
 .editorial-list li { border-bottom: 1px solid $line; padding: 1rem 0; }
@@ -165,6 +175,8 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 /* Em telas de mão mais largas, duas colunas continuam legíveis e evitam áreas vazias. */
 @media (max-width: 480px) {
   .link-grid, .editorial-list, .metric-grid, .month-grid, .action-grid, .project-grid, .evidence-grid, .team-grid { grid-template-columns: 1fr; }
+  .attendance-grid { grid-template-columns: 1fr; }
+  .attendance-document img { height: auto; }
   main.content { padding-top: 1.2rem; }
   .hero-panel { border-radius: 1rem; }
 }
