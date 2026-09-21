@@ -1,11 +1,9 @@
 ---
 title: "Agosto de 2026"
-description: "Ações demonstrativas do NAPED Afya Ipatinga em agosto de 2026."
+description: "Ações do NAPED Afya Ipatinga em agosto de 2026."
 ---
 
 <div class="page-kicker">Linha do tempo · 2026</div>
-
-<div class="demo-banner"><strong>Dados fictícios.</strong> Esta página é gerada automaticamente a partir dos arquivos em `acoes/`.</div>
 
 <div class="action-grid"><article class="action-card">
   <a class="card-image" href="../acoes/2026-08-docencia-em-foco-ia-pesquisa.html"><img src="../fotos/2026-08-docencia-em-foco.jpg" alt="Arte da série Docência em Foco do NAPED Ipatinga com luminária, livros e materiais do mês" loading="lazy"></a>

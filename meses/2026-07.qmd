@@ -1,11 +1,9 @@
 ---
 title: "Julho de 2026"
-description: "Ações demonstrativas do NAPED Afya Ipatinga em julho de 2026."
+description: "Ações do NAPED Afya Ipatinga em julho de 2026."
 ---
 
 <div class="page-kicker">Linha do tempo · 2026</div>
-
-<div class="demo-banner"><strong>Dados fictícios.</strong> Esta página é gerada automaticamente a partir dos arquivos em `acoes/`.</div>
 
 <div class="action-grid"><article class="action-card">
   <a class="card-image" href="../acoes/2026-07-homenagem-oncologista-pediatra-cirurgiao.html"><img src="../fotos/2026-07-homenagem-oncologista.jpg" alt="Arte do Dia do Médico Oncologista com o Dr. Luciano de Souza Viana, oncologista e professor da Afya Ipatinga" loading="lazy"></a>
