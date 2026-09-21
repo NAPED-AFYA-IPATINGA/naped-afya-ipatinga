@@ -19,4 +19,9 @@ description: "Ações do NAPED Afya Ipatinga em setembro de 2026."
   <a class="card-image" href="../acoes/2026-09-participacao-64-cobem-marita-novais.html"><img src="../fotos/2026-09-cobem-marita-novais-01.png" alt="Docente Marita Novais no 64º Congresso Brasileiro de Educação Médica" loading="lazy"></a>
   <div class="card-body"><div class="card-meta">17/09/2026</div><span class="tag">Formação Docente</span><span class="tag">Produção de Conhecimento</span>
   <h3><a href="../acoes/2026-09-participacao-64-cobem-marita-novais.html">Participação no 64º Congresso Brasileiro de Educação Médica</a></h3><p>A docente Marita Novais representou a Afya Ipatinga no 64º COBEM, realizado de 17 a 20 de setembro de 2026, na PUCRS, em Porto Alegre.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-09-vitrine-soi-participacao-nacional.html"><img src="../fotos/2026-09-vitrine-soi-01.jpg" alt="Apresentação on-line sobre Biologia Tangível: o Laboratório em 3D, durante a Vitrine do SOI" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">11/09/2026</div><span class="tag">Formação Docente</span><span class="tag">Sistemas Orgânicos Integrados</span>
+  <h3><a href="../acoes/2026-09-vitrine-soi-participacao-nacional.html">Participação nacional — Vitrine do SOI</a></h3><p>Participação da Afya Ipatinga em encontro nacional que inaugurou a Vitrine do SOI, com demonstração de modelos e jogos aplicados às estações de laboratório.</p></div>
 </article></div>
