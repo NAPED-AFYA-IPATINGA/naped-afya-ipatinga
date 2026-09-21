@@ -1,0 +1,32 @@
+---
+title: "Capacitação SOI para novas matrizes SHE"
+description: "Formação on-line exclusiva para o time NAPED, voltada ao alinhamento sobre o SOI nas novas matrizes SHE."
+date: 2026-09-22
+categories: ["Formação Docente", "Gestão Pedagógica"]
+status: "publicado"
+image: "fotos/2026-09-capacitacao-soi-naped.png"
+image-alt: "Card da capacitação SOI para novas matrizes SHE, exclusiva para os times de NAPED"
+participantes: null
+horas: null
+publico: "Equipe NAPED"
+cursos: []
+local: "Encontro on-line"
+projeto: ""
+ordem: 10
+---
+
+::: {.acao-figura}
+![Card da capacitação SOI para novas matrizes SHE](../fotos/2026-09-capacitacao-soi-naped.png){#fig-capacitacao-soi-naped fig-alt="Arte institucional da capacitação SOI para novas matrizes SHE, com data de 22 de setembro de 2026, às 18h30"}
+:::
+
+## Objetivo
+
+Promover uma formação exclusiva para o time NAPED, fortalecendo o alinhamento conceitual e operacional sobre o SOI aplicado às novas matrizes SHE.
+
+## Desenvolvimento
+
+O encontro on-line será realizado em 22 de setembro de 2026, às 18h30, com o professor Adecarlo Fonzar Pegino Junior. A capacitação foi planejada para apoiar as equipes do NAPED na compreensão das novas matrizes, na orientação às equipes acadêmicas e no acompanhamento dos processos pedagógicos relacionados ao SOI.
+
+## Resultados esperados
+
+Espera-se ampliar a segurança da equipe na condução das orientações institucionais e favorecer uma atuação integrada entre os NAPEDs na implementação das novas matrizes SHE.
