@@ -43,6 +43,30 @@ Material de divulgação da SDD disponibilizado para a comunidade docente, com p
 
 ![Programação](../fotos/2026-07-sdd-semana-desenvolvimento-docente-05.jpg){fig-alt="Programação da Semana de Desenvolvimento Docente"}
 
+## Objetivo
+
+Organizar e divulgar a Semana de Desenvolvimento Docente (SDD 2026.1) do NAPED da Afya Faculdade de Ciências Médicas, alinhando identidade visual, programação e comunicação com o corpo docente.
+
+## Desenvolvimento
+
+O projeto consistiu na criação de uma série de cards informativos para divulgação da agenda do evento, organizando horários, atividades e responsáveis de forma clara e intuitiva.
+
+A abertura do primeiro dia tratou de alinhamento, desafios e perspectivas para o semestre, com a presença dos professores e abertura com o diretor Vinicius Lana, o Coordenador Acadêmico Rone Cesario e a equipe do NAPED.
+
+## Resultados e encaminhamentos
+
+Material de divulgação da SDD disponibilizado para a comunidade docente, com programação organizada e abertura institucional registrada.
+
+## Evidências
+
+![Momento da programação da SDD](../fotos/2026-07-sdd-semana-desenvolvimento-docente-02.jpg){fig-alt="Registro adicional da Semana de Desenvolvimento Docente"}
+
+![Atividade da SDD](../fotos/2026-07-sdd-semana-desenvolvimento-docente-03.jpg){fig-alt="Registro adicional da Semana de Desenvolvimento Docente"}
+
+![Programação](../fotos/2026-07-sdd-semana-desenvolvimento-docente-04.jpg){fig-alt="Programação da Semana de Desenvolvimento Docente"}
+
+![Programação](../fotos/2026-07-sdd-semana-desenvolvimento-docente-05.jpg){fig-alt="Programação da Semana de Desenvolvimento Docente"}
+
 ![Programação](../fotos/2026-07-sdd-semana-desenvolvimento-docente-06.jpg){fig-alt="Programação da Semana de Desenvolvimento Docente"}
 
 ![Encerramento da programação da SDD](../fotos/2026-07-sdd-semana-desenvolvimento-docente-08.jpg){fig-alt="Registro amplo da Semana de Desenvolvimento Docente"}
