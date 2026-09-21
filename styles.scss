@@ -135,6 +135,9 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 .month-card:hover { color:$ink; border-color:#e7a5c9; }
 .month-card strong { font: 700 1.4rem Georgia, serif; }.month-card span { color:$muted; margin-top:.35rem; }.month-card b { color:$brand-accent; margin-top:auto; align-self:flex-end; }
 .project-card, .evidence-card, .team-card { padding: 1.4rem; }.project-card span,.evidence-card span,.team-card span { color:$brand-accent; font-weight:800; font-size:.76rem; letter-spacing:.09em; text-transform:uppercase; }
+.project-card-image { display: block; width: calc(100% + 2.8rem); height: 11rem; object-fit: cover; margin: -1.4rem -1.4rem 1.2rem; }
+.project-feature-image { margin: 1.2rem 0 1.8rem; }
+.project-feature-image img { width: 100%; height: auto; border-radius: .9rem; }
 .project-card h2,.evidence-card h2,.team-card h2 { font-size:1.5rem; margin:.55rem 0; }.project-card p,.evidence-card p,.team-card p { color:$muted; font-size:.94rem; }
 .project-card b { color:$brand-accent; display:block; margin-top:1.3rem; }.evidence-card a { color:$brand-accent; font-weight:700; }
 .bar-chart { max-width: 48rem; background:$surface; border:1px solid $line; border-radius:.9rem; padding:1.2rem; }

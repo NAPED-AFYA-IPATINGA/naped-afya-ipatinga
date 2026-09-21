@@ -105,6 +105,16 @@ def action_card(record: dict, from_dir: Path = ROOT) -> str:
 </article>'''
 
 
+def project_card(record: dict) -> str:
+    image = record.get("image")
+    image_html = ""
+    if image:
+        image_html = f'<img class="project-card-image" src="{escape(str(image))}" alt="{escape(str(record.get("image-alt") or record["title"]))}" loading="lazy">'
+    label = escape(str(record.get("label") or "Projeto demonstrativo"))
+    cta = escape(str(record.get("cta") or "Ver estrutura →"))
+    return f'<a class="project-card" href="{record["url"]}">{image_html}<span>{label}</span><h2>{escape(record["title"])}</h2><p>{escape(record["description"])}</p><b>{cta}</b></a>'
+
+
 def metrics(records: list[dict]) -> dict:
     axes = {c for r in records for c in r["categories"]}
     participants = sum(int(r.get("participantes") or 0) for r in records)
@@ -159,7 +169,7 @@ def main() -> None:
     write("acoes.md", '<div class="action-grid">' + "\n".join(action_card(r) for r in records) + "</div>")
     month_cards = "".join(f'<a class="month-card" href="meses/{year}-{month:02}.html"><strong>{MONTHS[month-1].title()}</strong><span>{count} ações</span><b>{year} →</b></a>' for (year, month), count in sorted(by_month.items()))
     write("meses.md", '<div class="month-grid">' + month_cards + "</div>")
-    project_cards = "".join(f'<a class="project-card" href="{p["url"]}"><span>Projeto demonstrativo</span><h2>{escape(p["title"])}</h2><p>{escape(p["description"])}</p><b>Ver estrutura →</b></a>' for p in projects)
+    project_cards = "".join(project_card(p) for p in projects)
     write("projetos.md", '<div class="project-grid">' + project_cards + "</div>")
     bars = "".join(f'<div class="bar-row"><span>{escape(axis)}</span><i style="width:{count / max(by_axis.values()) * 100:.0f}%"></i><b>{count}</b></div>' for axis, count in by_axis.most_common())
     rows = "".join(f'<tr><td>{r["when"].strftime("%d/%m/%Y")}</td><td><a href="{r["url"]}">{escape(r["title"])}</a></td><td>{escape(", ".join(r["categories"]))}</td><td>{escape(str(r.get("publico") or "—"))}</td></tr>' for r in records)
