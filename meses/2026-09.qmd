@@ -16,6 +16,11 @@ description: "Ações do NAPED Afya Ipatinga em setembro de 2026."
   <h3><a href="../acoes/2026-09-reuniao-alinhamento-equipe-naped.html">Reunião de alinhamento da equipe NAPED</a></h3><p>Encontro da equipe para orientações sobre as Open Classes, seus processos de execução e outros alinhamentos pedagógicos e operacionais.</p></div>
 </article>
 <article class="action-card">
+  <a class="card-image" href="../acoes/2026-09-treinamento-compartilhar-experiencias.html"><img src="../fotos/2026-09-treinamento-compartilhar-experiencias.png" alt="Card do treinamento Compartilhar experiências em eventos científicos, com a professora Ana Carolina Lisboa" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">17/09/2026</div><span class="tag">Formação Docente</span><span class="tag">Produção de Conhecimento</span>
+  <h3><a href="../acoes/2026-09-treinamento-compartilhar-experiencias.html">Treinamento — Compartilhar experiências em eventos científicos</a></h3><p>Formação on-line para preceptores sobre produção, divulgação e compartilhamento de experiências em eventos científicos.</p></div>
+</article>
+<article class="action-card">
   <a class="card-image" href="../acoes/2026-09-participacao-64-cobem-marita-novais.html"><img src="../fotos/2026-09-cobem-marita-novais-01.png" alt="Docente Marita Novais no 64º Congresso Brasileiro de Educação Médica" loading="lazy"></a>
   <div class="card-body"><div class="card-meta">17/09/2026</div><span class="tag">Formação Docente</span><span class="tag">Produção de Conhecimento</span>
   <h3><a href="../acoes/2026-09-participacao-64-cobem-marita-novais.html">Participação no 64º Congresso Brasileiro de Educação Médica</a></h3><p>A docente Marita Novais representou a Afya Ipatinga no 64º COBEM, realizado de 17 a 20 de setembro de 2026, na PUCRS, em Porto Alegre.</p></div>
