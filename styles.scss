@@ -146,6 +146,11 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 .editorial-note strong, .empty-state strong { color: $ink; }
 .about-intro { text-align: justify; text-justify: inter-word; }
 .about-practice p { text-align: justify; text-justify: inter-word; }
+.about-privacy { margin-top: 2.4rem; padding-top: .35rem; border-top: 1px solid $line; }
+.about-privacy p { text-align: justify; text-justify: inter-word; }
+.attendance-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 1.15rem; margin: 1.35rem 0 2.5rem; }
+.attendance-document { display: block; overflow: hidden; background: $surface; border: 1px solid $line; border-radius: 1rem; box-shadow: 0 10px 26px rgba(37,20,35,.04); }
+.attendance-document img { display: block; width: 100%; height: 24rem; object-fit: contain; background: #fff; }
 .page-kicker { color: $brand-accent; text-transform: uppercase; letter-spacing: .12em; font-weight: 800; font-size: .77rem; }
 .editorial-list { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: .8rem 2rem; padding: 0; list-style: none; }
 .editorial-list li { border-bottom: 1px solid $line; padding: 1rem 0; }
@@ -170,6 +175,8 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 /* Em telas de mão mais largas, duas colunas continuam legíveis e evitam áreas vazias. */
 @media (max-width: 480px) {
   .link-grid, .editorial-list, .metric-grid, .month-grid, .action-grid, .project-grid, .evidence-grid, .team-grid { grid-template-columns: 1fr; }
+  .attendance-grid { grid-template-columns: 1fr; }
+  .attendance-document img { height: auto; }
   main.content { padding-top: 1.2rem; }
   .hero-panel { border-radius: 1rem; }
 }
