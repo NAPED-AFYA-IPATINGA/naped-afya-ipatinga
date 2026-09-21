@@ -23,17 +23,3 @@ O NAPED é formado por profissionais que articulam coordenação, formação doc
 ## Outros membros
 
 <div class="empty-state"><strong>Espaço reservado.</strong> Esta seção será preenchida posteriormente com os nomes e minicurrículos das pessoas que já atuaram junto ao NAPED.</div>
-
-## Fontes e critérios de conferência
-
-- [Portfólio NAPED da Afya Ipatinga](https://ipatinga.afya.com.br/institucional/portifolio-naped), usado para a descrição institucional da coordenação e das atribuições do núcleo.
-- [Página de transparência da Afya Ipatinga](https://ipatinga.afya.com.br/institucional/transparencia), usada para conferir nomes completos, titulação e áreas do corpo docente.
-- [Perfil público de Rafaela Drumond Araújo com dados coletados do Lattes](https://www.escavador.com/sobre/3823102/rafaela-drumond-araujo).
-- [Perfil público de Jaqueline Melo Soares com dados coletados do Lattes](https://www.escavador.com/sobre/836469/jaqueline-melo-soares).
-- [Perfil público de Fábio Araújo Gomes de Castro com dados coletados do Lattes](https://www.escavador.com/sobre/378646593/fabio-araujo-gomes-de-castro).
-- [Perfil público de Maria Luísa Franco de Salles](https://agendarconsulta.com/perfil/dr-maria-luisa-franco-de-salles-1730319255).
-- [Dissertação de Marita de Novais Costa Salles de Almeida no repositório da UFMG](https://repositorio.ufmg.br/server/api/core/bitstreams/dc6d62ec-51de-490f-98ac-3f5d4f135dd0/content).
-- [Perfil profissional público de Amanda Kellen na Afya Ipatinga](https://br.linkedin.com/in/amanda-kellen-1989232b5) e [perfil profissional público de Tatiane Araújo](https://br.linkedin.com/in/dratatianearaujo), consultados apenas como pistas de identificação, não como substitutos do Lattes.
-- Informações complementares do minicurrículo de Tatiane Araújo fornecidas pela equipe do NAPED.
-
-Os dados curriculares podem ser atualizados pelos próprios pesquisadores. O perfil de Amanda Kellen ainda deve receber o respectivo link Lattes ou a confirmação do nome completo antes de uma versão institucional definitiva.
