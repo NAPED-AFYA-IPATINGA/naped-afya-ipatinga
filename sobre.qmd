@@ -7,6 +7,32 @@ description: "Apresentação do NAPED da Afya Ipatinga."
 
 <p class="about-intro">O Núcleo de Apoio Pedagógico e Experiência Docente (NAPED) é o órgão de apoio didático-pedagógico que acompanha, orienta e qualifica as práticas docentes nos cursos de graduação. Em articulação com a Direção Acadêmica, as coordenações de curso e os núcleos e comissões institucionais, contribui para alinhar os processos de ensino e aprendizagem ao planejamento e aos projetos pedagógicos da instituição. Sua atuação inclui formação continuada, atendimento e orientação pedagógica, apoio ao planejamento das aulas e das avaliações, incentivo a metodologias de ensino inovadoras e compartilhamento de boas práticas, fortalecendo a experiência docente, a relação entre professores e estudantes e a melhoria contínua da qualidade acadêmica.</p>
 
+::: {.about-practice}
+## NAPED na Prática
+
+Entre as atividades desenvolvidas estão as voltadas à integração, acessibilidade e flexibilidade nos fazeres pedagógicos envolvendo o acompanhamento, orientação, supervisão e avaliação da qualidade dos cursos oferecidos com base nas dimensões de:
+
+### INTEGRAÇÃO
+
+O NAPED efetiva-se como espaço coletivos de reflexão sobre a docência universitária e, as questões de ensino, em diálogo constante com a direção acadêmica e coordenadores articulando as melhores oportunidades de sucesso para os nossos alunos.
+
+### FLEXIBILIDADE
+
+As coordenações e colegiados são incentivados a apresentar propostas de interesse pedagógico do curso, participando desta forma com o planejamento das atividades de Formação Continuada do professor e as melhorias das atividades de ensino.
+
+### ACESSIBILIDADE
+
+Os professores encontram apoio pedagógico para a elaboração do seu Plano de ensino, no planejamento da aula e no suporte aos processos de avaliação do conhecimento e da ação docente, na medida de suas necessidades e em consonância com as da Instituição visando o melhor na formação do acadêmico.
+
+### SISTEMATIZAÇÃO
+
+A docência na Afya Ipatinga é pautada pela qualidade. Para a contratação, os docentes passam por banca comprobatória dos saberes da área de atuação com acompanhamento da Afya Ipatinga às questões da didática, num processo contínuo.
+
+Sucessivamente são orientados através de grupos de discussões, oficinas, seminários, palestras na área didática/pedagógica o que promove a troca de experiências, incentivo a criatividade resultando em aulas mais produtivas e dinâmicas.
+
+O NAPED é um setor que participa ativamente da Comissão Própria de Avaliação da Afya Ipatinga e esta sempre antenado às pesquisas de satisfação dos alunos proporcionando reflexões e suporte ao docente com vistas à melhorias no seu fazer pedagógico.
+:::
+
 Este portfólio reunirá a atuação local em 2026. Missão detalhada, equipe e canais de contato serão revisados com os responsáveis antes da publicação final.
 
 <div class="editorial-note"><strong>Coordenadora geral:</strong> Cristina Gonzaga</div>
