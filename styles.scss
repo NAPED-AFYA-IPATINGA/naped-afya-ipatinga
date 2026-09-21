@@ -130,10 +130,13 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 .card-meta { color: $muted; font-size: .8rem; font-weight: 700; margin-bottom: .45rem; }
 .tag { display: inline-block; color: $brand-deep; background: #fbe3f0; border-radius: 99px; padding: .2rem .55rem; margin: 0 .25rem .28rem 0; font-size: .71rem; font-weight: 700; }
 .filter-note, .coverage-note { color: $muted; font-size: .9rem; margin: 0 0 1rem; }
-.month-grid { display: grid; grid-template-columns: repeat(4,minmax(0,1fr)); gap: 1rem; margin: 1.5rem 0; }
-.month-card { padding: 1.15rem; min-height: 9.5rem; display:flex; flex-direction:column; background: $surface; border: 1px solid $line; border-radius: .9rem; color:$ink; text-decoration:none; }
-.month-card:hover { color:$ink; border-color:#e7a5c9; }
-.month-card strong { font: 700 1.4rem Georgia, serif; }.month-card span { color:$muted; margin-top:.35rem; }.month-card b { color:$brand-accent; margin-top:auto; align-self:flex-end; }
+.month-list { list-style: none; margin: 1.5rem 0 2.5rem; padding: 0; border-top: 1px solid $line; }
+.month-list li { border-bottom: 1px solid $line; }
+.month-list a { display: grid; grid-template-columns: minmax(12rem, 1.5fr) minmax(7rem, .7fr) auto; align-items: center; gap: 1rem; padding: .9rem .2rem; color: $ink; text-decoration: none; }
+.month-list a:hover { color: $brand-accent; background: #fff7fb; }
+.month-list strong { font: 700 1.18rem Georgia, serif; }
+.month-list span { color: $muted; }
+.month-list b { color: $brand-accent; font-size: .9rem; justify-self: end; }
 .project-card, .evidence-card, .team-card { padding: 1.4rem; }.project-card span,.evidence-card span,.team-card span { color:$brand-accent; font-weight:800; font-size:.76rem; letter-spacing:.09em; text-transform:uppercase; }
 .project-card-image { display: block; width: calc(100% + 2.8rem); height: 11rem; object-fit: cover; margin: -1.4rem -1.4rem 1.2rem; }
 .project-feature-image { margin: 1.2rem 0 1.8rem; }
@@ -170,12 +173,15 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 @media (max-width: 850px) {
   .link-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
   .hero-panel { min-height: 0; }
-  .metric-grid, .month-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
+  .metric-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
   .action-grid, .project-grid, .evidence-grid, .team-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
 }
 /* Em telas de mão mais largas, duas colunas continuam legíveis e evitam áreas vazias. */
 @media (max-width: 480px) {
-  .link-grid, .editorial-list, .metric-grid, .month-grid, .action-grid, .project-grid, .evidence-grid, .team-grid { grid-template-columns: 1fr; }
+  .link-grid, .editorial-list, .metric-grid, .action-grid, .project-grid, .evidence-grid, .team-grid { grid-template-columns: 1fr; }
+  .month-list a { grid-template-columns: 1fr auto; gap: .25rem .8rem; }
+  .month-list span { grid-column: 1; }
+  .month-list b { grid-column: 2; grid-row: 1 / span 2; }
   .attendance-grid { grid-template-columns: 1fr; }
   .attendance-document img { height: auto; }
   main.content { padding-top: 1.2rem; }
