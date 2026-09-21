@@ -144,12 +144,10 @@ def make_month_pages(records: list[dict]) -> None:
         body = "\n".join(action_card(r, MESES) for r in items)
         page = f'''---
 title: "{MONTHS[month - 1].title()} de {year}"
-description: "Ações demonstrativas do NAPED Afya Ipatinga em {MONTHS[month - 1]} de {year}."
+description: "Ações do NAPED Afya Ipatinga em {MONTHS[month - 1]} de {year}."
 ---
 
 <div class="page-kicker">Linha do tempo · {year}</div>
-
-<div class="demo-banner"><strong>Dados fictícios.</strong> Esta página é gerada automaticamente a partir dos arquivos em `acoes/`.</div>
 
 <div class="action-grid">{body}</div>
 '''
