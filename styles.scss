@@ -138,6 +138,7 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 .month-list span { color: $muted; }
 .month-list b { color: $brand-accent; font-size: .9rem; justify-self: end; }
 .project-card, .evidence-card, .team-card { padding: 1.4rem; }.project-card span,.evidence-card span,.team-card span { color:$brand-accent; font-weight:800; font-size:.76rem; letter-spacing:.09em; text-transform:uppercase; }
+.team-photo { display: block; width: calc(100% + 2.8rem); height: 12rem; object-fit: cover; object-position: center 24%; margin: -1.4rem -1.4rem 1.2rem; }
 .project-card-image { display: block; width: calc(100% + 2.8rem); height: 11rem; object-fit: cover; margin: -1.4rem -1.4rem 1.2rem; }
 .project-feature-image { margin: 1.2rem 0 1.8rem; }
 .project-feature-image img { width: 100%; height: auto; border-radius: .9rem; }
