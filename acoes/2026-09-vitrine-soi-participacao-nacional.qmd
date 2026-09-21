@@ -1,0 +1,36 @@
+---
+title: "Participação nacional — Vitrine do SOI"
+description: "Participação da Afya Ipatinga em encontro nacional que inaugurou a Vitrine do SOI, com demonstração de modelos e jogos aplicados às estações de laboratório."
+date: 2026-09-11
+categories: ["Formação Docente", "Sistemas Orgânicos Integrados"]
+status: "publicado"
+image: "fotos/2026-09-vitrine-soi-01.jpg"
+image-alt: "Apresentação on-line sobre Biologia Tangível: o Laboratório em 3D, durante a Vitrine do SOI"
+participantes: null
+horas: null
+publico: "Comunidade Afya"
+cursos: ["Medicina"]
+local: "Encontro nacional on-line"
+projeto: "Vitrine do SOI"
+ordem: 11
+---
+
+::: {.acao-figura}
+![Apresentação da Vitrine do SOI](../fotos/2026-09-vitrine-soi-01.jpg){#fig-vitrine-soi fig-alt="Tela da apresentação Biologia Tangível: o Laboratório em 3D, com modelos didáticos tridimensionais e participantes do encontro on-line"}
+:::
+
+## Participação nacional
+
+Em 11 de setembro de 2026, a Afya Ipatinga participou do encontro nacional que marcou a inauguração da **Vitrine do SOI**, iniciativa que reuniu diferentes unidades da Afya para compartilhar experiências pedagógicas relacionadas aos Sistemas Orgânicos Integrados.
+
+A instituição foi representada por **Jaqueline Melo Soares**, especialista dos eixos SOI 1 e SOI 2 da Afya Ipatinga. Na ocasião, ela demonstrou a aplicação de modelos e jogos nas estações de laboratório, evidenciando como esses recursos podem apoiar a visualização de processos biológicos, a participação ativa dos estudantes e o alcance dos objetivos de aprendizagem.
+
+O encontro reforçou a importância do intercâmbio entre unidades e da divulgação de estratégias que aproximam os conteúdos teóricos de experiências práticas, táteis e colaborativas. A participação da Afya Ipatinga integra o acervo de ações do NAPED como registro de representação institucional e de compartilhamento de boas práticas.
+
+## Evidências
+
+![Participantes do encontro nacional on-line](../fotos/2026-09-vitrine-soi-02.jpg){fig-alt="Tela de reunião on-line com participantes de diferentes unidades da Afya"}
+
+![Apresentação de modelos para o desenvolvimento embrionário](../fotos/2026-09-vitrine-soi-03.jpg){fig-alt="Tela de apresentação com modelos tridimensionais usados para mapear a cronologia do desenvolvimento embrionário"}
+
+![Registro dos participantes do encontro](../fotos/2026-09-vitrine-soi-04.jpg){fig-alt="Tela de reunião on-line com participantes e chat do encontro"}
