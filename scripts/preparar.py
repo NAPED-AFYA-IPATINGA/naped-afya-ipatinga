@@ -174,7 +174,10 @@ def main() -> None:
     bars = "".join(f'<div class="bar-row"><span>{escape(axis)}</span><i style="width:{count / max(by_axis.values()) * 100:.0f}%"></i><b>{count}</b></div>' for axis, count in by_axis.most_common())
     rows = "".join(f'<tr><td>{r["when"].strftime("%d/%m/%Y")}</td><td><a href="{r["url"]}">{escape(r["title"])}</a></td><td>{escape(", ".join(r["categories"]))}</td><td>{escape(str(r.get("publico") or "—"))}</td></tr>' for r in records)
     write("resultados.md", metric_grid(m) + f'<h2>Volume por eixo</h2><div class="bar-chart">{bars}</div><p class="coverage-note">Indicadores de participação e horas cobrem {m["measured"]} de {m["actions"]} ações demonstrativas. Uma ação pode pertencer a mais de um eixo.</p><h2>Todas as ações</h2><div class="table-wrap"><table><thead><tr><th>Data</th><th>Ação</th><th>Eixos</th><th>Público</th></tr></thead><tbody>{rows}</tbody></table></div>')
-    evidence = "".join(f'<article class="evidence-card"><span>Registro demonstrativo</span><h2>{escape(r["title"])}</h2><p>Fotografia, registro de participação e material de apoio poderão ser vinculados a esta ação depois da aprovação.</p><a href="{r["url"]}">Abrir ação →</a></article>' for r in records[:5])
+    sdd = next((r for r in records if r["source"].stem == "2026-07-sdd-semana-desenvolvimento-docente"), None)
+    if sdd is None:
+        fail("A ação da SDD de 01/07/2026 não foi encontrada para gerar as comprovações.")
+    evidence = f'<article class="evidence-card"><span>Lista de presença · 01/07/2026</span><h2>{escape(sdd["title"])}</h2><p>Registro de participação da programação da Semana de Desenvolvimento Docente realizada em 01/07/2026.</p><a href="{sdd["url"]}">Abrir ação →</a></article>'
     write("comprovacoes.md", '<div class="evidence-grid">' + evidence + "</div>")
     for semester, filename in ((1, "2026-1.md"), (2, "2026-2.md")):
         subset = [r for r in records if (r["when"].month <= 6) == (semester == 1)]

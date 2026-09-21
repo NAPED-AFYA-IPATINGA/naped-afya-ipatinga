@@ -7,6 +7,4 @@ description: "Evidências públicas das ações do NAPED Afya Ipatinga."
 
 Esta seção organizará fotografias, materiais e documentos **autorizados para publicação pública**, ligados às ações e projetos correspondentes. Materiais internos não serão incluídos no repositório público.
 
-<div class="demo-banner"><strong>Exemplos fictícios.</strong> Esta organização ilustra como evidências públicas serão associadas ao acervo real.</div>
-
 {{< include generated/comprovacoes.md >}}
