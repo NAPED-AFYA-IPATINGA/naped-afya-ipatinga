@@ -156,7 +156,7 @@ def main() -> None:
     by_axis = Counter(c for r in records for c in r["categories"])
     write("home.md", metric_grid(m))
     write("recentes.md", '<div class="action-grid">' + "\n".join(action_card(r) for r in records[:3]) + "</div>")
-    write("acoes.md", '<div class="filter-note">Os filtros interativos serão conectados na próxima iteração. Nesta demonstração, o acervo já é derivado dos arquivos de ação.</div><div class="action-grid">' + "\n".join(action_card(r) for r in records) + "</div>")
+    write("acoes.md", '<div class="action-grid">' + "\n".join(action_card(r) for r in records) + "</div>")
     month_cards = "".join(f'<a class="month-card" href="meses/{year}-{month:02}.html"><strong>{MONTHS[month-1].title()}</strong><span>{count} ações</span><b>{year} →</b></a>' for (year, month), count in sorted(by_month.items()))
     write("meses.md", '<div class="month-grid">' + month_cards + "</div>")
     project_cards = "".join(f'<a class="project-card" href="{p["url"]}"><span>Projeto demonstrativo</span><h2>{escape(p["title"])}</h2><p>{escape(p["description"])}</p><b>Ver estrutura →</b></a>' for p in projects)
