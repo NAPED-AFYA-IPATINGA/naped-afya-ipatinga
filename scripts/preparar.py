@@ -105,6 +105,16 @@ def action_card(record: dict, from_dir: Path = ROOT) -> str:
 </article>'''
 
 
+def project_card(record: dict) -> str:
+    image = record.get("image")
+    image_html = ""
+    if image:
+        image_html = f'<img class="project-card-image" src="{escape(str(image))}" alt="{escape(str(record.get("image-alt") or record["title"]))}" loading="lazy">'
+    label = escape(str(record.get("label") or "Projeto demonstrativo"))
+    cta = escape(str(record.get("cta") or "Ver estrutura →"))
+    return f'<a class="project-card" href="{record["url"]}">{image_html}<span>{label}</span><h2>{escape(record["title"])}</h2><p>{escape(record["description"])}</p><b>{cta}</b></a>'
+
+
 def metrics(records: list[dict]) -> dict:
     axes = {c for r in records for c in r["categories"]}
     participants = sum(int(r.get("participantes") or 0) for r in records)
@@ -134,12 +144,10 @@ def make_month_pages(records: list[dict]) -> None:
         body = "\n".join(action_card(r, MESES) for r in items)
         page = f'''---
 title: "{MONTHS[month - 1].title()} de {year}"
-description: "Ações demonstrativas do NAPED Afya Ipatinga em {MONTHS[month - 1]} de {year}."
+description: "Ações do NAPED Afya Ipatinga em {MONTHS[month - 1]} de {year}."
 ---
 
 <div class="page-kicker">Linha do tempo · {year}</div>
-
-<div class="demo-banner"><strong>Dados fictícios.</strong> Esta página é gerada automaticamente a partir dos arquivos em `acoes/`.</div>
 
 <div class="action-grid">{body}</div>
 '''
@@ -156,15 +164,18 @@ def main() -> None:
     by_axis = Counter(c for r in records for c in r["categories"])
     write("home.md", metric_grid(m))
     write("recentes.md", '<div class="action-grid">' + "\n".join(action_card(r) for r in records[:3]) + "</div>")
-    write("acoes.md", '<div class="filter-note">Os filtros interativos serão conectados na próxima iteração. Nesta demonstração, o acervo já é derivado dos arquivos de ação.</div><div class="action-grid">' + "\n".join(action_card(r) for r in records) + "</div>")
+    write("acoes.md", '<div class="action-grid">' + "\n".join(action_card(r) for r in records) + "</div>")
     month_cards = "".join(f'<a class="month-card" href="meses/{year}-{month:02}.html"><strong>{MONTHS[month-1].title()}</strong><span>{count} ações</span><b>{year} →</b></a>' for (year, month), count in sorted(by_month.items()))
     write("meses.md", '<div class="month-grid">' + month_cards + "</div>")
-    project_cards = "".join(f'<a class="project-card" href="{p["url"]}"><span>Projeto demonstrativo</span><h2>{escape(p["title"])}</h2><p>{escape(p["description"])}</p><b>Ver estrutura →</b></a>' for p in projects)
+    project_cards = "".join(project_card(p) for p in projects)
     write("projetos.md", '<div class="project-grid">' + project_cards + "</div>")
     bars = "".join(f'<div class="bar-row"><span>{escape(axis)}</span><i style="width:{count / max(by_axis.values()) * 100:.0f}%"></i><b>{count}</b></div>' for axis, count in by_axis.most_common())
     rows = "".join(f'<tr><td>{r["when"].strftime("%d/%m/%Y")}</td><td><a href="{r["url"]}">{escape(r["title"])}</a></td><td>{escape(", ".join(r["categories"]))}</td><td>{escape(str(r.get("publico") or "—"))}</td></tr>' for r in records)
     write("resultados.md", metric_grid(m) + f'<h2>Volume por eixo</h2><div class="bar-chart">{bars}</div><p class="coverage-note">Indicadores de participação e horas cobrem {m["measured"]} de {m["actions"]} ações demonstrativas. Uma ação pode pertencer a mais de um eixo.</p><h2>Todas as ações</h2><div class="table-wrap"><table><thead><tr><th>Data</th><th>Ação</th><th>Eixos</th><th>Público</th></tr></thead><tbody>{rows}</tbody></table></div>')
-    evidence = "".join(f'<article class="evidence-card"><span>Registro demonstrativo</span><h2>{escape(r["title"])}</h2><p>Fotografia, registro de participação e material de apoio poderão ser vinculados a esta ação depois da aprovação.</p><a href="{r["url"]}">Abrir ação →</a></article>' for r in records[:5])
+    sdd = next((r for r in records if r["source"].stem == "2026-07-sdd-semana-desenvolvimento-docente"), None)
+    if sdd is None:
+        fail("A ação da SDD de 01/07/2026 não foi encontrada para gerar as comprovações.")
+    evidence = f'<article class="evidence-card"><span>Lista de presença · 01/07/2026</span><h2>{escape(sdd["title"])}</h2><p>Registro de participação da programação da Semana de Desenvolvimento Docente realizada em 01/07/2026.</p><a href="{sdd["url"]}">Abrir ação →</a></article>'
     write("comprovacoes.md", '<div class="evidence-grid">' + evidence + "</div>")
     for semester, filename in ((1, "2026-1.md"), (2, "2026-2.md")):
         subset = [r for r in records if (r["when"].month <= 6) == (semester == 1)]
