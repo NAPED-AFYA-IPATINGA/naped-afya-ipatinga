@@ -1,0 +1,39 @@
+---
+title: "Encontro de Mentoria ENAMED — Gap de Anemia"
+description: "Encontro de mentoria do Projeto ENAMED sobre gap de anemia, conduzido por Marita de Novais Costa Salles de Almeida."
+date: 2026-10-06
+date-format: "MMMM YYYY"
+categories: ["Acompanhamento Acadêmico", "Preparação ENAMED"]
+status: "publicado"
+image: "fotos/2026-10-encontro-mentoria-gap-anemia.jpg"
+image-alt: "Card de convite para encontro de mentoria do Projeto ENAMED sobre gap de anemia"
+participantes: null
+horas: null
+publico: "Estudantes do Projeto ENAMED"
+cursos: ["Medicina"]
+local: ""
+projeto: "Projeto ENAMED"
+ordem: 33
+---
+
+::: {.acao-figura}
+![Convite para encontro de mentoria do Projeto ENAMED sobre gap de anemia](../fotos/2026-10-encontro-mentoria-gap-anemia.jpg){#fig-encontro-mentoria-gap-anemia fig-alt="Card do NAPED convidando estudantes para encontro de mentoria do Projeto ENAMED, em 6 de outubro, às 19h30, com o tema Gap de Anemia"}
+:::
+
+## Mentoria ENAMED para fortalecer a aprendizagem
+
+### Objetivo
+
+Promover um momento de estudo, diálogo e acompanhamento acadêmico sobre o tema **Gap de Anemia**, contribuindo para a preparação dos estudantes para os desafios do ENAMED.
+
+### Desenvolvimento
+
+No dia **6 de outubro, às 19h30**, a professora **Marita de Novais Costa Salles de Almeida**, mentora e integrante do NAPED, conduzirá um encontro com os estudantes do Projeto ENAMED. A atividade será dedicada à discussão do tema, à revisão de conhecimentos e à troca de experiências relacionadas à formação médica.
+
+### Resultados e encaminhamentos
+
+O encontro integra as ações de mentoria do Projeto ENAMED e amplia as oportunidades de acompanhamento próximo dos estudantes. A proposta é favorecer a participação ativa, o esclarecimento de dúvidas e a construção de estratégias de estudo alinhadas às necessidades identificadas no percurso acadêmico.
+
+### Evidência
+
+O card de divulgação registra a data, o horário, o tema e o convite aos estudantes para participação no encontro de mentoria.
