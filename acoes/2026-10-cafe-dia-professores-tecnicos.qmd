@@ -1,0 +1,41 @@
+---
+title: "Café da tarde em comemoração ao Dia dos Professores e Técnicos Administrativos"
+description: "Encontro de integração e valorização da equipe Afya Ipatinga em comemoração ao Dia dos Professores e dos Técnicos Administrativos."
+date: 2026-10-08
+date-format: "MMMM YYYY"
+categories: ["Comunicação Institucional", "Valorização Docente"]
+status: "publicado"
+image: "fotos/2026-10-cafe-dia-professores-tecnicos.png"
+image-alt: "Convite para café da tarde em comemoração ao Dia dos Professores e Técnicos Administrativos da Afya Ipatinga"
+participantes: null
+horas: null
+publico: "Professores e técnicos administrativos"
+cursos: []
+local: "Sala 4 — Afya Ipatinga"
+projeto: "Ação geral do NAPED"
+ordem: 35
+---
+
+::: {.acao-figura}
+![Convite para café da tarde em comemoração ao Dia dos Professores e Técnicos Administrativos](../fotos/2026-10-cafe-dia-professores-tecnicos.png){#fig-cafe-dia-professores-tecnicos fig-alt="Card institucional convidando professores e técnicos administrativos para um café da tarde em 8 de outubro, às 14h30, na Sala 4 da Afya Ipatinga"}
+:::
+
+## Valorização de quem ensina, apoia e transforma
+
+### Objetivo
+
+Promover um momento de convivência, reconhecimento e integração entre professores e técnicos administrativos, valorizando as pessoas que constroem diariamente a experiência acadêmica e institucional da Afya Ipatinga.
+
+### Desenvolvimento
+
+Em comemoração ao **Dia dos Professores e dos Técnicos Administrativos**, será realizado um café da tarde no dia **8 de outubro de 2026**, às **14h30**, na **Sala 4**. O encontro foi planejado como um espaço de acolhimento, diálogo e celebração do trabalho desenvolvido pelas equipes.
+
+A iniciativa reconhece que a formação dos estudantes é resultado de uma construção coletiva, que reúne ensino, apoio pedagógico, gestão e cuidado com a comunidade acadêmica. Ao criar um ambiente de encontro fora da rotina, a ação fortalece os vínculos e favorece a troca entre os profissionais.
+
+### Resultados e encaminhamentos
+
+Espera-se ampliar o sentimento de pertencimento, reconhecer contribuições das equipes e fortalecer a colaboração entre os diferentes setores da instituição. O momento também reforça a cultura de valorização das pessoas como parte essencial do compromisso da Afya com uma educação transformadora.
+
+### Evidência
+
+O card de divulgação registra a data, o horário, o local e o convite para a participação dos professores e técnicos administrativos.
