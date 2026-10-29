@@ -1,0 +1,53 @@
+---
+title: "Reconhecimento pela mobilização do ENAMED 2026"
+description: "Homenagem à gestão acadêmica de Rone Cesário da Silva pelo reconhecimento da Afya Ipatinga entre as IES que mais recolheram cadernos de prova do ENAMED 2026."
+date: 2026-10-07
+date-format: "MMMM YYYY"
+categories: ["Reconhecimento Acadêmico", "Gestão Institucional"]
+status: "publicado"
+image: "fotos/2026-10-premiacao-enamed-rone-cesario.png"
+image-alt: "Card da premiação ENAMED 2026 que reconhece Rone Cesário da Silva, da Afya Ipatinga, com uma formação internacional em Inteligência Artificial"
+participantes: null
+horas: null
+publico: "Comunidade acadêmica"
+cursos: ["Medicina"]
+local: "Afya Ipatinga"
+projeto: "Projeto ENAMED"
+ordem: 36
+---
+
+::: {.acao-figura}
+![Card de reconhecimento aos gestores acadêmicos das seis IES que mais recolheram cadernos de prova do ENAMED 2026](../fotos/2026-10-premiacao-enamed-rone-cesario.png){#fig-premiacao-enamed-rone fig-alt="Card institucional da Afya com a lista dos seis gestores acadêmicos reconhecidos pela mobilização do ENAMED 2026; Rone Cesário da Silva aparece representando Ipatinga"}
+:::
+
+## Uma conquista construída em equipe
+
+### Objetivo
+
+Registrar e celebrar o reconhecimento recebido por **Rone Cesário da Silva**, representante da Afya Ipatinga entre os gestores acadêmicos das seis instituições de ensino superior que mais recolheram cadernos de prova do **ENAMED 2026**.
+
+### Desenvolvimento
+
+A premiação reconhece a mobilização realizada pela Afya Ipatinga para apoiar a aplicação do ENAMED 2026. O resultado traduz planejamento, acompanhamento das etapas e articulação entre a gestão acadêmica, as equipes administrativas, os docentes e os estudantes — um trabalho coletivo que fortalece a participação institucional e o compromisso com a avaliação da formação médica.
+
+O card oficial da Afya destaca **Rone Cesário da Silva — Ipatinga** entre os seis gestores reconhecidos. Como forma de valorização, ele recebeu uma **Formação Internacional em Inteligência Artificial**, custeada integralmente pela Afya, em parceria com o Semesp e a Beijing Normal University. A formação terá **15 horas**, será realizada **on-line entre outubro e dezembro de 2026** e contará com certificação da universidade parceira, conforme as informações apresentadas na peça institucional.
+
+### Mensagem de reconhecimento
+
+**Olha a surpresa, pessoal!** É uma alegria reconhecer os gestores das seis IES que mais recolheram cadernos de prova do ENAMED. Para Rone e para a equipe da Afya Ipatinga, a conquista representa o resultado de uma mobilização feita com planejamento, compromisso e colaboração. A formação internacional em Inteligência Artificial, totalmente custeada pela Afya, oferece uma oportunidade de aprender com diferentes experiências e trazer novas ideias para as instituições.
+
+Na [página oficial de transparência da Afya Ipatinga](https://faculdades.afya.com.br/unidades/ipatinga/transparencia), Rone Cesário da Silva é identificado como **Coordenador Acadêmico** e **Procurador Institucional** da unidade. Este registro utiliza essa denominação institucional para valorizar sua atuação na condução acadêmica e na mobilização do ENAMED.
+
+### Homenagem
+
+Parabenizamos Rone Cesário da Silva pela conquista e, especialmente, pela liderança que contribuiu para transformar uma mobilização acadêmica em um resultado reconhecido nacionalmente. A premiação também pertence às equipes da Afya Ipatinga, que participaram com responsabilidade, organização e espírito colaborativo.
+
+Que esta formação internacional amplie ainda mais as possibilidades de inovação, uso responsável da inteligência artificial e aprimoramento da experiência acadêmica em nossa instituição. **Parabéns, Rone, e parabéns a toda a equipe Afya Ipatinga!**
+
+### Evidência
+
+O card oficial da premiação integra este registro como comprovação do reconhecimento e das condições da formação concedida.
+
+::: {.acao-figura}
+![Card oficial da premiação ENAMED 2026 para os gestores acadêmicos reconhecidos](../fotos/2026-10-premiacao-enamed-rone-cesario.png){#fig-premiacao-enamed-rone-evidencia fig-alt="Card oficial da Afya ENAMED 2026 com a premiação de Rone Cesário da Silva, de Ipatinga, em formação internacional em Inteligência Artificial"}
+:::

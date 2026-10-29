@@ -1,0 +1,58 @@
+---
+title: "Formação em Preceptoria — módulos do curso"
+description: "Divulgação dos oito módulos da formação em preceptoria do NAPED e do prazo para conclusão até 30 de novembro de 2026."
+date: 2026-10-07
+date-format: "MMMM YYYY"
+categories: ["Formação de Preceptores", "Desenvolvimento Docente"]
+status: "publicado"
+image: "fotos/2026-10-formacao-preceptoria-modulos.png"
+image-alt: "Card do NAPED Afya com os oito módulos da Formação em Preceptoria e prazo final de conclusão em 30 de novembro de 2026"
+participantes: null
+horas: null
+publico: "Preceptores, supervisores, docentes e profissionais da área da saúde"
+cursos: ["Medicina"]
+local: "Afya Ipatinga"
+projeto: "Projeto Preceptoria"
+ordem: 37
+---
+
+::: {.acao-figura}
+![Card da Formação em Preceptoria com os módulos do curso e o prazo de conclusão](../fotos/2026-10-formacao-preceptoria-modulos.png){#fig-formacao-preceptoria-modulos fig-alt="Card do NAPED Afya intitulado Formação em Preceptoria, com oito módulos e prazo final para conclusão em 30 de novembro de 2026"}
+:::
+
+## Formação em Preceptoria: desenvolvimento para a prática educativa em saúde
+
+### Objetivo
+
+Divulgar a trilha de formação em preceptoria e orientar os participantes sobre os conteúdos que compõem o percurso formativo, reforçando o compromisso institucional com a qualificação do acompanhamento dos estudantes nos cenários reais de prática.
+
+Esta formação foi organizada para apoiar o desenvolvimento dos preceptores em sua atuação educativa, fortalecendo a comunicação, a supervisão, a avaliação e o cuidado com o bem-estar de estudantes e profissionais. O percurso reúne oito módulos e deve ser concluído até **30 de novembro de 2026**.
+
+### Desenvolvimento
+
+O card apresenta uma formação estruturada em oito módulos, organizada para apoiar o desenvolvimento progressivo das competências do preceptor:
+
+1. **Introdução à Preceptoria**;
+2. **Fundamentos da Educação na Saúde**;
+3. **Comunicação Efetiva**;
+4. **Avaliação e Feedback**;
+5. **Habilidades de Supervisão**;
+6. **Ética e Deontologia na Preceptoria**;
+7. **Saúde Mental e Bem-Estar do Preceptor e do Aluno**;
+8. **Reflexão e Melhoria Contínua**.
+
+O percurso valoriza o preceptor como mediador entre a formação acadêmica e o trabalho em saúde. Ao articular fundamentos pedagógicos, comunicação, avaliação, supervisão e cuidado com as pessoas, a proposta contribui para uma prática educativa mais segura, ética, humanizada e conectada às necessidades dos estudantes, dos serviços e da comunidade.
+
+O material informa que a data final para conclusão de todos os módulos é **30 de novembro de 2026**. A divulgação integra o **Projeto Preceptoria** e apoia o acompanhamento do percurso formativo pelo NAPED.
+
+### Resultados e encaminhamentos
+
+O registro amplia a visibilidade da formação, organiza seus temas centrais e oferece aos preceptores uma referência para acompanhar a conclusão dos módulos dentro do prazo indicado. Como próximo passo, recomenda-se monitorar a participação e reunir dúvidas ou necessidades de apoio pedagógico ao longo do percurso.
+
+### Evidência
+
+O card institucional da Formação em Preceptoria é apresentado como comprovação da divulgação dos módulos e do prazo de conclusão.
+
+::: {.acao-figura}
+![Card oficial da Formação em Preceptoria do NAPED Afya](../fotos/2026-10-formacao-preceptoria-modulos.png){#fig-formacao-preceptoria-evidencia fig-alt="Card oficial do NAPED Afya com os módulos da Formação em Preceptoria e a data final de 30 de novembro de 2026"}
+:::

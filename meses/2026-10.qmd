@@ -1,0 +1,62 @@
+---
+title: "Outubro de 2026"
+description: "Ações do NAPED Afya Ipatinga em outubro de 2026."
+---
+
+<div class="page-kicker">Linha do tempo · 2026</div>
+
+<div class="action-grid"><article class="action-card">
+  <a class="card-image" href="../acoes/2026-10-formacao-matriz-ai-first-naped.html"><img src="../fotos/2026-10-matriz-ai-first-card.png" alt="Card de capacitação da Matriz AI First da Medicina Afya, realizada on-line em 20 de outubro" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">20/10/2026</div><span class="tag">Participação Institucional</span><span class="tag">Formação Docente</span><span class="tag">Metodologias Ativas</span>
+  <h3><a href="../acoes/2026-10-formacao-matriz-ai-first-naped.html">Participação do NAPED na semana de formações da Matriz AI First 2027.1</a></h3><p>Registro da participação do NAPED na semana de reuniões e formações da nova matriz curricular de Medicina, realizada de 20 a 30 de outubro e pautada em metodologias ativas.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-10-acelera-lider-ipatinga.html"><img src="../fotos/2026-10-acelera-lider-02.png" alt="Equipe da Afya Ipatinga reunida durante o treinamento Acelera Líder" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">19/10/2026</div><span class="tag">Liderança e Gestão</span><span class="tag">Desenvolvimento Institucional</span>
+  <h3><a href="../acoes/2026-10-acelera-lider-ipatinga.html">Acelera Líder — desenvolvimento de lideranças em Ipatinga</a></h3><p>Treinamento institucional de desenvolvimento de lideranças, realizado com participação de setores técnico-administrativos e parceria do NAPED com a coordenação.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-10-premiacao-docente.html"><img src="../fotos/2026-10-premiacao-docente-01.png" alt="Docente recebendo certificado de reconhecimento em premiação da Afya Ipatinga" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">19/10/2026</div><span class="tag">Valorização Docente</span><span class="tag">Reconhecimento Institucional</span>
+  <h3><a href="../acoes/2026-10-premiacao-docente.html">Valorização do profissional — Premiação docente</a></h3><p>Reconhecimento aos docentes de Enfermagem e Medicina da Afya Ipatinga, organizado por faixas de avaliações registradas.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-10-acreditacao-saeme-naped-institucional.html"><img src="../fotos/2026-10-acreditacao-saeme-naped-institucional.png" alt="Card institucional anunciando a acreditação da Afya Faculdade de Ciências Médicas de Ipatinga pelo SAEME-CFM" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">19/10/2026</div><span class="tag">Gestão Institucional</span><span class="tag">Qualidade Acadêmica</span>
+  <h3><a href="../acoes/2026-10-acreditacao-saeme-naped-institucional.html">Afya Ipatinga celebra acreditação SAEME</a></h3><p>Ação integrada do NAPED e do setor institucional para comunicar e valorizar a acreditação da Afya Ipatinga pelo SAEME-CFM.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-10-atendimentos-naped-corpo-docente.html"><img src="../fotos/2026-10-atendimentos-naped-corpo-docente.png" alt="Equipe reunida em registro fotográfico de atendimento e apoio do NAPED ao corpo docente da Afya Ipatinga" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">19/10/2026</div><span class="tag">Apoio Docente</span><span class="tag">Gestão Pedagógica</span>
+  <h3><a href="../acoes/2026-10-atendimentos-naped-corpo-docente.html">Atendimentos do NAPED junto ao corpo docente</a></h3><p>Registro de atendimento, escuta e apoio pedagógico do NAPED aos docentes da Afya Ipatinga.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-10-cafe-dia-professores-tecnicos.html"><img src="../fotos/2026-10-cafe-dia-professores-tecnicos.png" alt="Convite para café da tarde em comemoração ao Dia dos Professores e Técnicos Administrativos da Afya Ipatinga" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">08/10/2026</div><span class="tag">Comunicação Institucional</span><span class="tag">Valorização Docente</span>
+  <h3><a href="../acoes/2026-10-cafe-dia-professores-tecnicos.html">Café da tarde em comemoração ao Dia dos Professores e Técnicos Administrativos</a></h3><p>Encontro de integração e valorização da equipe Afya Ipatinga, com fala da direção sobre a importância das pessoas, mudanças e novos projetos institucionais.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-10-formacao-preceptoria-modulos.html"><img src="../fotos/2026-10-formacao-preceptoria-modulos.png" alt="Card do NAPED Afya com os oito módulos da Formação em Preceptoria e prazo final de conclusão em 30 de novembro de 2026" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">07/10/2026</div><span class="tag">Formação de Preceptores</span><span class="tag">Desenvolvimento Docente</span>
+  <h3><a href="../acoes/2026-10-formacao-preceptoria-modulos.html">Formação em Preceptoria — módulos do curso</a></h3><p>Divulgação dos oito módulos da formação em preceptoria do NAPED e do prazo para conclusão até 30 de novembro de 2026.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-10-premiacao-enamed-rone-cesario.html"><img src="../fotos/2026-10-premiacao-enamed-rone-cesario.png" alt="Card da premiação ENAMED 2026 que reconhece Rone Cesário da Silva, da Afya Ipatinga, com uma formação internacional em Inteligência Artificial" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">07/10/2026</div><span class="tag">Reconhecimento Acadêmico</span><span class="tag">Gestão Institucional</span>
+  <h3><a href="../acoes/2026-10-premiacao-enamed-rone-cesario.html">Reconhecimento pela mobilização do ENAMED 2026</a></h3><p>Homenagem à gestão acadêmica de Rone Cesário da Silva pelo reconhecimento da Afya Ipatinga entre as IES que mais recolheram cadernos de prova do ENAMED 2026.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-10-semana-memorial-palestra-melissa-ulhoa.html"><img src="../fotos/2026-10-semana-memorial-melissa-ulhoa-01.png" alt="Professora Melissa Ulhoa ministrando palestra sobre mecânica ventilatória durante a Semana do Memorial Acadêmico" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">06/10/2026</div><span class="tag">Acompanhamento Acadêmico</span><span class="tag">Formação em Saúde</span>
+  <h3><a href="../acoes/2026-10-semana-memorial-palestra-melissa-ulhoa.html">Semana do Memorial Acadêmico — programação de 6 a 8 de outubro</a></h3><p>Ação institucional realizada em conjunto com o NAPED durante a Semana do Memorial Acadêmico, com palestras, treinamento e momentos formativos para os estudantes.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-10-encontro-mentoria-gap-anemia.html"><img src="../fotos/2026-10-encontro-mentoria-gap-anemia.jpg" alt="Card de convite para encontro de mentoria do Projeto ENAMED sobre gap de anemia" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">06/10/2026</div><span class="tag">Acompanhamento Acadêmico</span><span class="tag">Preparação ENAMED</span>
+  <h3><a href="../acoes/2026-10-encontro-mentoria-gap-anemia.html">Encontro de Mentoria ENAMED — Gap de Anemia</a></h3><p>Encontro de mentoria do Projeto ENAMED sobre gap de anemia, conduzido por Marita de Novais Costa Salles de Almeida.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-10-openday-metodologias-ativas.html"><img src="../fotos/2026-10-openday-metodologias-ativas-01.png" alt="Professora do NAPED conduzindo atividade sobre metodologias ativas para estudantes durante o Open Day" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">05/10/2026</div><span class="tag">Formação Docente</span><span class="tag">Comunicação Institucional</span>
+  <h3><a href="../acoes/2026-10-openday-metodologias-ativas.html">Open Day: metodologias ativas e aproximação com a comunidade</a></h3><p>Participação do NAPED no Open Day da Afya Ipatinga, com atividade sobre metodologias ativas para estudantes do 3º ano do Ensino Médio.</p></div>
+</article></div>

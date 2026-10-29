@@ -1,0 +1,43 @@
+---
+title: "Atendimentos do NAPED junto ao corpo docente"
+description: "Registro de atendimento, escuta e apoio pedagógico do NAPED aos docentes da Afya Ipatinga."
+date: 2026-10-19
+date-format: "MMMM YYYY"
+categories: ["Apoio Docente", "Gestão Pedagógica"]
+status: "publicado"
+image: "fotos/2026-10-atendimentos-naped-corpo-docente.png"
+image-alt: "Equipe reunida em registro fotográfico de atendimento e apoio do NAPED ao corpo docente da Afya Ipatinga"
+participantes: null
+horas: null
+publico: "Corpo docente"
+cursos: ["Medicina"]
+local: "Afya Ipatinga"
+projeto: "Ação geral do NAPED"
+ordem: 38
+---
+
+::: {.acao-figura}
+![Equipe do NAPED em momento de atendimento e apoio ao corpo docente](../fotos/2026-10-atendimentos-naped-corpo-docente.png){#fig-atendimentos-naped-corpo-docente fig-alt="Três integrantes da equipe reunidas em frente à identidade visual da Afya, registrando um momento de atendimento e apoio ao corpo docente"}
+:::
+
+## Escuta e apoio pedagógico aos docentes
+
+### Objetivo
+
+Registrar a atuação do NAPED no atendimento ao corpo docente, oferecendo escuta, orientação e apoio às demandas relacionadas ao planejamento e à prática pedagógica.
+
+### Desenvolvimento
+
+O atendimento realizado pelo NAPED fortalece o diálogo com os professores e cria um espaço de troca sobre desafios, necessidades e possibilidades de melhoria no trabalho docente. A iniciativa contribui para aproximar a equipe pedagógica dos professores e apoiar a construção de estratégias alinhadas à qualidade do ensino e à experiência dos estudantes.
+
+### Resultados e encaminhamentos
+
+A ação reforça a presença do NAPED junto ao corpo docente, favorece o acompanhamento das demandas pedagógicas e estimula a colaboração entre os profissionais. As necessidades identificadas podem orientar novos atendimentos, formações e ações de desenvolvimento docente.
+
+### Evidência
+
+O registro fotográfico documenta um momento de integração e atendimento da equipe do NAPED junto ao corpo docente da Afya Ipatinga.
+
+::: {.acao-figura}
+![Registro fotográfico do atendimento do NAPED ao corpo docente](../fotos/2026-10-atendimentos-naped-corpo-docente.png){#fig-atendimentos-naped-corpo-docente-evidencia fig-alt="Registro fotográfico de integrantes do NAPED reunidas em momento de apoio e atendimento ao corpo docente"}
+:::

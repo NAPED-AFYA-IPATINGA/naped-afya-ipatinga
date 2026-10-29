@@ -37,6 +37,10 @@ website:
             text: Projeto MOVE
           - href: projetos/projeto-enamed.qmd
             text: Projeto ENAMED
+          - href: projetos/projeto-preceptoria.qmd
+            text: Projeto Preceptoria
+          - href: projetos/projeto-acelera-lider.qmd
+            text: Projeto Acelera Líder
       - href: equipe.qmd
         text: Equipe
       - href: resultados.qmd

@@ -1,0 +1,45 @@
+---
+title: "Afya Ipatinga celebra acreditação SAEME"
+description: "Ação integrada do NAPED e do setor institucional para comunicar e valorizar a acreditação da Afya Ipatinga pelo SAEME-CFM."
+date: 2026-10-19
+date-format: "MMMM YYYY"
+categories: ["Gestão Institucional", "Qualidade Acadêmica"]
+status: "publicado"
+image: "fotos/2026-10-acreditacao-saeme-naped-institucional.png"
+image-alt: "Card institucional anunciando a acreditação da Afya Faculdade de Ciências Médicas de Ipatinga pelo SAEME-CFM"
+participantes: null
+horas: null
+publico: "Comunidade acadêmica"
+cursos: ["Medicina"]
+local: "Afya Ipatinga"
+projeto: "Ação geral do NAPED"
+ordem: 39
+---
+
+::: {.acao-figura}
+![Card institucional sobre a acreditação SAEME-CFM da Afya Ipatinga](../fotos/2026-10-acreditacao-saeme-naped-institucional.png){#fig-acreditacao-saeme-naped-institucional fig-alt="Card da Afya Ipatinga anunciando a acreditação SAEME-CFM e destacando o compromisso com a qualidade do ensino e a excelência na formação médica"}
+:::
+
+## Uma conquista construída coletivamente
+
+### Objetivo
+
+Registrar a ação de comunicação e valorização realizada pelo NAPED em parceria com o setor institucional da Afya Ipatinga para compartilhar a conquista da acreditação pelo **SAEME-CFM** — Sistema de Acreditação de Escolas Médicas.
+
+### Desenvolvimento
+
+O NAPED e o setor institucional mobilizaram a comunidade acadêmica para comunicar que a Afya Ipatinga passou a ser apresentada como escola médica acreditada pelo SAEME-CFM. A mensagem destaca que o reconhecimento é resultado de um trabalho coletivo, construído com dedicação, parceria, compromisso e empenho de professores, técnicos administrativos, estudantes, gestores e demais colaboradores.
+
+Mais do que celebrar um selo, a ação reforça o compromisso da instituição com a qualidade do ensino, a excelência da formação médica e a melhoria contínua dos processos acadêmicos. O card também posiciona a conquista como motivo de orgulho para toda a comunidade da Afya Ipatinga.
+
+### Resultados e encaminhamentos
+
+A comunicação amplia a visibilidade da conquista, fortalece o sentimento de pertencimento e reconhece a participação das equipes na construção da trajetória institucional. O registro também contribui para preservar a memória das ações integradas entre o NAPED e a instituição.
+
+### Evidência
+
+O card institucional utilizado na comunicação integra este registro como evidência da ação de divulgação da acreditação SAEME-CFM.
+
+::: {.acao-figura}
+![Card oficial da comunicação sobre a acreditação SAEME-CFM](../fotos/2026-10-acreditacao-saeme-naped-institucional.png){#fig-acreditacao-saeme-evidencia fig-alt="Card oficial da Afya Faculdade de Ciências Médicas de Ipatinga celebrando a acreditação pelo SAEME-CFM"}
+:::

@@ -1,0 +1,38 @@
+---
+title: "Projeto Preceptoria"
+description: "Projeto institucional de formação e desenvolvimento de preceptores para qualificar a integração entre ensino, serviço e prática em saúde."
+project-key: "Projeto Preceptoria"
+label: "Formação em saúde"
+cta: "Conhecer o projeto →"
+---
+
+## Finalidade
+
+O **Projeto Preceptoria** organiza ações de formação e acompanhamento de profissionais que participam da educação prática em saúde. A proposta valoriza o preceptor como elo entre os conhecimentos acadêmicos e os cenários reais de cuidado, fortalecendo a aprendizagem dos estudantes, a reflexão sobre a prática e a qualidade da assistência.
+
+Na Afya, a capacitação em preceptoria integra iniciativas institucionais voltadas ao desenvolvimento acadêmico e profissional, à inovação das práticas educativas e à qualificação dos processos de ensino e aprendizagem. O programa busca apoiar profissionais que acompanham, orientam e avaliam estudantes em diferentes cenários de prática, aproximando ensino, serviço e comunidade.
+
+Na Afya Ipatinga, o NAPED atua como espaço institucional de apoio aos processos de ensinar e aprender e mantém uma frente de aproximação com professores e preceptores. Este projeto reúne, no portfólio local, as ações de formação, comunicação e acompanhamento relacionadas à preceptoria.
+
+## Público
+
+Profissionais da área da saúde que atuam ou atuarão como preceptores, supervisores e orientadores de estudantes de Medicina, além de docentes e equipes envolvidas na formação prática.
+
+## Eixos de desenvolvimento
+
+- função educativa e responsabilidades do preceptor;
+- fundamentos da educação em saúde e aprendizagem no trabalho;
+- comunicação, feedback e avaliação formativa;
+- supervisão ética, segura e humanizada;
+- saúde mental e bem-estar de preceptores e estudantes;
+- reflexão sobre a prática e melhoria contínua.
+
+## Ações do Projeto Preceptoria
+
+Esta ramificação reúne as ações do portfólio vinculadas ao Projeto Preceptoria.
+
+{{< include ../generated/projeto-projeto-preceptoria.md >}}
+
+## Referências institucionais
+
+A descrição considera as informações públicas da [Afya Faculdade de Ciências Médicas de Ipatinga](https://ipatinga.afya.com.br/institucional/naped) sobre o NAPED e sua aproximação com professores e preceptores, além da apresentação institucional do [Curso de Formação de Preceptores da Afya](https://faculdades.afya.com.br/noticias/afya-faculdade-sete-lagoas-abre-inscricoes-para-curso-de-formacao-de-preceptores-na-area-da-saude). O [papel do preceptor na formação em Medicina](https://educacaomedica.afya.com.br/blog/papel-do-preceptor-na-medicina) também orienta a compreensão do preceptor como facilitador da aprendizagem nos cenários reais de prática.

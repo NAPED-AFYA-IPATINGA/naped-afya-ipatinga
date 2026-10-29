@@ -1,0 +1,32 @@
+---
+title: "Projeto Acelera Líder"
+description: "Programa institucional da Afya para desenvolver lideranças nas unidades de ensino, fortalecendo gestão de pessoas, comunicação, cultura e desempenho."
+project-key: "Projeto Acelera Líder"
+label: "Liderança e desenvolvimento"
+cta: "Conhecer o projeto →"
+---
+
+## Finalidade
+
+O **Acelera Líder** é um programa institucional da Afya voltado ao desenvolvimento de lideranças nas unidades de ensino. A proposta combina ferramentas e conceitos de gestão com reflexão sobre pessoas, comunicação, cultura institucional, desenvolvimento de equipes e tomada de decisão, fortalecendo a atuação de quem conduz cursos, setores e projetos.
+
+Nas comunicações institucionais da Afya, o programa aparece como uma iniciativa de desenvolvimento de carreira e de fortalecimento da liderança, com impactos esperados em sucessão, engajamento e desempenho. As edições também promovem imersões entre lideranças acadêmicas e administrativas para compartilhar desafios, práticas e soluções.
+
+## Público
+
+O projeto reúne lideranças e profissionais que atuam na gestão acadêmica, administrativa e operacional das instituições Afya. Na ação registrada em Ipatinga, participaram profissionais de diferentes setores técnico-administrativos, ampliando a troca de experiências e a visão integrada sobre o trabalho institucional.
+
+## Papel do NAPED
+
+Em Ipatinga, o **NAPED atuou como parceiro da coordenação** na organização e no acompanhamento do treinamento. Sua contribuição esteve relacionada à articulação pedagógica, à integração dos participantes e à criação de espaços de reflexão sobre práticas de liderança, colaboração, aprendizagem institucional e desenvolvimento das equipes. O NAPED soma sua experiência formativa à coordenação sem substituir a governança institucional do programa.
+
+## Etapas e ações relacionadas
+
+Esta ramificação reúne o registro local do treinamento Acelera Líder e outras ações que venham a ser vinculadas ao projeto.
+
+{{< include ../generated/projeto-projeto-acelera-lider.md >}}
+
+## Referências institucionais
+
+- [Afya Pato Branco — edição do programa Acelera Líder e desenvolvimento de lideranças](https://faculdades.afya.com.br/noticias/afya-pato-branco-recebe-edicao-do-programa-acelera-lider-e-promove-imersao-em-desenvolvimento-de-liderancas)
+- [Afya Carreiras — Desenvolvimento de carreira](https://carreiras.afya.com.br/desenvolvimento-de-carreira)
