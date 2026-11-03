@@ -5,7 +5,7 @@ description: "Evidências públicas das ações do NAPED Afya Ipatinga."
 
 <div class="page-kicker">Evidências</div>
 
-Esta seção organizará fotografias, materiais e documentos **autorizados para publicação pública**, ligados às ações e projetos correspondentes. Materiais internos não serão incluídos no repositório público.
+Esta seção organiza fotografias, materiais e documentos autorizados para publicação pública, vinculados às ações e aos projetos correspondentes. As listas e fichas de presença são apresentadas como evidências documentais da realização das atividades e da participação registrada.
 
 {{< include generated/comprovacoes.md >}}
 
@@ -29,4 +29,22 @@ Registros de participação da Semana de Desenvolvimento Docente realizada em 01
 [![Lista de presença da SDD de 01/07/2026 — documento 7](fotos/sdd-2026-07-01-lista-presenca-07.png)](fotos/sdd-2026-07-01-lista-presenca-07.png){.attendance-document}
 
 [![Lista de presença da SDD de 01/07/2026 — documento 8](fotos/sdd-2026-07-01-lista-presenca-08.png)](fotos/sdd-2026-07-01-lista-presenca-08.png){.attendance-document}
+:::
+
+## Oficina de Avaliação Antropométrica
+
+Lista de presença da oficina conduzida pela nutricionista Renata Leão. O documento registra os participantes inscritos e integra as evidências da realização da atividade.
+
+[Baixar a lista de presença da Oficina de Avaliação Antropométrica](Lista_de_Presenca_Avaliacao_Antropometrica.docx){.btn .btn-primary}
+
+## Mentoria ENAMED — encontro de 06/10/2026
+
+Registro visual do encontro de mentoria sobre **Gap de Anemia**, conduzido pela Prof.ª Marita de Novais Costa Salles de Almeida, com duração de 1 hora e 30 minutos. A ficha organiza os participantes e convidados registrados, e as capturas documentam a realização da reunião on-line.
+
+::: {.attendance-grid}
+[![Ficha visual de participantes do encontro de mentoria ENAMED](fotos/2026-10-mentoria-enamed-gap-anemia-ficha-participantes.png)](fotos/2026-10-mentoria-enamed-gap-anemia-ficha-participantes.png){.attendance-document}
+
+[![Captura do encontro on-line de mentoria ENAMED](fotos/2026-10-mentoria-enamed-gap-anemia-encontro-01.jpg)](fotos/2026-10-mentoria-enamed-gap-anemia-encontro-01.jpg){.attendance-document}
+
+[![Segunda captura do encontro on-line de mentoria ENAMED](fotos/2026-10-mentoria-enamed-gap-anemia-encontro-02.jpg)](fotos/2026-10-mentoria-enamed-gap-anemia-encontro-02.jpg){.attendance-document}
 :::

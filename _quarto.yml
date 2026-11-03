@@ -12,6 +12,7 @@ project:
   resources:
     - fotos/*.png
     - fotos/*.jpg
+    - Lista_de_Presenca_Avaliacao_Antropometrica.docx
 
 website:
   title: "NAPED · Afya Ipatinga"
