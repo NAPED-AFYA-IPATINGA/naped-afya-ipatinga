@@ -122,6 +122,8 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 .action-card, .project-card, .evidence-card, .team-card { overflow: hidden; background: $surface; border: 1px solid $line; border-radius: 1rem; box-shadow: 0 10px 26px rgba(37,20,35,.04); }
 .card-image { display: block; height: 11rem; background: #e9d6e1; }
 .card-image img { width: 100%; height: 100%; object-fit: cover; }
+/* Mantém o rosto visível no card vertical da premiação docente. */
+.card-image img[src$="2026-10-premiacao-docente-01.png"] { object-position: center top; }
 .card-body { padding: 1.2rem; }
 .card-body h3 { font-size: 1.35rem; margin: .55rem 0 .55rem; }
 .card-body h3 a, .project-card, .evidence-card a { color: $ink; text-decoration: none; }
