@@ -1,0 +1,32 @@
+---
+title: "Capacitação em Ortopedia para a Atenção Primária"
+description: "Capacitação para médicos da Atenção Primária à Saúde, realizada em parceria com a Prefeitura de Ipatinga."
+date: 2026-08-28
+categories: ["Formação em Saúde", "Parcerias Institucionais"]
+status: "publicado"
+image: ""
+image-alt: ""
+participantes: null
+horas: null
+publico: "Médicos da Atenção Primária à Saúde"
+cursos: []
+local: "Sala 12 — Afya Ipatinga"
+projeto: ""
+ordem: 10
+---
+
+## Objetivo
+
+Atualizar médicos da Atenção Primária à Saúde em temas de ortopedia, em iniciativa desenvolvida em parceria com a Prefeitura de Ipatinga.
+
+## Desenvolvimento
+
+A capacitação foi realizada na Afya Ipatinga, articulando a formação continuada dos profissionais da rede e a integração entre ensino e território.
+
+## Resultados e encaminhamentos
+
+O encontro contribuiu para a troca de conhecimentos e para o fortalecimento da colaboração com a rede municipal de saúde.
+
+## Evidências
+
+A lista de presença da capacitação integra os materiais a serem organizados em Comprovações.

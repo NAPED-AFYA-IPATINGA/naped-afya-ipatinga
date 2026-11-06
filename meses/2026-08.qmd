@@ -16,9 +16,19 @@ description: "Ações do NAPED Afya Ipatinga em agosto de 2026."
   <h3><a href="../acoes/2026-08-circuito-residencia-enamed.html">Circuito Residência Médica — Preparação inteligente para ENAMED e residência</a></h3><p>Encontro especial com Carolina Silveira da Silva sobre preparação estratégica para o ENAMED e a residência médica.</p></div>
 </article>
 <article class="action-card">
+  <a class="card-image" href="../acoes/2026-08-capacitacao-ortopedia-atencao-primaria.html"><img src="../fotos/hero-workshop-demo.png" alt="Capacitação em Ortopedia para a Atenção Primária" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">28/08/2026</div><span class="tag">Formação em Saúde</span><span class="tag">Parcerias Institucionais</span>
+  <h3><a href="../acoes/2026-08-capacitacao-ortopedia-atencao-primaria.html">Capacitação em Ortopedia para a Atenção Primária</a></h3><p>Capacitação para médicos da Atenção Primária à Saúde, realizada em parceria com a Prefeitura de Ipatinga.</p></div>
+</article>
+<article class="action-card">
   <a class="card-image" href="../acoes/2026-08-docencia-em-foco-ia-pesquisa.html"><img src="../fotos/2026-08-docencia-em-foco.jpg" alt="Arte da série Docência em Foco do NAPED Ipatinga com luminária, livros e materiais do mês" loading="lazy"></a>
   <div class="card-body"><div class="card-meta">20/08/2026</div><span class="tag">Formação Docente</span><span class="tag">Produção de Conhecimento</span>
   <h3><a href="../acoes/2026-08-docencia-em-foco-ia-pesquisa.html">Docência em Foco (Agosto) — IA em Pesquisas e Publicações Acadêmicas</a></h3><p>Edição de agosto da série Docência em Foco sobre o uso da Inteligência Artificial em pesquisas e publicações acadêmicas.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-08-treinamento-cardiotocografia.html"><img src="../fotos/hero-workshop-demo.png" alt="Treinamento em cardiotocografia para a Atenção Primária" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">20/08/2026</div><span class="tag">Formação em Saúde</span><span class="tag">Parcerias Institucionais</span>
+  <h3><a href="../acoes/2026-08-treinamento-cardiotocografia.html">Treinamento em cardiotocografia para a Atenção Primária</a></h3><p>Treinamento realizado em parceria com a Prefeitura de Ipatinga sobre cardiotocografia para profissionais da Atenção Primária à Saúde.</p></div>
 </article>
 <article class="action-card">
   <a class="card-image" href="../acoes/2026-08-aulao-enamed-saude-coletiva.html"><img src="../fotos/2026-08-aulao-enamed-saude-coletiva.png" alt="Card do Aulão ENAMED Saúde Coletiva sobre ética médica e declaração de óbito" loading="lazy"></a>

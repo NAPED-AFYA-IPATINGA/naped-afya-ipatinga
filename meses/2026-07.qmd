@@ -21,9 +21,44 @@ description: "Ações do NAPED Afya Ipatinga em julho de 2026."
   <h3><a href="../acoes/2026-07-oficina-oste-sdd.html">Oficina OSTE — Semana de Desenvolvimento Docente</a></h3><p>Oficina com a metodologia OSTE (Objective Structured Teaching Encounters) na SDD da Afya Ipatinga, com simulação e feedback estruturado para docentes.</p></div>
 </article>
 <article class="action-card">
+  <a class="card-image" href="../acoes/2026-07-reuniao-primeiro-ano-gaps.html"><img src="../fotos/hero-workshop-demo.png" alt="SDD — Reunião do 1º ano: acolhimento, GAPS e progressão acadêmica" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">03/07/2026</div><span class="tag">Formação Docente</span><span class="tag">Acompanhamento Acadêmico</span><span class="tag">Currículo</span>
+  <h3><a href="../acoes/2026-07-reuniao-primeiro-ano-gaps.html">SDD — Reunião do 1º ano: acolhimento, GAPS e progressão acadêmica</a></h3><p>Reunião de alinhamento sobre acolhimento, lacunas de aprendizagem e progressão acadêmica no primeiro ano.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-07-ned-em-foco.html"><img src="../fotos/hero-workshop-demo.png" alt="SDD — NED em foco: acolhimento, diversidade e permanência" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">02/07/2026</div><span class="tag">Formação Docente</span><span class="tag">Acolhimento e Permanência</span>
+  <h3><a href="../acoes/2026-07-ned-em-foco.html">SDD — NED em foco: acolhimento, diversidade e permanência</a></h3><p>Encontro sobre acolhimento discente, diversidade e permanência estudantil.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-07-oficina-producao-cientifica-lattes.html"><img src="../fotos/hero-workshop-demo.png" alt="SDD — Produção Científica em Movimento" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">02/07/2026</div><span class="tag">Formação Docente</span><span class="tag">Pesquisa</span>
+  <h3><a href="../acoes/2026-07-oficina-producao-cientifica-lattes.html">SDD — Produção Científica em Movimento</a></h3><p>Oficina sobre estratégias para fortalecer publicações e qualificar o Currículo Lattes.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-07-oficina-inteligencia-artificial-notebooklm.html"><img src="../fotos/hero-workshop-demo.png" alt="SDD — Oficina de Inteligência Artificial e NotebookLM" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">02/07/2026</div><span class="tag">Formação Docente</span><span class="tag">Tecnologias Educacionais</span><span class="tag">Metodologias Ativas</span>
+  <h3><a href="../acoes/2026-07-oficina-inteligencia-artificial-notebooklm.html">SDD — Oficina de Inteligência Artificial e NotebookLM</a></h3><p>Oficina prática sobre o uso de Inteligência Artificial e NotebookLM na docência.</p></div>
+</article>
+<article class="action-card">
   <a class="card-image" href="../acoes/2026-07-primeiro-simulado-trajetoria-enamed.html"><img src="../fotos/2026-07-simulado-trajetoria-enamed-01.png" alt="Estudantes realizando o primeiro simulado pós-férias do programa Trajetória ENAMED" loading="lazy"></a>
   <div class="card-body"><div class="card-meta">01/07/2026</div><span class="tag">Acompanhamento Acadêmico</span><span class="tag">Preparação ENAMED</span>
   <h3><a href="../acoes/2026-07-primeiro-simulado-trajetoria-enamed.html">Primeiro simulado pós-férias — Trajetória ENAMED</a></h3><p>Realização do primeiro simulado pós-férias do programa Trajetória ENAMED, voltado ao acompanhamento da evolução acadêmica e à preparação estratégica dos estudantes.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-07-sdd-mesas-por-eixo.html"><img src="../fotos/hero-workshop-demo.png" alt="SDD — Mesas por eixo e Matriz de Avaliação" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">01/07/2026</div><span class="tag">Formação Docente</span><span class="tag">Avaliação</span><span class="tag">Currículo</span>
+  <h3><a href="../acoes/2026-07-sdd-mesas-por-eixo.html">SDD — Mesas por eixo e Matriz de Avaliação</a></h3><p>Discussão por eixos para desdobrar a Matriz de Avaliação na prática curricular.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-07-sdd-mudancas-sistema-avaliacao.html"><img src="../fotos/hero-workshop-demo.png" alt="SDD — Mudanças no Sistema de Avaliação de Medicina" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">01/07/2026</div><span class="tag">Formação Docente</span><span class="tag">Avaliação</span>
+  <h3><a href="../acoes/2026-07-sdd-mudancas-sistema-avaliacao.html">SDD — Mudanças no Sistema de Avaliação de Medicina</a></h3><p>Orientações ao corpo docente sobre as atualizações do sistema de avaliação do curso de Medicina.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-07-sdd-enamed-exames-externos.html"><img src="../fotos/hero-workshop-demo.png" alt="SDD — ENAMED e exames externos" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">01/07/2026</div><span class="tag">Formação Docente</span><span class="tag">ENAMED</span>
+  <h3><a href="../acoes/2026-07-sdd-enamed-exames-externos.html">SDD — ENAMED e exames externos</a></h3><p>Atividade da Semana de Desenvolvimento Docente sobre desafios, indicadores e compromisso com a formação do egresso.</p></div>
 </article>
 <article class="action-card">
   <a class="card-image" href="../acoes/2026-07-sdd-semana-desenvolvimento-docente.html"><img src="../fotos/2026-07-sdd-semana-desenvolvimento-docente.jpg" alt="Foto coletiva da equipe docente e do NAPED na Semana de Desenvolvimento Docente da Afya Ipatinga" loading="lazy"></a>

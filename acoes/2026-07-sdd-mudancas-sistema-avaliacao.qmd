@@ -1,0 +1,32 @@
+---
+title: "SDD — Mudanças no Sistema de Avaliação de Medicina"
+description: "Orientações ao corpo docente sobre as atualizações do sistema de avaliação do curso de Medicina."
+date: 2026-07-01
+categories: ["Formação Docente", "Avaliação"]
+status: "publicado"
+image: ""
+image-alt: ""
+participantes: null
+horas: null
+publico: "Docentes"
+cursos: ["Medicina"]
+local: "Afya Faculdade de Ciências Médicas de Ipatinga"
+projeto: ""
+ordem: 12
+---
+
+## Objetivo
+
+Apresentar ao corpo docente as mudanças no Sistema de Avaliação de Medicina e orientar sua aplicação nas rotinas acadêmicas.
+
+## Desenvolvimento
+
+Como parte da programação da SDD, a ação reuniu orientações sobre os processos avaliativos e favoreceu o esclarecimento de dúvidas dos docentes para o semestre.
+
+## Resultados e encaminhamentos
+
+O alinhamento contribuiu para maior compreensão dos fluxos de avaliação e para a atuação docente coerente com as diretrizes do curso.
+
+## Evidências
+
+A lista de presença correspondente compõe os registros documentais da SDD em Comprovações.

@@ -1,0 +1,32 @@
+---
+title: "SDD — Oficina de Inteligência Artificial e NotebookLM"
+description: "Oficina prática sobre o uso de Inteligência Artificial e NotebookLM na docência."
+date: 2026-07-02
+categories: ["Formação Docente", "Tecnologias Educacionais", "Metodologias Ativas"]
+status: "publicado"
+image: ""
+image-alt: ""
+participantes: null
+horas: null
+publico: "Docentes"
+cursos: ["Medicina"]
+local: "Afya Faculdade de Ciências Médicas de Ipatinga"
+projeto: ""
+ordem: 10
+---
+
+## Objetivo
+
+Ampliar o repertório docente para o uso crítico e intencional de recursos de Inteligência Artificial e do NotebookLM em atividades de ensino.
+
+## Desenvolvimento
+
+A oficina, realizada na programação da SDD, apresentou possibilidades de organização de materiais, elaboração de propostas e apoio ao planejamento pedagógico com ferramentas digitais.
+
+## Resultados e encaminhamentos
+
+O encontro incentivou a experimentação responsável de tecnologias educacionais, conectada às necessidades reais do trabalho docente.
+
+## Evidências
+
+A lista de presença de 02 de julho integra os registros documentais da SDD.

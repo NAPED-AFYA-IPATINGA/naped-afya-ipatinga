@@ -1,0 +1,32 @@
+---
+title: "Treinamento em cardiotocografia para a Atenção Primária"
+description: "Treinamento realizado em parceria com a Prefeitura de Ipatinga sobre cardiotocografia para profissionais da Atenção Primária à Saúde."
+date: 2026-08-20
+categories: ["Formação em Saúde", "Parcerias Institucionais"]
+status: "publicado"
+image: ""
+image-alt: ""
+participantes: null
+horas: null
+publico: "Profissionais da Atenção Primária à Saúde"
+cursos: []
+local: "Sala 12 — Afya Ipatinga"
+projeto: ""
+ordem: 10
+---
+
+## Objetivo
+
+Oferecer atualização sobre cardiotocografia aos profissionais da Atenção Primária à Saúde, em atividade realizada com a Prefeitura de Ipatinga.
+
+## Desenvolvimento
+
+O treinamento foi realizado na Afya Ipatinga e reuniu profissionais da rede para discussão e atualização do tema no contexto do cuidado em saúde.
+
+## Resultados e encaminhamentos
+
+A ação fortaleceu a parceria institucional e contribuiu para a circulação de conhecimentos entre a faculdade e a rede de saúde do território.
+
+## Evidências
+
+A lista de presença do treinamento está disponível para organização na seção de Comprovações.

@@ -1,0 +1,32 @@
+---
+title: "SDD — Mesas por eixo e Matriz de Avaliação"
+description: "Discussão por eixos para desdobrar a Matriz de Avaliação na prática curricular."
+date: 2026-07-01
+categories: ["Formação Docente", "Avaliação", "Currículo"]
+status: "publicado"
+image: ""
+image-alt: ""
+participantes: null
+horas: null
+publico: "Docentes"
+cursos: ["Medicina"]
+local: "Afya Faculdade de Ciências Médicas de Ipatinga"
+projeto: ""
+ordem: 13
+---
+
+## Objetivo
+
+Traduzir a Matriz de Avaliação para a prática curricular por meio de mesas de discussão organizadas pelos eixos do curso.
+
+## Desenvolvimento
+
+Os docentes participaram de espaços de trabalho voltados ao diálogo entre objetivos de aprendizagem, atividades pedagógicas e estratégias avaliativas de cada eixo.
+
+## Resultados e encaminhamentos
+
+A atividade fortaleceu o alinhamento entre os eixos e a construção compartilhada de referências para a avaliação da aprendizagem.
+
+## Evidências
+
+Os registros de presença da atividade estão organizados na seção de Comprovações da SDD.

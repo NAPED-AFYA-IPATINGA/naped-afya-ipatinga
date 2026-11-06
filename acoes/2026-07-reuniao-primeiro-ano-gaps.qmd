@@ -1,0 +1,32 @@
+---
+title: "SDD — Reunião do 1º ano: acolhimento, GAPS e progressão acadêmica"
+description: "Reunião de alinhamento sobre acolhimento, lacunas de aprendizagem e progressão acadêmica no primeiro ano."
+date: 2026-07-03
+categories: ["Formação Docente", "Acompanhamento Acadêmico", "Currículo"]
+status: "publicado"
+image: ""
+image-alt: ""
+participantes: null
+horas: null
+publico: "Docentes do 1º ano"
+cursos: ["Medicina"]
+local: "Sala 12 — Afya Ipatinga"
+projeto: ""
+ordem: 10
+---
+
+## Objetivo
+
+Alinhar ações de acolhimento e acompanhamento do primeiro ano, com atenção às lacunas de aprendizagem e à progressão acadêmica dos estudantes.
+
+## Desenvolvimento
+
+Durante a SDD, docentes e equipe pedagógica se reuniram para discutir necessidades recorrentes do primeiro ano e possibilidades de resposta coordenada ao longo do semestre.
+
+## Resultados e encaminhamentos
+
+O encontro favoreceu o planejamento integrado de ações de acompanhamento e o fortalecimento do diálogo entre os responsáveis pela experiência acadêmica inicial.
+
+## Evidências
+
+A lista de presença da reunião está registrada na documentação da SDD.

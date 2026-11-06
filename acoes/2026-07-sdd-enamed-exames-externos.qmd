@@ -1,0 +1,32 @@
+---
+title: "SDD — ENAMED e exames externos"
+description: "Atividade da Semana de Desenvolvimento Docente sobre desafios, indicadores e compromisso com a formação do egresso."
+date: 2026-07-01
+categories: ["Formação Docente", "ENAMED"]
+status: "publicado"
+image: ""
+image-alt: ""
+participantes: null
+horas: null
+publico: "Docentes"
+cursos: ["Medicina"]
+local: "Afya Faculdade de Ciências Médicas de Ipatinga"
+projeto: "Projeto ENAMED"
+ordem: 11
+---
+
+## Objetivo
+
+Promover o alinhamento do corpo docente sobre o ENAMED e outros exames externos, relacionando indicadores de desempenho à responsabilidade coletiva com a formação do egresso.
+
+## Desenvolvimento
+
+Realizada durante a Semana de Desenvolvimento Docente, a atividade abordou os desafios dos exames externos e seu uso como subsídio para reflexão sobre currículo, acompanhamento da aprendizagem e práticas formativas.
+
+## Resultados e encaminhamentos
+
+O encontro reforçou a importância do acompanhamento contínuo dos indicadores e da atuação articulada entre docentes, coordenação e NAPED.
+
+## Evidências
+
+A lista de presença da atividade integra a pasta documental da SDD em Comprovações.

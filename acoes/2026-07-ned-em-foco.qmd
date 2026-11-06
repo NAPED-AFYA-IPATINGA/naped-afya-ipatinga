@@ -1,0 +1,32 @@
+---
+title: "SDD — NED em foco: acolhimento, diversidade e permanência"
+description: "Encontro sobre acolhimento discente, diversidade e permanência estudantil."
+date: 2026-07-02
+categories: ["Formação Docente", "Acolhimento e Permanência"]
+status: "publicado"
+image: ""
+image-alt: ""
+participantes: null
+horas: null
+publico: "Docentes"
+cursos: ["Medicina"]
+local: "Afya Faculdade de Ciências Médicas de Ipatinga"
+projeto: ""
+ordem: 12
+---
+
+## Objetivo
+
+Promover reflexão sobre acolhimento discente, diversidade e estratégias institucionais de permanência estudantil.
+
+## Desenvolvimento
+
+O encontro integrou a programação da SDD e dialogou sobre práticas de escuta, inclusão e encaminhamento de demandas que atravessam a trajetória acadêmica dos estudantes.
+
+## Resultados e encaminhamentos
+
+A atividade reforçou o compromisso compartilhado com um ambiente formativo acolhedor, respeitoso e atento às diferentes necessidades dos estudantes.
+
+## Evidências
+
+A lista de presença da atividade está prevista na pasta documental da SDD, em Comprovações.
