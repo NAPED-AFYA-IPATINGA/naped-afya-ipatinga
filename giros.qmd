@@ -1,0 +1,10 @@
+---
+title: "Giros do NAPED"
+description: "Atualizações breves sobre o cotidiano, as articulações e os movimentos do NAPED Afya Ipatinga."
+---
+
+<div class="page-kicker">Em movimento</div>
+
+Os **Giros do NAPED** serão um espaço para compartilhar atualizações breves do cotidiano da equipe: articulações com docentes e setores, bastidores de formações, convites, acompanhamentos e outros movimentos que fortalecem a experiência pedagógica na Afya Ipatinga.
+
+<div class="empty-state"><strong>Em breve.</strong> Os primeiros giros serão publicados nesta página conforme os registros forem organizados e autorizados.</div>

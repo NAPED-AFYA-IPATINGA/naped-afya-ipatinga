@@ -26,6 +26,8 @@ website:
         text: Início
       - href: acoes.qmd
         text: Ações
+      - href: giros.qmd
+        text: Giros do NAPED
       - href: meses.qmd
         text: Meses
       - text: Projetos
