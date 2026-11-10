@@ -28,6 +28,8 @@ website:
         text: Ações
       - href: giros.qmd
         text: Giros do NAPED
+      - href: ligas-academicas.qmd
+        text: Ligas Acadêmicas
       - href: meses.qmd
         text: Meses
       - text: Projetos

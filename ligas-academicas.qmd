@@ -1,0 +1,145 @@
+---
+title: "Ligas Acadêmicas"
+description: "Registros de ações das Ligas Acadêmicas da Afya Ipatinga, com orientação docente e protagonismo estudantil."
+---
+
+<div class="page-kicker">Ensino · extensão · protagonismo estudantil</div>
+
+As **Ligas Acadêmicas da Afya Ipatinga** representam espaços de aprofundamento científico, integração entre ensino, pesquisa e extensão e fortalecimento da formação médica. Por meio de ações educativas, campanhas, apresentações acadêmicas e atividades práticas, os estudantes ampliam conhecimentos, desenvolvem habilidades e se aproximam das demandas reais da comunidade.
+
+Nesta página, estão reunidos registros de ações desenvolvidas pelas ligas, evidenciando o protagonismo discente, a orientação docente e o compromisso institucional com uma formação acadêmica ativa, humanizada e socialmente comprometida.
+
+::: {.league-record #hematologia}
+## Liga Acadêmica de Hematologia
+
+<p class="league-teacher"><strong>Docente responsável:</strong> Prof.ª Marita de Novais Costa Salles de Almeida</p>
+
+### Ação acadêmica e educativa da Liga de Hematologia
+
+A Liga Acadêmica de Hematologia desenvolve ações que contribuem para o aprofundamento do conhecimento científico, a formação prática dos estudantes e a promoção da educação em saúde. Nesta atividade, as ligantes participaram de momentos de organização, apresentação e sensibilização acadêmica, abordando temas de relevância para a área hematológica e para a formação médica.
+
+As imagens evidenciam a participação ativa das estudantes em momentos de organização, acolhimento e orientação, além de uma atividade expositiva com conteúdo científico e abordagem educativa. A ação demonstra o compromisso da liga com a integração entre ensino e extensão, fortalecendo o protagonismo estudantil e a atuação orientada por docentes na construção de experiências acadêmicas significativas.
+
+<div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de Hematologia">
+  <img src="fotos/ligas-academicas-hematologia-01.png" alt="Integrantes da Liga Acadêmica de Hematologia durante ação educativa" loading="lazy">
+  <img src="fotos/ligas-academicas-hematologia-02.png" alt="Apresentação acadêmica promovida pela Liga de Hematologia" loading="lazy">
+  <img src="fotos/ligas-academicas-hematologia-03.png" alt="Atividade de conscientização conduzida por integrantes da Liga de Hematologia" loading="lazy">
+  <img src="fotos/ligas-academicas-hematologia-04.png" alt="Registro da professora Marita Novais com integrantes da Liga de Hematologia" loading="lazy">
+</div>
+:::
+
+::: {.league-record #psiquiatria}
+## Liga Acadêmica de Psiquiatria
+
+<p class="league-teacher"><strong>Docente responsável:</strong> Prof. Thiago Xavier Corrêa</p>
+
+### Educação em saúde, prevenção e comunicação humanizada
+
+A Liga Acadêmica de Psiquiatria da Afya Ipatinga desenvolveu atividades educativas relacionadas à campanha **Abril Verde**, iniciativa de conscientização sobre saúde e segurança no ambiente de trabalho. Os registros evidenciam a organização de espaços informativos, materiais educativos e momentos de interação com o público, abordando a importância da prevenção, do cuidado coletivo e da promoção de ambientes de trabalho mais seguros.
+
+Entre as atividades documentadas, destaca-se a proposta **“Fluxo da Conversa Difícil — Um caminho de respeito e empatia”**, com orientações sobre escuta ativa, comunicação respeitosa, preparação para conversas delicadas e prevenção de atitudes que dificultam o diálogo. As fotografias também apresentam discussões em pequenos grupos, com materiais de apoio e participação ativa dos estudantes, favorecendo a troca de experiências e o desenvolvimento de competências comunicacionais.
+
+A iniciativa evidencia a contribuição da liga para uma formação médica que valoriza não apenas o conhecimento científico, mas também a escuta, a empatia, a comunicação humanizada e a responsabilidade social. Os registros foram reunidos como um conjunto de ações, sem atribuição de data específica ou presunção de que ocorreram no mesmo encontro.
+
+<div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de Psiquiatria">
+  <img src="fotos/ligas-academicas-psiquiatria-01.png" alt="Ação educativa da Liga Acadêmica de Psiquiatria" loading="lazy">
+  <img src="fotos/ligas-academicas-psiquiatria-02.png" alt="Ambientação da campanha Abril Verde promovida pela Liga de Psiquiatria" loading="lazy">
+  <img src="fotos/ligas-academicas-psiquiatria-03.png" alt="Material educativo sobre comunicação respeitosa" loading="lazy">
+  <img src="fotos/ligas-academicas-psiquiatria-04.png" alt="Interação com participantes durante ação da Liga de Psiquiatria" loading="lazy">
+  <img src="fotos/ligas-academicas-psiquiatria-05.png" alt="Atividade de conscientização sobre saúde e segurança no trabalho" loading="lazy">
+  <img src="fotos/ligas-academicas-psiquiatria-06.png" alt="Registro institucional de integrantes da Liga de Psiquiatria" loading="lazy">
+  <img src="fotos/ligas-academicas-psiquiatria-07.png" alt="Estudantes em atividade de aprendizagem colaborativa" loading="lazy">
+  <img src="fotos/ligas-academicas-psiquiatria-08.png" alt="Discussão em pequeno grupo durante atividade da Liga de Psiquiatria" loading="lazy">
+  <img src="fotos/ligas-academicas-psiquiatria-09.png" alt="Participação estudantil em atividade de comunicação humanizada" loading="lazy">
+  <img src="fotos/ligas-academicas-psiquiatria-10.png" alt="Material de apoio utilizado em atividade da Liga de Psiquiatria" loading="lazy">
+</div>
+:::
+
+::: {.league-record #neurologia-neurociencias}
+## Liga Acadêmica de Neurologia e Neurociências
+
+<p class="league-teacher"><strong>Docente responsável:</strong> Prof.ª Melissa Araújo Ulhôa Quintão</p>
+
+### Conhecimento científico e cuidado com a comunidade
+
+Sob orientação da professora **Melissa Araújo Ulhôa Quintão**, a Liga Acadêmica de Neurologia e Neurociências desenvolve experiências que aproximam os estudantes de Medicina da prática profissional e das necessidades da comunidade.
+
+Os registros fotográficos evidenciam a participação dos acadêmicos em uma ação externa de educação em saúde, marcada pela interação com o público, atividades de acolhimento e demonstrações relacionadas à avaliação neurológica. Entre os momentos documentados, destaca-se a utilização de instrumentos empregados no exame neurológico, como martelos de reflexos e diapasões, proporcionando oportunidades de aproximação entre conhecimentos teóricos e sua aplicação prática.
+
+A iniciativa também contou com recursos lúdicos, incluindo personagens caracterizados, que contribuíram para tornar o ambiente mais acolhedor e favorecer a aproximação com o público. Além das atividades comunitárias, os registros apresentam a participação dos estudantes em um encontro acadêmico realizado em laboratório, evidenciando a integração entre formação científica, vivências práticas e trabalho em equipe. Os registros não são apresentados como partes de um mesmo evento.
+
+<div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de Neurologia e Neurociências">
+  <img src="fotos/ligas-academicas-neurologia-neurociencias-01.png" alt="Acadêmicos de Neurologia e Neurociências em ação comunitária" loading="lazy">
+  <img src="fotos/ligas-academicas-neurologia-neurociencias-02.png" alt="Acolhimento do público em atividade da Liga de Neurologia e Neurociências" loading="lazy">
+  <img src="fotos/ligas-academicas-neurologia-neurociencias-03.png" alt="Instrumentos utilizados em demonstração de avaliação neurológica" loading="lazy">
+  <img src="fotos/ligas-academicas-neurologia-neurociencias-04.png" alt="Demonstração relacionada à avaliação neurológica" loading="lazy">
+  <img src="fotos/ligas-academicas-neurologia-neurociencias-05.png" alt="Integrantes da Liga de Neurologia e Neurociências em ambiente acadêmico" loading="lazy">
+</div>
+:::
+
+::: {.league-record #saude-diversidade}
+## Liga Acadêmica de Saúde e Diversidade
+
+<p class="league-teacher"><strong>Docente responsável:</strong> Prof. Rone Cesario da Silva</p>
+
+### A inclusão transforma o cuidado
+
+Sob orientação do professor **Rone Cesario da Silva**, a Liga Acadêmica de Saúde e Diversidade participou da XXII Jornada Acadêmica da Saúde e do XII Congresso de Atualidades Médicas do Vale do Aço, promovendo reflexões sobre a importância da inclusão e do respeito à diversidade na prática médica.
+
+A atividade, apresentada sob o tema **“O conhecimento transforma a prática. A inclusão salva vidas”**, utilizou uma dinâmica de simulação de atendimento para valorizar a comunicação, a escuta qualificada e o acolhimento das particularidades de cada paciente. Os registros mostram estudantes envolvidos em uma situação simulada de interação profissional-paciente, acompanhada por integrantes da equipe organizadora, com materiais de apoio e observação da atividade.
+
+A proposta evidencia a importância de preparar futuros médicos para reconhecer diferentes necessidades, respeitar identidades e promover um cuidado livre de preconceitos. A participação da liga reforça o compromisso da Afya Ipatinga com uma formação médica humanizada, ética e socialmente responsável.
+
+<div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de Saúde e Diversidade">
+  <img src="fotos/ligas-academicas-saude-diversidade-01.png" alt="Visão geral de atividade simulada da Liga de Saúde e Diversidade" loading="lazy">
+  <img src="fotos/ligas-academicas-saude-diversidade-02.png" alt="Interação em contexto de comunicação inclusiva" loading="lazy">
+  <img src="fotos/ligas-academicas-saude-diversidade-03.png" alt="Acompanhamento de atividade simulada sobre diversidade no cuidado" loading="lazy">
+  <img src="fotos/ligas-academicas-saude-diversidade-04.png" alt="Aprendizagem experiencial promovida pela Liga de Saúde e Diversidade" loading="lazy">
+</div>
+:::
+
+::: {.league-record #pediatria-neonatologia}
+## Liga Acadêmica de Pediatria e Neonatologia
+
+<p class="league-teacher"><strong>Docente responsável:</strong> Prof.ª Catarina Amorim Baccarini Pires</p>
+
+### Aprendizagem colaborativa e protagonismo estudantil
+
+Sob orientação da professora **Catarina Amorim Baccarini Pires**, a Liga Acadêmica de Pediatria e Neonatologia da Afya Ipatinga promove atividades que ampliam as oportunidades de aprendizagem e aprofundamento científico dos estudantes de Medicina.
+
+Os registros fotográficos apresentam uma atividade acadêmica organizada em pequenos grupos, na qual os participantes trabalham com materiais impressos, realizam anotações e compartilham conhecimentos por meio de discussões orientadas. A dinâmica valoriza a participação ativa dos estudantes, o trabalho em equipe e a construção coletiva do conhecimento, elementos importantes para o desenvolvimento do raciocínio clínico, da comunicação e da capacidade de tomada de decisões na formação médica.
+
+A iniciativa evidencia a importância das ligas acadêmicas como espaços complementares de formação, contribuindo para o desenvolvimento de competências que sustentam uma assistência pediátrica e neonatal qualificada, ética e humanizada. O conteúdo específico discutido não foi atribuído, pois não pôde ser confirmado pelos registros.
+
+<div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de Pediatria e Neonatologia">
+  <img src="fotos/ligas-academicas-pediatria-neonatologia-01.png" alt="Estudantes em discussão orientada na Liga de Pediatria e Neonatologia" loading="lazy">
+  <img src="fotos/ligas-academicas-pediatria-neonatologia-02.png" alt="Atividade de aprendizagem colaborativa com acadêmicos" loading="lazy">
+  <img src="fotos/ligas-academicas-pediatria-neonatologia-03.png" alt="Estudantes utilizando materiais de apoio em atividade de grupo" loading="lazy">
+  <img src="fotos/ligas-academicas-pediatria-neonatologia-04.png" alt="Participação estudantil em encontro acadêmico da Liga de Pediatria e Neonatologia" loading="lazy">
+</div>
+:::
+
+::: {.league-record #cirurgia-trauma}
+## Liga Acadêmica de Cirurgia e Trauma
+
+<p class="league-teacher"><strong>Docente responsável:</strong> Prof. Felippe Hauck Mansur</p>
+
+### Conhecimento que prepara para salvar vidas
+
+Sob orientação do professor **Felippe Hauck Mansur**, a Liga Acadêmica de Cirurgia e Trauma da Afya Ipatinga participou de uma ação comunitária de educação em saúde, aproximando os conhecimentos da formação médica das necessidades da população.
+
+A iniciativa contou com demonstrações práticas de técnicas de primeiros socorros e suporte básico de vida, utilizando manequins de simulação, desfibrilador externo automático e equipamentos de ventilação. Os registros evidenciam a interação dos acadêmicos com participantes da comunidade, incluindo crianças e adultos, em atividades educativas relacionadas ao reconhecimento de situações de emergência e à atuação inicial diante de uma parada cardiorrespiratória.
+
+A utilização de recursos de simulação permitiu apresentar procedimentos relacionados à reanimação cardiopulmonar de maneira acessível, incentivando a participação do público e a disseminação de conhecimentos importantes para a segurança e a saúde coletiva. A atividade reforça o compromisso da liga com a formação prática dos estudantes, o desenvolvimento de competências para situações de urgência e emergência e a responsabilidade social.
+
+<div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de Cirurgia e Trauma">
+  <img src="fotos/ligas-academicas-cirurgia-trauma-01.png" alt="Equipe e estrutura educativa da Liga de Cirurgia e Trauma" loading="lazy">
+  <img src="fotos/ligas-academicas-cirurgia-trauma-02.png" alt="Demonstração orientada com materiais de simulação" loading="lazy">
+  <img src="fotos/ligas-academicas-cirurgia-trauma-03.png" alt="Preparação de atividade relacionada ao suporte básico de vida" loading="lazy">
+  <img src="fotos/ligas-academicas-cirurgia-trauma-04.png" alt="Acadêmicos apresentando equipamentos utilizados em primeiros socorros" loading="lazy">
+  <img src="fotos/ligas-academicas-cirurgia-trauma-05.png" alt="Demonstração prática acompanhada por integrantes da comunidade" loading="lazy">
+  <img src="fotos/ligas-academicas-cirurgia-trauma-06.png" alt="Participação da comunidade em atividade com manequim de treinamento" loading="lazy">
+  <img src="fotos/ligas-academicas-cirurgia-trauma-07.png" alt="Atividade educativa de primeiros socorros com crianças e adultos" loading="lazy">
+  <img src="fotos/ligas-academicas-cirurgia-trauma-08.png" alt="Registro coletivo da Liga de Cirurgia e Trauma em ação comunitária" loading="lazy">
+</div>
+:::
