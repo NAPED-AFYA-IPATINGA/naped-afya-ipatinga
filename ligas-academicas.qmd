@@ -5,7 +5,9 @@ description: "Ligas Acadêmicas da Afya Ipatinga e seus registros de formação,
 
 <div class="page-kicker">Ensino · extensão · protagonismo estudantil</div>
 
+::: {.league-index-intro}
 As **Ligas Acadêmicas da Afya Ipatinga** são espaços de aprofundamento científico, integração entre ensino, pesquisa e extensão e fortalecimento da formação médica. Selecione uma liga para acessar sua página, seus textos institucionais e suas evidências.
+:::
 
 <div class="league-index-grid">
   <a class="league-index-card" href="ligas/hematologia.html"><img src="fotos/ligas-academicas-hematologia-01.png" alt="Liga Acadêmica de Hematologia" loading="lazy"><span>Marita de Novais Costa Salles de Almeida</span><h2>Hematologia</h2><b>Ver publicações →</b></a>
