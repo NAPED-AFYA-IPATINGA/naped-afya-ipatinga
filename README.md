@@ -17,7 +17,7 @@ O resultado fica em `_site/` e não deve ser commitado. Os arquivos de conteúdo
 
 ## Publicação prevista
 
-O workflow em `.github/workflows/publicar.yml` renderiza e envia `_site/` ao GitHub Pages. No GitHub, selecione **Settings → Pages → Source: GitHub Actions** antes do primeiro deploy. A URL de projeto prevista é `https://jeffersonnetto.github.io/portifolio-naped-afya-ipatinga/`. Confirme o endereço real após o workflow.
+O workflow em `.github/workflows/publicar.yml` renderiza e envia `_site/` ao GitHub Pages. O site público está disponível em `https://naped-afya-ipatinga.github.io/naped-afya-ipatinga/`.
 
 Nesta sessão local, `gh auth status` indicou autenticação inválida; não há envio ao remoto nesta entrega. A publicação fica para o ticket [NAPED-16](tickets/NAPED-16-publicacao-aceite.md).
 

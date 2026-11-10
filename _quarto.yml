@@ -17,7 +17,7 @@ project:
 website:
   title: "NAPED · Afya Ipatinga"
   description: "Portfólio de ações e resultados do NAPED da Afya Ipatinga, Minas Gerais."
-  site-url: "https://jeffersonnetto.github.io/portifolio-naped-afya-ipatinga/"
+  site-url: "https://naped-afya-ipatinga.github.io/naped-afya-ipatinga/"
   navbar:
     logo: assets/logo.png
     title: false
