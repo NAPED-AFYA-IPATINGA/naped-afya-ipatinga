@@ -1,0 +1,23 @@
+---
+title: "Liga Acadêmica de Pediatria"
+description: "Ações e evidências da Liga Acadêmica de Pediatria da Afya Ipatinga."
+---
+
+::: {.league-page}
+[← Voltar para Ligas Acadêmicas](../ligas-academicas.qmd){.league-back}
+
+<p class="league-teacher"><strong>Docente responsável:</strong> Prof.ª Catarina Amorim Baccarini Pires</p>
+
+## Aprendizagem colaborativa e protagonismo estudantil
+
+Sob orientação da professora **Catarina Amorim Baccarini Pires**, a Liga Acadêmica de Pediatria promove atividades que ampliam as oportunidades de aprendizagem e aprofundamento científico dos estudantes de Medicina.
+
+Os registros apresentam uma atividade organizada em pequenos grupos, na qual os participantes trabalham com materiais impressos, realizam anotações e compartilham conhecimentos por meio de discussões orientadas. O conteúdo específico discutido não foi atribuído, pois não pôde ser confirmado pelos registros.
+
+<div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de Pediatria">
+  <img src="../fotos/ligas-academicas-pediatria-neonatologia-01.png" alt="Estudantes em discussão orientada na Liga de Pediatria" loading="lazy">
+  <img src="../fotos/ligas-academicas-pediatria-neonatologia-02.png" alt="Atividade de aprendizagem colaborativa com acadêmicos" loading="lazy">
+  <img src="../fotos/ligas-academicas-pediatria-neonatologia-03.png" alt="Estudantes utilizando materiais de apoio em atividade de grupo" loading="lazy">
+  <img src="../fotos/ligas-academicas-pediatria-neonatologia-04.png" alt="Participação estudantil em encontro acadêmico da Liga de Pediatria" loading="lazy">
+</div>
+:::

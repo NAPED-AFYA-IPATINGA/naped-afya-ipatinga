@@ -1,0 +1,27 @@
+---
+title: "Liga Acadêmica de Cirurgia e Trauma"
+description: "Ações e evidências da Liga Acadêmica de Cirurgia e Trauma da Afya Ipatinga."
+---
+
+::: {.league-page}
+[← Voltar para Ligas Acadêmicas](../ligas-academicas.qmd){.league-back}
+
+<p class="league-teacher"><strong>Docente responsável:</strong> Prof. Felippe Hauck Mansur</p>
+
+## Conhecimento que prepara para salvar vidas
+
+Sob orientação do professor **Felippe Hauck Mansur**, a Liga Acadêmica de Cirurgia e Trauma participou de uma ação comunitária de educação em saúde, aproximando os conhecimentos da formação médica das necessidades da população.
+
+A iniciativa contou com demonstrações práticas de primeiros socorros e suporte básico de vida, utilizando manequins de simulação, desfibrilador externo automático e equipamentos de ventilação. Os registros evidenciam a interação dos acadêmicos com participantes da comunidade, incluindo crianças e adultos.
+
+<div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de Cirurgia e Trauma">
+  <img src="../fotos/ligas-academicas-cirurgia-trauma-01.png" alt="Equipe e estrutura educativa da Liga de Cirurgia e Trauma" loading="lazy">
+  <img src="../fotos/ligas-academicas-cirurgia-trauma-02.png" alt="Demonstração orientada com materiais de simulação" loading="lazy">
+  <img src="../fotos/ligas-academicas-cirurgia-trauma-03.png" alt="Preparação de atividade relacionada ao suporte básico de vida" loading="lazy">
+  <img src="../fotos/ligas-academicas-cirurgia-trauma-04.png" alt="Acadêmicos apresentando equipamentos utilizados em primeiros socorros" loading="lazy">
+  <img src="../fotos/ligas-academicas-cirurgia-trauma-05.png" alt="Demonstração prática acompanhada por integrantes da comunidade" loading="lazy">
+  <img src="../fotos/ligas-academicas-cirurgia-trauma-06.png" alt="Participação da comunidade em atividade com manequim de treinamento" loading="lazy">
+  <img src="../fotos/ligas-academicas-cirurgia-trauma-07.png" alt="Atividade educativa de primeiros socorros com crianças e adultos" loading="lazy">
+  <img src="../fotos/ligas-academicas-cirurgia-trauma-08.png" alt="Registro coletivo da liga em ação comunitária" loading="lazy">
+</div>
+:::

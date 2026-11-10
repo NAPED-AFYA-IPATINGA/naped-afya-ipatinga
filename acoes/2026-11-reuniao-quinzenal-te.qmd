@@ -1,0 +1,30 @@
+---
+title: "Reunião quinzenal de Tecnologias Educacionais"
+description: "Encontro quinzenal para alinhamento de demandas, orientações e processos relacionados às Tecnologias Educacionais."
+date: 2026-11-06
+categories: ["Tecnologias Educacionais", "Gestão Pedagógica"]
+status: "publicado"
+image: "fotos/2026-11-reuniao-quinzenal-te-01.png"
+image-alt: "Participantes da reunião quinzenal de Tecnologias Educacionais em ambiente on-line"
+participantes: null
+horas: null
+publico: "Equipes de Tecnologias Educacionais"
+cursos: []
+local: "On-line"
+projeto: "Ação geral do NAPED"
+ordem: 2
+---
+
+## Alinhamento quinzenal
+
+A reunião quinzenal de Tecnologias Educacionais constituiu um espaço de alinhamento entre as equipes, com compartilhamento de orientações, apresentação de recursos e discussão de demandas relacionadas aos processos acadêmicos e às tecnologias utilizadas no apoio às atividades educacionais.
+
+Os registros evidenciam a participação dos profissionais em ambiente on-line e a navegação orientada por materiais e páginas institucionais de apoio. O encontro contribui para manter os fluxos de trabalho alinhados e favorecer o acompanhamento conjunto das demandas.
+
+## Evidências
+
+<div class="action-evidence-grid">
+  <img src="../fotos/2026-11-reuniao-quinzenal-te-01.png" alt="Participantes da reunião quinzenal de Tecnologias Educacionais" loading="lazy">
+  <img src="../fotos/2026-11-reuniao-quinzenal-te-02.png" alt="Apresentação de página institucional durante a reunião" loading="lazy">
+  <img src="../fotos/2026-11-reuniao-quinzenal-te-03.png" alt="Orientação sobre recursos de Tecnologias Educacionais durante o encontro" loading="lazy">
+</div>

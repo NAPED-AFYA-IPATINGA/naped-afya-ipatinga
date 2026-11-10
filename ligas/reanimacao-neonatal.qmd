@@ -1,0 +1,12 @@
+---
+title: "Liga Acadêmica de Reanimação Neonatal"
+description: "Página da Liga Acadêmica de Reanimação Neonatal da Afya Ipatinga."
+---
+
+::: {.league-page}
+[← Voltar para Ligas Acadêmicas](../ligas-academicas.qmd){.league-back}
+
+<p class="league-teacher"><strong>Docente responsável:</strong> Prof.ª Fabiola Andrade Maia Guimaraes</p>
+
+<div class="empty-state"><strong>Página cadastrada.</strong> As ações, os textos e as evidências serão incluídos à medida que forem disponibilizados.</div>
+:::

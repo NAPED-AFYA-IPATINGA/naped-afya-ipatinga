@@ -1,0 +1,12 @@
+---
+title: "Liga Acadêmica de Ginecologia"
+description: "Página da Liga Acadêmica de Ginecologia da Afya Ipatinga."
+---
+
+::: {.league-page}
+[← Voltar para Ligas Acadêmicas](../ligas-academicas.qmd){.league-back}
+
+<p class="league-teacher"><strong>Docente responsável:</strong> Prof.ª Thais Abreu Santos Reggiani</p>
+
+<div class="empty-state"><strong>Página cadastrada.</strong> As ações, os textos e as evidências serão incluídos à medida que forem disponibilizados.</div>
+:::

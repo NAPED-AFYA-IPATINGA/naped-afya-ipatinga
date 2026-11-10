@@ -1,0 +1,31 @@
+---
+title: "Reunião com supervisores do internato"
+description: "Alinhamento sobre a conclusão da pós-graduação em Preceptoria e levantamento de demandas formativas dos preceptores do internato."
+date: 2026-11-01
+date-label: "novembro de 2026"
+date-format: "MMMM YYYY"
+categories: ["Preceptoria", "Gestão Pedagógica", "Desenvolvimento Docente"]
+status: "publicado"
+image: "fotos/2026-11-reuniao-supervisores-internato-01.png"
+image-alt: "Reunião on-line do NAPED com supervisores e coordenação do internato"
+participantes: null
+horas: null
+publico: "Supervisores e coordenação do internato"
+cursos: ["Medicina"]
+local: "On-line"
+projeto: "Projeto Preceptoria"
+ordem: 1
+---
+
+## Alinhamento e planejamento da formação em preceptoria
+
+O NAPED realizou uma reunião com os supervisores do internato, com a participação da coordenadora do internato, Marina, para alinhar as orientações referentes à conclusão da pós-graduação em Preceptoria, com encerramento previsto para **30 de novembro de 2026**.
+
+O encontro também teve como objetivo identificar as demandas de formação dos preceptores, a fim de subsidiar o planejamento da Semana de Desenvolvimento Docente (SDD) e de outras ações formativas voltadas à qualificação da preceptoria no internato.
+
+## Evidências
+
+<div class="action-evidence-grid">
+  <img src="../fotos/2026-11-reuniao-supervisores-internato-01.png" alt="Participantes da reunião on-line com supervisores do internato" loading="lazy">
+  <img src="../fotos/2026-11-reuniao-supervisores-internato-02.png" alt="Registro ampliado da reunião on-line sobre formação em preceptoria" loading="lazy">
+</div>

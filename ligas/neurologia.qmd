@@ -1,0 +1,24 @@
+---
+title: "Liga Acadêmica de Neurologia"
+description: "Ações e evidências da Liga Acadêmica de Neurologia da Afya Ipatinga."
+---
+
+::: {.league-page}
+[← Voltar para Ligas Acadêmicas](../ligas-academicas.qmd){.league-back}
+
+<p class="league-teacher"><strong>Docente responsável:</strong> Prof.ª Melissa Araújo Ulhôa Quintão</p>
+
+## Conhecimento científico e cuidado com a comunidade
+
+Sob orientação da professora **Melissa Araújo Ulhôa Quintão**, a Liga Acadêmica de Neurologia desenvolve experiências que aproximam os estudantes de Medicina da prática profissional e das necessidades da comunidade.
+
+Os registros evidenciam uma ação externa de educação em saúde, com acolhimento, interação com o público e demonstrações relacionadas à avaliação neurológica. Também apresentam um encontro acadêmico em laboratório. Esses registros não são apresentados como partes de um mesmo evento.
+
+<div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de Neurologia">
+  <img src="../fotos/ligas-academicas-neurologia-neurociencias-01.png" alt="Acadêmicos da Liga de Neurologia em ação comunitária" loading="lazy">
+  <img src="../fotos/ligas-academicas-neurologia-neurociencias-02.png" alt="Acolhimento do público em atividade da liga" loading="lazy">
+  <img src="../fotos/ligas-academicas-neurologia-neurociencias-03.png" alt="Instrumentos utilizados em demonstração de avaliação neurológica" loading="lazy">
+  <img src="../fotos/ligas-academicas-neurologia-neurociencias-04.png" alt="Demonstração relacionada à avaliação neurológica" loading="lazy">
+  <img src="../fotos/ligas-academicas-neurologia-neurociencias-05.png" alt="Integrantes da Liga de Neurologia em ambiente acadêmico" loading="lazy">
+</div>
+:::

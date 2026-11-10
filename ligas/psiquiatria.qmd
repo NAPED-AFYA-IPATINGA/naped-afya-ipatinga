@@ -1,0 +1,31 @@
+---
+title: "Liga Acadêmica de Psiquiatria"
+description: "Ações e evidências da Liga Acadêmica de Psiquiatria da Afya Ipatinga."
+---
+
+::: {.league-page}
+[← Voltar para Ligas Acadêmicas](../ligas-academicas.qmd){.league-back}
+
+<p class="league-teacher"><strong>Docente responsável:</strong> Prof. Thiago Xavier Corrêa</p>
+
+## Educação em saúde, prevenção e comunicação humanizada
+
+A Liga Acadêmica de Psiquiatria desenvolveu atividades educativas relacionadas à campanha **Abril Verde**, com espaços informativos, materiais educativos e interação com o público sobre prevenção, cuidado coletivo e promoção de ambientes de trabalho mais seguros.
+
+Entre as atividades documentadas, destaca-se a proposta **“Fluxo da Conversa Difícil — Um caminho de respeito e empatia”**, com orientações sobre escuta ativa, comunicação respeitosa e preparação para conversas delicadas. As fotografias também apresentam discussões em pequenos grupos, com materiais de apoio e participação ativa dos estudantes.
+
+Os registros foram reunidos como um conjunto de ações, sem atribuição de data específica ou presunção de que ocorreram no mesmo encontro.
+
+<div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de Psiquiatria">
+  <img src="../fotos/ligas-academicas-psiquiatria-01.png" alt="Ação educativa da Liga Acadêmica de Psiquiatria" loading="lazy">
+  <img src="../fotos/ligas-academicas-psiquiatria-02.png" alt="Ambientação da campanha Abril Verde" loading="lazy">
+  <img src="../fotos/ligas-academicas-psiquiatria-03.png" alt="Material educativo sobre comunicação respeitosa" loading="lazy">
+  <img src="../fotos/ligas-academicas-psiquiatria-04.png" alt="Interação com participantes durante ação da liga" loading="lazy">
+  <img src="../fotos/ligas-academicas-psiquiatria-05.png" alt="Atividade de conscientização sobre saúde e segurança no trabalho" loading="lazy">
+  <img src="../fotos/ligas-academicas-psiquiatria-06.png" alt="Registro institucional de integrantes da Liga de Psiquiatria" loading="lazy">
+  <img src="../fotos/ligas-academicas-psiquiatria-07.png" alt="Estudantes em atividade de aprendizagem colaborativa" loading="lazy">
+  <img src="../fotos/ligas-academicas-psiquiatria-08.png" alt="Discussão em pequeno grupo" loading="lazy">
+  <img src="../fotos/ligas-academicas-psiquiatria-09.png" alt="Participação estudantil em atividade de comunicação humanizada" loading="lazy">
+  <img src="../fotos/ligas-academicas-psiquiatria-10.png" alt="Material de apoio utilizado em atividade da liga" loading="lazy">
+</div>
+:::

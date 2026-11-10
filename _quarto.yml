@@ -5,6 +5,7 @@ project:
   render:
     - "*.qmd"
     - "acoes/*.qmd"
+    - "ligas/*.qmd"
     - "projetos/*.qmd"
     - "em-numeros/*.qmd"
     - "!acoes/_modelo.qmd"

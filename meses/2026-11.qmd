@@ -1,0 +1,17 @@
+---
+title: "Novembro de 2026"
+description: "Ações do NAPED Afya Ipatinga em novembro de 2026."
+---
+
+<div class="page-kicker">Linha do tempo · 2026</div>
+
+<div class="action-grid"><article class="action-card">
+  <a class="card-image" href="../acoes/2026-11-reuniao-quinzenal-te.html"><img src="../fotos/2026-11-reuniao-quinzenal-te-01.png" alt="Participantes da reunião quinzenal de Tecnologias Educacionais em ambiente on-line" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">06/11/2026</div><span class="tag">Tecnologias Educacionais</span><span class="tag">Gestão Pedagógica</span>
+  <h3><a href="../acoes/2026-11-reuniao-quinzenal-te.html">Reunião quinzenal de Tecnologias Educacionais</a></h3><p>Encontro quinzenal para alinhamento de demandas, orientações e processos relacionados às Tecnologias Educacionais.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-11-reuniao-supervisores-internato.html"><img src="../fotos/2026-11-reuniao-supervisores-internato-01.png" alt="Reunião on-line do NAPED com supervisores e coordenação do internato" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">novembro de 2026</div><span class="tag">Preceptoria</span><span class="tag">Gestão Pedagógica</span><span class="tag">Desenvolvimento Docente</span>
+  <h3><a href="../acoes/2026-11-reuniao-supervisores-internato.html">Reunião com supervisores do internato</a></h3><p>Alinhamento sobre a conclusão da pós-graduação em Preceptoria e levantamento de demandas formativas dos preceptores do internato.</p></div>
+</article></div>

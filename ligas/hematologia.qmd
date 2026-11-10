@@ -1,0 +1,23 @@
+---
+title: "Liga Acadêmica de Hematologia"
+description: "Ações e evidências da Liga Acadêmica de Hematologia da Afya Ipatinga."
+---
+
+::: {.league-page}
+[← Voltar para Ligas Acadêmicas](../ligas-academicas.qmd){.league-back}
+
+<p class="league-teacher"><strong>Docente responsável:</strong> Prof.ª Marita de Novais Costa Salles de Almeida</p>
+
+## Ação acadêmica e educativa
+
+A Liga Acadêmica de Hematologia desenvolve ações que contribuem para o aprofundamento do conhecimento científico, a formação prática dos estudantes e a promoção da educação em saúde. Nesta atividade, as ligantes participaram de momentos de organização, apresentação e sensibilização acadêmica, abordando temas de relevância para a área hematológica e para a formação médica.
+
+As imagens evidenciam a participação ativa das estudantes em momentos de organização, acolhimento e orientação, além de uma atividade expositiva com conteúdo científico e abordagem educativa. A ação demonstra o compromisso da liga com a integração entre ensino e extensão, fortalecendo o protagonismo estudantil e a atuação orientada por docentes na construção de experiências acadêmicas significativas.
+
+<div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de Hematologia">
+  <img src="../fotos/ligas-academicas-hematologia-01.png" alt="Integrantes da Liga Acadêmica de Hematologia durante ação educativa" loading="lazy">
+  <img src="../fotos/ligas-academicas-hematologia-02.png" alt="Apresentação acadêmica promovida pela Liga de Hematologia" loading="lazy">
+  <img src="../fotos/ligas-academicas-hematologia-03.png" alt="Atividade de conscientização conduzida por integrantes da Liga de Hematologia" loading="lazy">
+  <img src="../fotos/ligas-academicas-hematologia-04.png" alt="Registro da professora Marita Novais com integrantes da Liga de Hematologia" loading="lazy">
+</div>
+:::

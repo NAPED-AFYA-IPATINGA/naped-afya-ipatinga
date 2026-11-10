@@ -5,17 +5,11 @@ description: "Atualizações breves sobre o cotidiano, as articulações e os mo
 
 <div class="page-kicker">Em movimento</div>
 
-Os **Giros do NAPED** compartilham atualizações do cotidiano da equipe: articulações com docentes e setores, bastidores de formações, convites, acompanhamentos e outros movimentos que fortalecem a experiência pedagógica na Afya Ipatinga.
+Os **Giros do NAPED** apresentam o resumo mensal das ações desenvolvidas pelo núcleo.
 
-## Ligas Acadêmicas em movimento
-
-As ações das Ligas Acadêmicas integram formação, extensão, educação em saúde e participação comunitária. Conheça os seis registros já documentados, com os textos institucionais e as fotografias originais de cada atividade.
-
-<div class="league-giro-grid">
-  <a class="league-giro-card" href="ligas-academicas.html#hematologia"><img src="fotos/ligas-academicas-hematologia-01.png" alt="Registro da Liga Acadêmica de Hematologia" loading="lazy"><span>Marita de Novais</span><strong>Hematologia</strong><b>Ver registro →</b></a>
-  <a class="league-giro-card" href="ligas-academicas.html#psiquiatria"><img src="fotos/ligas-academicas-psiquiatria-01.png" alt="Registro da Liga Acadêmica de Psiquiatria" loading="lazy"><span>Thiago Xavier Corrêa</span><strong>Psiquiatria</strong><b>Ver registro →</b></a>
-  <a class="league-giro-card" href="ligas-academicas.html#neurologia-neurociencias"><img src="fotos/ligas-academicas-neurologia-neurociencias-01.png" alt="Registro da Liga Acadêmica de Neurologia e Neurociências" loading="lazy"><span>Melissa Araújo Ulhôa Quintão</span><strong>Neurologia e Neurociências</strong><b>Ver registro →</b></a>
-  <a class="league-giro-card" href="ligas-academicas.html#saude-diversidade"><img src="fotos/ligas-academicas-saude-diversidade-01.png" alt="Registro da Liga Acadêmica de Saúde e Diversidade" loading="lazy"><span>Rone Cesario da Silva</span><strong>Saúde e Diversidade</strong><b>Ver registro →</b></a>
-  <a class="league-giro-card" href="ligas-academicas.html#pediatria-neonatologia"><img src="fotos/ligas-academicas-pediatria-neonatologia-01.png" alt="Registro da Liga Acadêmica de Pediatria e Neonatologia" loading="lazy"><span>Catarina Amorim Baccarini Pires</span><strong>Pediatria e Neonatologia</strong><b>Ver registro →</b></a>
-  <a class="league-giro-card" href="ligas-academicas.html#cirurgia-trauma"><img src="fotos/ligas-academicas-cirurgia-trauma-01.png" alt="Registro da Liga Acadêmica de Cirurgia e Trauma" loading="lazy"><span>Felippe Hauck Mansur</span><strong>Cirurgia e Trauma</strong><b>Ver registro →</b></a>
+<div class="giro-month-grid">
+  <article class="giro-month-card"><h2>Julho de 2026</h2><img src="fotos/giros-2026-07.png" alt="NAPED em Movimento — resumo das ações de julho de 2026" loading="lazy"></article>
+  <article class="giro-month-card"><h2>Agosto de 2026</h2><img src="fotos/giros-2026-08.png" alt="NAPED em Movimento — resumo das ações de agosto de 2026" loading="lazy"></article>
+  <article class="giro-month-card"><h2>Setembro de 2026</h2><img src="fotos/giros-2026-09.png" alt="NAPED em Movimento — resumo das ações de setembro de 2026" loading="lazy"></article>
+  <article class="giro-month-card"><h2>Outubro de 2026</h2><img src="fotos/giros-2026-10.png" alt="NAPED em Movimento — resumo das ações de outubro de 2026" loading="lazy"></article>
 </div>

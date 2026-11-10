@@ -1,0 +1,23 @@
+---
+title: "Liga Acadêmica de Saúde e Diversidade"
+description: "Ações e evidências da Liga Acadêmica de Saúde e Diversidade da Afya Ipatinga."
+---
+
+::: {.league-page}
+[← Voltar para Ligas Acadêmicas](../ligas-academicas.qmd){.league-back}
+
+<p class="league-teacher"><strong>Docente responsável:</strong> Prof. Rone Cesario da Silva</p>
+
+## A inclusão transforma o cuidado
+
+Sob orientação do professor **Rone Cesario da Silva**, a Liga Acadêmica de Saúde e Diversidade participou da XXII Jornada Acadêmica da Saúde e do XII Congresso de Atualidades Médicas do Vale do Aço, promovendo reflexões sobre inclusão e respeito à diversidade na prática médica.
+
+A atividade, apresentada sob o tema **“O conhecimento transforma a prática. A inclusão salva vidas”**, utilizou uma dinâmica de simulação de atendimento para valorizar a comunicação, a escuta qualificada e o acolhimento das particularidades de cada paciente.
+
+<div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de Saúde e Diversidade">
+  <img src="../fotos/ligas-academicas-saude-diversidade-01.png" alt="Visão geral de atividade simulada da Liga de Saúde e Diversidade" loading="lazy">
+  <img src="../fotos/ligas-academicas-saude-diversidade-02.png" alt="Interação em contexto de comunicação inclusiva" loading="lazy">
+  <img src="../fotos/ligas-academicas-saude-diversidade-03.png" alt="Acompanhamento de atividade simulada sobre diversidade no cuidado" loading="lazy">
+  <img src="../fotos/ligas-academicas-saude-diversidade-04.png" alt="Aprendizagem experiencial promovida pela liga" loading="lazy">
+</div>
+:::

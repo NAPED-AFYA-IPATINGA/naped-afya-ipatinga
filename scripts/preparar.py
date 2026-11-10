@@ -98,9 +98,10 @@ def badges(record: dict) -> str:
 def action_card(record: dict, from_dir: Path = ROOT) -> str:
     image = record.get("image") or "fotos/hero-workshop-demo.png"
     image_path = image if from_dir == ROOT else "../" + image
+    date_label = record.get("date-label") or record["when"].strftime('%d/%m/%Y')
     return f'''<article class="action-card">
   <a class="card-image" href="{link(record, from_dir)}"><img src="{escape(image_path)}" alt="{escape(record.get('image-alt') or record['title'])}" loading="lazy"></a>
-  <div class="card-body"><div class="card-meta">{record['when'].strftime('%d/%m/%Y')}</div>{badges(record)}
+  <div class="card-body"><div class="card-meta">{escape(str(date_label))}</div>{badges(record)}
   <h3><a href="{link(record, from_dir)}">{escape(record['title'])}</a></h3><p>{escape(record['description'])}</p></div>
 </article>'''
 
@@ -184,7 +185,7 @@ def main() -> None:
     project_cards = "".join(project_card(p) for p in projects)
     write("projetos.md", '<div class="project-grid">' + project_cards + "</div>")
     bars = "".join(f'<div class="bar-row"><span>{escape(axis)}</span><i style="width:{count / max(by_axis.values()) * 100:.0f}%"></i><b>{count}</b></div>' for axis, count in by_axis.most_common())
-    rows = "".join(f'<tr><td>{r["when"].strftime("%d/%m/%Y")}</td><td><a href="{r["url"]}">{escape(r["title"])}</a></td><td>{escape(", ".join(r["categories"]))}</td><td>{escape(str(r.get("publico") or "—"))}</td></tr>' for r in records)
+    rows = "".join(f'<tr><td>{escape(str(r.get("date-label") or r["when"].strftime("%d/%m/%Y")))}</td><td><a href="{r["url"]}">{escape(r["title"])}</a></td><td>{escape(", ".join(r["categories"]))}</td><td>{escape(str(r.get("publico") or "—"))}</td></tr>' for r in records)
     write("resultados.md", metric_grid(m) + f'<h2>Volume por eixo</h2><div class="bar-chart">{bars}</div><p class="coverage-note">Indicadores de participação e horas cobrem {m["measured"]} de {m["actions"]} ações demonstrativas. Uma ação pode pertencer a mais de um eixo.</p><h2>Todas as ações</h2><div class="table-wrap"><table><thead><tr><th>Data</th><th>Ação</th><th>Eixos</th><th>Público</th></tr></thead><tbody>{rows}</tbody></table></div>')
     sdd = next((r for r in records if r["source"].stem == "2026-07-sdd-semana-desenvolvimento-docente"), None)
     if sdd is None:
