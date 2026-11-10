@@ -179,10 +179,22 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 .league-back { display: inline-block; margin-bottom: 1.1rem; font-weight: 750; text-decoration: none; }
 .league-gallery { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); align-items: start; gap: 1rem; margin-top: 1.6rem; }
 .league-gallery img { display: block; width: 100%; height: auto; object-fit: contain; border: 1px solid $line; border-radius: .9rem; background: #f8f3f6; box-shadow: 0 8px 22px rgba(37,20,35,.06); }
-.giro-month-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); align-items: start; gap: 1.4rem; margin: 1.5rem 0 3rem; }
+.giro-month-grid { display: grid; grid-template-columns: 1fr; align-items: start; gap: 1.6rem; max-width: 64rem; margin: 1.5rem auto 3rem; }
 .giro-month-card { overflow: hidden; border: 1px solid $line; border-radius: 1rem; background: $surface; box-shadow: 0 10px 26px rgba(37,20,35,.04); }
 .giro-month-card h2 { font-size: 1.45rem; margin: 0; padding: 1rem 1.15rem; }
-.giro-month-card img { display: block; width: 100%; height: auto; border-top: 1px solid $line; }
+.giro-zoom { position: relative; display: block; background: #f8f3f6; text-decoration: none; cursor: zoom-in; }
+.giro-zoom img { display: block; width: 100%; height: auto; border-top: 1px solid $line; }
+.giro-zoom span { position: absolute; right: 1rem; bottom: 1rem; color: white; background: rgba(36,32,43,.88); border-radius: 99px; padding: .5rem .8rem; font-size: .8rem; font-weight: 750; box-shadow: 0 5px 16px rgba(0,0,0,.25); }
+.giro-lightbox { display: none; position: fixed; inset: 0; z-index: 99999; align-items: center; justify-content: center; padding: 1rem; }
+.giro-lightbox:target { display: flex; }
+.giro-lightbox-backdrop { position: absolute; inset: 0; background: rgba(15,10,14,.94); }
+.giro-lightbox img { position: relative; z-index: 1; display: block; max-width: calc(100vw - 6rem); max-height: calc(100vh - 2rem); width: auto; height: auto; object-fit: contain; box-shadow: 0 12px 45px rgba(0,0,0,.55); }
+.giro-lightbox-close, .giro-lightbox-prev, .giro-lightbox-next { position: fixed; z-index: 2; display: grid; place-items: center; color: white; background: rgba(0,0,0,.62); text-decoration: none; border-radius: 99px; }
+.giro-lightbox-close { width: 2.8rem; height: 2.8rem; top: 1rem; right: 1rem; font-size: 2rem; line-height: 1; }
+.giro-lightbox-prev, .giro-lightbox-next { width: 3rem; height: 3rem; top: 50%; transform: translateY(-50%); font-size: 2.5rem; }
+.giro-lightbox-prev { left: 1rem; }
+.giro-lightbox-next { right: 1rem; }
+.giro-lightbox-close:hover, .giro-lightbox-prev:hover, .giro-lightbox-next:hover { color: white; background: $brand-accent; }
 .action-evidence-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); align-items: start; gap: 1rem; margin: 1.4rem 0 2rem; }
 .action-evidence-grid img { display: block; width: 100%; height: auto; border: 1px solid $line; border-radius: .9rem; box-shadow: 0 8px 22px rgba(37,20,35,.06); }
 
@@ -206,6 +218,9 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 @media (max-width: 480px) {
   .link-grid, .editorial-list, .metric-grid, .action-grid, .project-grid, .evidence-grid, .team-grid, .league-index-grid, .league-gallery, .giro-month-grid, .action-evidence-grid { grid-template-columns: 1fr; }
   .league-page { padding: 1rem; }
+  .giro-zoom span { right: .6rem; bottom: .6rem; }
+  .giro-lightbox img { max-width: calc(100vw - 2rem); max-height: calc(100vh - 6rem); }
+  .giro-lightbox-prev, .giro-lightbox-next { top: auto; bottom: .7rem; transform: none; }
   .month-list a { grid-template-columns: 1fr auto; gap: .25rem .8rem; }
   .month-list span { grid-column: 1; }
   .month-list b { grid-column: 2; grid-row: 1 / span 2; }
