@@ -5,7 +5,25 @@ description: "Atualizações breves sobre o cotidiano, as articulações e os mo
 
 <div class="page-kicker">Em movimento</div>
 
-Os **Giros do NAPED** apresentam o resumo mensal das ações desenvolvidas pelo núcleo.
+Os **Giros do NAPED** reúnem atualizações breves do cotidiano da equipe: articulações com docentes e setores, bastidores de formações, convites, acompanhamentos e outros movimentos que fortalecem a experiência pedagógica na Afya Ipatinga.
+
+## Edições de janeiro a junho de 2026
+
+::: {.evidence-grid}
+<article class="evidence-card"><img class="project-card-image" src="fotos/2026-01-giro-naped.png" alt="Giro do NAPED de janeiro de 2026, com acolhimento para o novo semestre"><span>Janeiro de 2026</span><h2>Acolhimento para um novo semestre</h2><p>Registro da preparação da equipe NAPED para receber docentes e dar início às ações do semestre.</p></article>
+
+<article class="evidence-card"><img class="project-card-image" src="fotos/2026-02-giro-naped.png" alt="Giro do NAPED de fevereiro de 2026, com recepção e treinamento de novos docentes"><span>Fevereiro de 2026</span><h2>Recepção e formação de novos docentes</h2><p>Boas-vindas, divulgação de oportunidades de formação e ações de integração na sala dos professores.</p></article>
+
+<article class="evidence-card"><img class="project-card-image" src="fotos/2026-03-giro-naped-formacoes.png" alt="Giro do NAPED de março de 2026, com treinamentos para docentes"><span>Março de 2026</span><h2>Formação e alinhamento docente</h2><p>Treinamentos sobre avaliação, ferramentas digitais e reunião de alinhamento com docentes.</p></article>
+
+<article class="evidence-card"><img class="project-card-image" src="fotos/2026-03-giro-naped-acoes.png" alt="Giro do NAPED de março de 2026, com ações de formação e Projeto MOVE"><span>Março de 2026</span><h2>Práticas, parcerias e Projeto MOVE</h2><p>Panorama de ações de formação, treinamento em saúde, mentoria ENAMED e divulgação do Projeto MOVE.</p></article>
+
+<article class="evidence-card"><img class="project-card-image" src="fotos/2026-04-giro-naped.png" alt="Giro do NAPED de abril de 2026, com ações de ensino, extensão e pesquisa"><span>Abril de 2026</span><h2>Ensino, extensão e pesquisa</h2><p>Registros de atividades acadêmicas, participação em eventos e articulações formativas do NAPED.</p></article>
+
+<article class="evidence-card"><img class="project-card-image" src="fotos/2026-06-giro-naped.png" alt="Giro do NAPED de junho de 2026, com ações de formação e planejamento"><span>Junho de 2026</span><h2>Planejamento e desenvolvimento</h2><p>Atualizações sobre Acelera Líder, Docência em Foco, ENAMED, Canvas e preparação da SDD.</p></article>
+:::
+
+## Edições de julho a outubro de 2026
 
 <div class="giro-month-grid">
   <article class="giro-month-card" id="giro-07"><h2>Julho de 2026</h2><a class="giro-zoom" href="#giro-07-ampliado" aria-label="Ampliar o Giro de julho de 2026"><img src="fotos/giros-2026-07.png" alt="NAPED em Movimento — resumo das ações de julho de 2026" loading="lazy"><span>⌕ Clique para ampliar</span></a></article>

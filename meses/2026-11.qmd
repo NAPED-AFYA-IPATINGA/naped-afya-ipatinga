@@ -6,6 +6,11 @@ description: "Ações do NAPED Afya Ipatinga em novembro de 2026."
 <div class="page-kicker">Linha do tempo · 2026</div>
 
 <div class="action-grid"><article class="action-card">
+  <a class="card-image" href="../acoes/2026-11-acompanhamento-pos-graduacao-preceptoria.html"><img src="../fotos/2026-11-acompanhamento-pos-graduacao-preceptoria-01.png" alt="Card do NAPED que reconhece preceptores que concluíram os oito módulos da formação" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">09/11/2026</div><span class="tag">Formação de Preceptores</span><span class="tag">Desenvolvimento Docente</span><span class="tag">Acompanhamento Pedagógico</span>
+  <h3><a href="../acoes/2026-11-acompanhamento-pos-graduacao-preceptoria.html">NAPED acompanha preceptores na pós-graduação</a></h3><p>Acompanhamento da trilha de pós-graduação em preceptoria, com orientações, suporte e reconhecimento aos preceptores que concluíram os módulos.</p></div>
+</article>
+<article class="action-card">
   <a class="card-image" href="../acoes/2026-11-reuniao-quinzenal-te.html"><img src="../fotos/2026-11-reuniao-quinzenal-te-01.png" alt="Participantes da reunião quinzenal de Tecnologias Educacionais em ambiente on-line" loading="lazy"></a>
   <div class="card-body"><div class="card-meta">06/11/2026</div><span class="tag">Tecnologias Educacionais</span><span class="tag">Gestão Pedagógica</span>
   <h3><a href="../acoes/2026-11-reuniao-quinzenal-te.html">Reunião quinzenal de Tecnologias Educacionais</a></h3><p>Encontro quinzenal para alinhamento de demandas, orientações e processos relacionados às Tecnologias Educacionais.</p></div>

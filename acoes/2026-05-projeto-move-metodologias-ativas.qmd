@@ -1,0 +1,42 @@
+---
+title: "Projeto MOVE — Oficinas de metodologias ativas"
+description: "Encontro do Projeto MOVE com oficinas sobre NotebookLM e aprendizagem em pequenos grupos, promovido pela equipe NAPED."
+date: 2026-05-30
+categories: ["Formação Docente", "Metodologias Ativas", "Tecnologias Educacionais"]
+status: "publicado"
+image: "fotos/2026-05-projeto-move-metodologias-ativas-02.png"
+image-alt: "Participantes reunidos em encontro do Projeto MOVE na Afya Ipatinga"
+participantes: null
+horas: null
+publico: "Docentes participantes do Projeto MOVE"
+cursos: []
+local: "Sala 12 — Afya Ipatinga"
+projeto: "Projeto MOVE — Professores em Movimento"
+ordem: 10
+---
+
+::: {.acao-figura}
+![Participantes do encontro do Projeto MOVE](../fotos/2026-05-projeto-move-metodologias-ativas-02.png){#fig-move-metodologias-ativas fig-alt="Grupo de participantes reunido durante encontro do Projeto MOVE na Afya Ipatinga"}
+:::
+
+## Metodologias ativas em movimento
+
+Em 30 de maio de 2026, o **Projeto MOVE — Professores em Movimento** promoveu um encontro dedicado ao compartilhamento de práticas pedagógicas e à experimentação de metodologias ativas. A atividade reuniu docentes e a equipe do NAPED em um espaço de troca, planejamento e aprendizagem entre pares.
+
+O encontro contou com a participação de **Rone Cesario da Silva** e com oficinas conduzidas por duas docentes integrantes do NAPED: **Tatiane Araújo**, sobre possibilidades de uso do **NotebookLM** na prática docente, e **Jaqueline Melo Soares**, sobre **aprendizagem em pequenos grupos**.
+
+As oficinas aproximaram ferramentas e estratégias do cotidiano de quem ensina, valorizando a colaboração, a participação ativa e a construção coletiva de soluções pedagógicas. O registro reforça o Projeto MOVE como espaço contínuo de formação, experimentação e circulação de boas práticas entre docentes.
+
+## Evidências
+
+::: {.acao-figura}
+![Oficina sobre NotebookLM conduzida por Tatiane Araújo](../fotos/2026-05-projeto-move-metodologias-ativas-01.png){fig-alt="Grupo de participantes da oficina sobre NotebookLM conduzida por Tatiane Araújo, integrante do NAPED" fig-cap="Oficina de NotebookLM com a Prof.ª Tatiane Araújo."}
+:::
+
+::: {.acao-figura}
+![Oficina de aprendizagem em pequenos grupos conduzida por Jaqueline Melo Soares](../fotos/2026-05-projeto-move-metodologias-ativas-03.png){fig-alt="Jaqueline Melo Soares conduz atividade de aprendizagem em pequenos grupos com participantes do Projeto MOVE" fig-cap="Oficina de aprendizagem em pequenos grupos com a Prof.ª Jaqueline Melo Soares."}
+:::
+
+::: {.acao-figura}
+![Lista de presença do encontro do Projeto MOVE de 30 de maio de 2026](../fotos/2026-05-projeto-move-lista-presenca.png){fig-alt="Lista de presença do Projeto MOVE datada de 30 de maio de 2026" fig-cap="Registro de presença do encontro do Projeto MOVE."}
+:::

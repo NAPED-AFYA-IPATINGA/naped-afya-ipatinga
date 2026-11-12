@@ -26,19 +26,9 @@ description: "Ações do NAPED Afya Ipatinga em julho de 2026."
   <h3><a href="../acoes/2026-07-reuniao-primeiro-ano-gaps.html">SDD — Reunião do 1º ano: acolhimento, GAPS e progressão acadêmica</a></h3><p>Reunião de alinhamento sobre acolhimento, lacunas de aprendizagem e progressão acadêmica no primeiro ano.</p></div>
 </article>
 <article class="action-card">
-  <a class="card-image" href="../acoes/2026-07-ned-em-foco.html"><img src="../fotos/hero-workshop-demo.png" alt="SDD — NED em foco: acolhimento, diversidade e permanência" loading="lazy"></a>
-  <div class="card-body"><div class="card-meta">02/07/2026</div><span class="tag">Formação Docente</span><span class="tag">Acolhimento e Permanência</span>
-  <h3><a href="../acoes/2026-07-ned-em-foco.html">SDD — NED em foco: acolhimento, diversidade e permanência</a></h3><p>Encontro sobre acolhimento discente, diversidade e permanência estudantil.</p></div>
-</article>
-<article class="action-card">
-  <a class="card-image" href="../acoes/2026-07-oficina-producao-cientifica-lattes.html"><img src="../fotos/hero-workshop-demo.png" alt="SDD — Produção Científica em Movimento" loading="lazy"></a>
-  <div class="card-body"><div class="card-meta">02/07/2026</div><span class="tag">Formação Docente</span><span class="tag">Pesquisa</span>
-  <h3><a href="../acoes/2026-07-oficina-producao-cientifica-lattes.html">SDD — Produção Científica em Movimento</a></h3><p>Oficina sobre estratégias para fortalecer publicações e qualificar o Currículo Lattes.</p></div>
-</article>
-<article class="action-card">
-  <a class="card-image" href="../acoes/2026-07-oficina-inteligencia-artificial-notebooklm.html"><img src="../fotos/hero-workshop-demo.png" alt="SDD — Oficina de Inteligência Artificial e NotebookLM" loading="lazy"></a>
-  <div class="card-body"><div class="card-meta">02/07/2026</div><span class="tag">Formação Docente</span><span class="tag">Tecnologias Educacionais</span><span class="tag">Metodologias Ativas</span>
-  <h3><a href="../acoes/2026-07-oficina-inteligencia-artificial-notebooklm.html">SDD — Oficina de Inteligência Artificial e NotebookLM</a></h3><p>Oficina prática sobre o uso de Inteligência Artificial e NotebookLM na docência.</p></div>
+  <a class="card-image" href="../acoes/2026-07-sdd-oficinas-formacao-docente.html"><img src="../fotos/2026-07-sdd-semana-desenvolvimento-docente.jpg" alt="Docentes reunidos durante a Semana de Desenvolvimento Docente da Afya Ipatinga" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">02/07/2026</div><span class="tag">Formação Docente</span><span class="tag">Tecnologias Educacionais</span><span class="tag">Pesquisa</span><span class="tag">Acolhimento e Permanência</span>
+  <h3><a href="../acoes/2026-07-sdd-oficinas-formacao-docente.html">SDD — Oficinas de formação docente</a></h3><p>Programação integrada da SDD com oficinas sobre NotebookLM, produção científica e acolhimento, diversidade e permanência estudantil.</p></div>
 </article>
 <article class="action-card">
   <a class="card-image" href="../acoes/2026-07-primeiro-simulado-trajetoria-enamed.html"><img src="../fotos/2026-07-simulado-trajetoria-enamed-01.png" alt="Estudantes realizando o primeiro simulado pós-férias do programa Trajetória ENAMED" loading="lazy"></a>

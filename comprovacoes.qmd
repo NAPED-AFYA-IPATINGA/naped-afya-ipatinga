@@ -13,6 +13,32 @@ Esta seção organiza fotografias, materiais e documentos autorizados para publi
 
 Esta é a pasta documental das comprovações de participação de professores: reuniões de alinhamento, Semana de Desenvolvimento Docente (SDD), formações, atendimentos e demais ações do NAPED. Cada registro deve identificar a atividade e a data, reunindo as fotos das listas ou fichas de presença correspondentes.
 
+### Projeto MOVE — Oficinas de metodologias ativas (30/05/2026)
+
+Registro de presença do encontro do Projeto MOVE com oficinas sobre NotebookLM e aprendizagem em pequenos grupos, conduzidas por docentes integrantes do NAPED.
+
+::: {.attendance-grid}
+[![Lista de presença do Projeto MOVE em 30 de maio de 2026](fotos/2026-05-projeto-move-lista-presenca.png)](fotos/2026-05-projeto-move-lista-presenca.png){.attendance-document}
+:::
+
+### Liga de Reanimação Neonatal
+
+Evidências de atividade prática da **Liga de Reanimação Neonatal**, sob responsabilidade da **Prof.ª Rafaela Drumond Araújo**. Os registros apresentam a participação dos integrantes em treinamento de simulação, com abordagem de cateterismo umbilical e práticas de cuidado neonatal.
+
+::: {.attendance-grid}
+[![Participantes em simulação da Liga de Reanimação Neonatal](fotos/2026-11-liga-reanimacao-neonatal-01.png)](fotos/2026-11-liga-reanimacao-neonatal-01.png){.attendance-document}
+
+[![Atividade prática de reanimação neonatal em cenário de simulação](fotos/2026-11-liga-reanimacao-neonatal-02.png)](fotos/2026-11-liga-reanimacao-neonatal-02.png){.attendance-document}
+
+[![Exposição sobre cateterismo umbilical pela Liga de Reanimação Neonatal](fotos/2026-11-liga-reanimacao-neonatal-03.png)](fotos/2026-11-liga-reanimacao-neonatal-03.png){.attendance-document}
+
+[![Professora responsável e integrante da Liga de Reanimação Neonatal](fotos/2026-11-liga-reanimacao-neonatal-04.png)](fotos/2026-11-liga-reanimacao-neonatal-04.png){.attendance-document}
+
+[![Treinamento prático de cateterismo umbilical](fotos/2026-11-liga-reanimacao-neonatal-05.png)](fotos/2026-11-liga-reanimacao-neonatal-05.png){.attendance-document}
+
+[![Integrantes em prática de simulação neonatal](fotos/2026-11-liga-reanimacao-neonatal-06.png)](fotos/2026-11-liga-reanimacao-neonatal-06.png){.attendance-document}
+:::
+
 ### SDD — Listas de presença de 01/07/2026
 
 Registros de participação da Semana de Desenvolvimento Docente realizada em 01/07/2026. Selecione uma imagem para consultar o documento em tamanho ampliado.
