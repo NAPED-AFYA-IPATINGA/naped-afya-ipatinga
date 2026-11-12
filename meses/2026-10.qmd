@@ -11,6 +11,11 @@ description: "Ações do NAPED Afya Ipatinga em outubro de 2026."
   <h3><a href="../acoes/2026-10-formacao-matriz-ai-first-naped.html">Participação do NAPED na semana de formações da Matriz AI First 2027.1</a></h3><p>Registro da participação do NAPED na semana de reuniões e formações da nova matriz curricular de Medicina, realizada de 20 a 30 de outubro e pautada em metodologias ativas.</p></div>
 </article>
 <article class="action-card">
+  <a class="card-image" href="../acoes/2026-10-basemed-hematose-escrita-cientifica.html"><img src="../fotos/2026-10-basemed-hematose-escrita-cientifica-01.png" alt="Estudantes constroem esquema sobre oxigenação e demanda energética em atividade do BASEMED" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">20/10/2026</div><span class="tag">Bases Biológicas</span><span class="tag">Sistemas Orgânicos Integrados</span><span class="tag">Metodologias Ativas</span><span class="tag">Avaliação da Aprendizagem</span>
+  <h3><a href="../acoes/2026-10-basemed-hematose-escrita-cientifica.html">BASEMED — Hematose, integração biológica e escrita científica</a></h3><p>Atividade formativa do BASEMED que integrou sistemas respiratório e circulatório, metabolismo energético e elaboração de respostas discursivas.</p></div>
+</article>
+<article class="action-card">
   <a class="card-image" href="../acoes/2026-10-acelera-lider-ipatinga.html"><img src="../fotos/2026-10-acelera-lider-02.png" alt="Equipe da Afya Ipatinga reunida durante o treinamento Acelera Líder" loading="lazy"></a>
   <div class="card-body"><div class="card-meta">19/10/2026</div><span class="tag">Liderança e Gestão</span><span class="tag">Desenvolvimento Institucional</span>
   <h3><a href="../acoes/2026-10-acelera-lider-ipatinga.html">Acelera Líder — desenvolvimento de lideranças em Ipatinga</a></h3><p>Treinamento institucional de desenvolvimento de lideranças, realizado com participação de setores técnico-administrativos e parceria do NAPED com a coordenação.</p></div>

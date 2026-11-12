@@ -6,6 +6,11 @@ description: "Ações do NAPED Afya Ipatinga em setembro de 2026."
 <div class="page-kicker">Linha do tempo · 2026</div>
 
 <div class="action-grid"><article class="action-card">
+  <a class="card-image" href="../acoes/2026-09-basemed-revisao-pratica-estacoes.html"><img src="../fotos/2026-09-basemed-revisao-pratica-01.png" alt="Estudantes realizam atividade do BASEMED com modelos embriológicos em estação de aprendizagem" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">29/09/2026</div><span class="tag">Bases Biológicas</span><span class="tag">Sistemas Orgânicos Integrados</span><span class="tag">Metodologias Ativas</span>
+  <h3><a href="../acoes/2026-09-basemed-revisao-pratica-estacoes.html">BASEMED — Revisão prática por estações de aprendizagem</a></h3><p>Revisão formativa do BASEMED que integrou modelos embriológicos, histologia, divisão celular e Sistemas Orgânicos Integrados.</p></div>
+</article>
+<article class="action-card">
   <a class="card-image" href="../acoes/2026-09-oficina-itens-osce.html"><img src="../fotos/2026-09-oficina-itens-osce.jpg" alt="Card da oficina Descomplicando a Avaliação: Oficina Prática de Itens e OSCE" loading="lazy"></a>
   <div class="card-body"><div class="card-meta">24/09/2026</div><span class="tag">Formação Docente</span><span class="tag">Avaliação da Aprendizagem</span>
   <h3><a href="../acoes/2026-09-oficina-itens-osce.html">Descomplicando a Avaliação — Oficina prática de itens e OSCE</a></h3><p>Formação docente para qualificar a elaboração de itens avaliativos e o uso do OSCE na avaliação por competências em Medicina.</p></div>

@@ -8,5 +8,23 @@ description: "Página da Liga Acadêmica de Reanimação Neonatal da Afya Ipatin
 
 <p class="league-teacher"><strong>Docente responsável:</strong> Prof.ª Fabiola Andrade Maia Guimaraes</p>
 
-<div class="empty-state"><strong>Página cadastrada.</strong> As ações, os textos e as evidências serão incluídos à medida que forem disponibilizados.</div>
+## Atividade prática de reanimação neonatal
+
+A Liga Acadêmica de Reanimação Neonatal realizou atividade prática de simulação voltada ao desenvolvimento de habilidades fundamentais para o cuidado neonatal. Sob responsabilidade da **Prof.ª Fabiola Andrade Maia Guimaraes**, o encontro reuniu integrantes da liga em uma experiência de aprendizagem ativa, com discussão, demonstração e prática supervisionada.
+
+O registro evidencia o estudo do **cateterismo umbilical** e a aproximação dos estudantes com procedimentos e raciocínios próprios do cenário neonatal, de forma ética, técnica e colaborativa. A iniciativa fortalece o protagonismo estudantil e a integração entre conhecimento científico e prática clínica.
+
+## Evidências
+
+![Integrantes da Liga de Reanimação Neonatal em simulação prática](../fotos/2026-11-liga-reanimacao-neonatal-01.png){fig-alt="Integrantes da Liga Acadêmica de Reanimação Neonatal em atividade de simulação"}
+
+![Atividade de treinamento prático com manequim neonatal](../fotos/2026-11-liga-reanimacao-neonatal-02.png){fig-alt="Participantes em treinamento prático de reanimação neonatal com manequim"}
+
+![Exposição sobre cateterismo umbilical](../fotos/2026-11-liga-reanimacao-neonatal-03.png){fig-alt="Integrante apresentando conteúdo sobre cateterismo umbilical"}
+
+![Professora responsável em registro da Liga de Reanimação Neonatal](../fotos/2026-11-liga-reanimacao-neonatal-04.png){fig-alt="Professora responsável pela Liga de Reanimação Neonatal em registro com integrante"}
+
+![Participantes realizando técnica de cateterismo umbilical em simulação](../fotos/2026-11-liga-reanimacao-neonatal-05.png){fig-alt="Participantes praticando cateterismo umbilical em manequim neonatal"}
+
+![Integrantes da liga em treinamento de simulação neonatal](../fotos/2026-11-liga-reanimacao-neonatal-06.png){fig-alt="Integrantes em treinamento prático de simulação neonatal"}
 :::

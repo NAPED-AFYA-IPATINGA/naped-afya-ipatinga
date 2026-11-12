@@ -6,6 +6,11 @@ description: "Ações do NAPED Afya Ipatinga em novembro de 2026."
 <div class="page-kicker">Linha do tempo · 2026</div>
 
 <div class="action-grid"><article class="action-card">
+  <a class="card-image" href="../acoes/2026-11-basemed-sistema-digestorio.html"><img src="../fotos/2026-11-basemed-sistema-digestorio-01.png" alt="Estudantes trabalham com modelos anatômicos e esquemas do sistema digestório em atividade do BASEMED" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">10/11/2026</div><span class="tag">Bases Biológicas</span><span class="tag">Sistemas Orgânicos Integrados</span><span class="tag">Metodologias Ativas</span>
+  <h3><a href="../acoes/2026-11-basemed-sistema-digestorio.html">BASEMED — Estações de aprendizagem do sistema digestório</a></h3><p>Atividade prática do BASEMED sobre anatomia, fisiologia e integração metabólica do sistema digestório, realizada em 10 de novembro de 2026.</p></div>
+</article>
+<article class="action-card">
   <a class="card-image" href="../acoes/2026-11-acompanhamento-pos-graduacao-preceptoria.html"><img src="../fotos/2026-11-acompanhamento-pos-graduacao-preceptoria-01.png" alt="Card do NAPED que reconhece preceptores que concluíram os oito módulos da formação" loading="lazy"></a>
   <div class="card-body"><div class="card-meta">09/11/2026</div><span class="tag">Formação de Preceptores</span><span class="tag">Desenvolvimento Docente</span><span class="tag">Acompanhamento Pedagógico</span>
   <h3><a href="../acoes/2026-11-acompanhamento-pos-graduacao-preceptoria.html">NAPED acompanha preceptores na pós-graduação</a></h3><p>Acompanhamento da trilha de pós-graduação em preceptoria, com orientações, suporte e reconhecimento aos preceptores que concluíram os módulos.</p></div>

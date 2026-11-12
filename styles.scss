@@ -50,7 +50,7 @@ main.content:has(.hero-panel) #title-block-header { display: none; }
 h1, h2, h3 { letter-spacing: -.035em; line-height: 1.16; }
 h1 { font-size: clamp(2.5rem, 5vw, 4.8rem); }
 h2 { font-size: clamp(1.7rem, 3vw, 2.65rem); margin-top: 2.2rem; }
-p, li { max-width: 74ch; }
+p, li { max-width: none; }
 a:focus-visible, button:focus-visible, .nav-link:focus-visible {
   outline: 3px solid $brand-accent;
   outline-offset: 4px;

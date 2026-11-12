@@ -1,0 +1,56 @@
+---
+title: "BASEMED — Estações de aprendizagem do sistema digestório"
+description: "Atividade prática do BASEMED sobre anatomia, fisiologia e integração metabólica do sistema digestório, realizada em 10 de novembro de 2026."
+date: 2026-11-10
+categories: ["Bases Biológicas", "Sistemas Orgânicos Integrados", "Metodologias Ativas"]
+status: "publicado"
+image: "fotos/2026-11-basemed-sistema-digestorio-01.png"
+image-alt: "Estudantes trabalham com modelos anatômicos e esquemas do sistema digestório em atividade do BASEMED"
+participantes: null
+horas: null
+publico: "Estudantes de Medicina"
+cursos: ["Medicina"]
+local: "Afya Ipatinga"
+projeto: "Projeto BASEMED"
+ordem: 16
+---
+
+## Objetivo
+
+Consolidar as bases biológicas do sistema digestório por meio da integração entre Anatomia, Fisiologia e Bioquímica, favorecendo a construção ativa do conhecimento na formação médica.
+
+## Desenvolvimento
+
+Em 10 de novembro de 2026, o BASEMED realizou uma atividade prática organizada em estações de aprendizagem sobre o sistema digestório. Com modelos anatômicos, roteiros de estudo, esquemas explicativos e discussão em pequenos grupos, os estudantes identificaram estruturas do estômago, intestinos, fígado, pâncreas e duodeno.
+
+As estações abordaram a digestão, a absorção de nutrientes, a produção e a ação da bile, o metabolismo hepático e o armazenamento de glicogênio. A estação sobre pâncreas e duodeno aproximou a identificação das estruturas de suas relações funcionais, permitindo que os estudantes conectassem forma, processo e função.
+
+## Resultados e encaminhamentos
+
+O BASEMED fortalece a consolidação das bases biológicas que sustentam o raciocínio clínico ao longo da formação médica. A manipulação de peças, a elaboração coletiva de esquemas e a explicação entre colegas favorecem uma aprendizagem ativa, mais significativa e progressivamente autônoma.
+
+## Evidências
+
+::: {.acao-figura}
+![Grupo discute modelos anatômicos do sistema digestório](../fotos/2026-11-basemed-sistema-digestorio-01.png){fig-alt="Grupo de estudantes discute modelos anatômicos e esquema do sistema digestório"}
+:::
+
+::: {.acao-figura}
+![Estudante elabora esquema do intestino em mesa de aprendizagem](../fotos/2026-11-basemed-sistema-digestorio-02.png){fig-alt="Estudante elabora um esquema do intestino em mesa de aprendizagem"}
+:::
+
+::: {.acao-figura}
+![Estudante manipula modelo anatômico de fígado e pâncreas](../fotos/2026-11-basemed-sistema-digestorio-03.png){fig-alt="Estudante manipula modelo anatômico de fígado e pâncreas"}
+:::
+
+::: {.acao-figura}
+![Estação de aprendizagem sobre pâncreas e duodeno](../fotos/2026-11-basemed-sistema-digestorio-04.png){fig-alt="Mesa organizada para estação de aprendizagem sobre pâncreas e duodeno"}
+:::
+
+::: {.acao-figura}
+![Estudante explora modelo anatômico do sistema digestório](../fotos/2026-11-basemed-sistema-digestorio-05.png){fig-alt="Estudante explora modelo anatômico de órgãos do sistema digestório"}
+:::
+
+::: {.acao-figura}
+![Estudantes utilizam modelo anatômico em estação prática](../fotos/2026-11-basemed-sistema-digestorio-06.png){fig-alt="Estudantes utilizam modelo anatômico durante estação prática do BASEMED"}
+:::

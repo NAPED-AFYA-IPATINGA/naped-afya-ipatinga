@@ -1,0 +1,48 @@
+---
+title: "BASEMED — Revisão prática por estações de aprendizagem"
+description: "Revisão formativa do BASEMED que integrou modelos embriológicos, histologia, divisão celular e Sistemas Orgânicos Integrados."
+date: 2026-09-29
+categories: ["Bases Biológicas", "Sistemas Orgânicos Integrados", "Metodologias Ativas"]
+status: "publicado"
+image: "fotos/2026-09-basemed-revisao-pratica-01.png"
+image-alt: "Estudantes realizam atividade do BASEMED com modelos embriológicos em estação de aprendizagem"
+participantes: null
+horas: null
+publico: "Estudantes de Medicina"
+cursos: ["Medicina"]
+local: "Afya Ipatinga"
+projeto: "Projeto BASEMED"
+ordem: 14
+---
+
+## Objetivo
+
+Realizar uma revisão formativa preparatória para a prova prática, fortalecendo a articulação entre conhecimentos das bases biológicas e sua aplicação nos Sistemas Orgânicos Integrados.
+
+## Desenvolvimento
+
+Em 29 de setembro de 2026, o BASEMED promoveu uma revisão prática organizada em estações de aprendizagem. Os registros fotográficos disponíveis evidenciam a identificação de modelos embriológicos, a discussão sobre fertilização e desenvolvimento inicial, o reconhecimento das fases da divisão celular, a análise de imagens histológicas e o uso de microscópio.
+
+A proposta integrou conteúdos de Anatomia, Histologia, Citologia e Bioquímica ao eixo de Sistemas Orgânicos Integrados (SOI). Em pequenos grupos, os estudantes organizaram explicações, relacionaram forma e função e discutiram os conteúdos com os colegas, mobilizando identificação de estruturas, interpretação de imagens, argumentação científica e comunicação de conceitos.
+
+## Resultados e encaminhamentos
+
+A atividade registrou um momento de revisão e consolidação conceitual em preparação para a prova prática. O registro tem caráter formativo e não atribui notas nem apresenta resultados de desempenho dos estudantes.
+
+## Evidências
+
+::: {.acao-figura}
+![Estudantes em estação com modelos de desenvolvimento embrionário](../fotos/2026-09-basemed-revisao-pratica-01.png){fig-alt="Estudantes em estação de aprendizagem manipulam modelos embriológicos durante revisão do BASEMED"}
+:::
+
+::: {.acao-figura}
+![Estudante explica modelo em atividade de revisão](../fotos/2026-09-basemed-revisao-pratica-02.png){fig-alt="Estudante apresenta um modelo enquanto o grupo discute conceitos de desenvolvimento inicial"}
+:::
+
+::: {.acao-figura}
+![Grupo organiza imagens histológicas e fases da divisão celular](../fotos/2026-09-basemed-revisao-pratica-03.png){fig-alt="Grupo organiza imagens histológicas e esquemas das fases da divisão celular nas mesas"}
+:::
+
+::: {.acao-figura}
+![Mesa de aprendizagem com microscópio e imagens histológicas](../fotos/2026-09-basemed-revisao-pratica-04.png){fig-alt="Mesa de estação de aprendizagem com microscópio, imagens histológicas e estudantes em discussão"}
+:::
