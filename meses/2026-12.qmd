@@ -1,0 +1,17 @@
+---
+title: "Dezembro de 2026"
+description: "Ações do NAPED Afya Ipatinga em dezembro de 2026."
+---
+
+<div class="page-kicker">Linha do tempo · 2026</div>
+
+<div class="action-grid"><article class="action-card">
+  <a class="card-image" href="../acoes/2026-12-confraternizacao-afya-ipatinga.html"><img src="../fotos/2026-12-confraternizacao-afya-ipatinga.png" alt="Convite da confraternização da Afya Faculdade de Ciências Médicas de Ipatinga em 11 de dezembro de 2026" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">11/12/2026</div><span class="tag">Comunicação Institucional</span><span class="tag">Integração</span>
+  <h3><a href="../acoes/2026-12-confraternizacao-afya-ipatinga.html">Confraternização da Afya Faculdade de Ciências Médicas de Ipatinga</a></h3><p>Divulgação institucional do encontro de encerramento do ano, previsto para 11 de dezembro de 2026.</p></div>
+</article>
+<article class="action-card">
+  <a class="card-image" href="../acoes/2026-12-cerimonia-conclusao-preceptoria.html"><img src="../fotos/2026-12-cerimonia-conclusao-preceptoria.png" alt="Convite para a cerimônia de conclusão da Pós-Graduação em Preceptoria em 10 de dezembro de 2026 às 18h30" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">10/12/2026</div><span class="tag">Formação de Preceptores</span><span class="tag">Valorização Profissional</span><span class="tag">Comunicação Institucional</span>
+  <h3><a href="../acoes/2026-12-cerimonia-conclusao-preceptoria.html">Cerimônia de conclusão da Pós-Graduação em Preceptoria</a></h3><p>Convite aos preceptores para a cerimônia de conclusão da pós-graduação, prevista para 10 de dezembro de 2026.</p></div>
+</article></div>

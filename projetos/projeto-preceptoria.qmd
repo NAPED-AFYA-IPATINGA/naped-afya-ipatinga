@@ -4,6 +4,8 @@ description: "Projeto institucional de formação e desenvolvimento de preceptor
 project-key: "Projeto Preceptoria"
 label: "Formação em saúde"
 cta: "Conhecer o projeto →"
+image: "fotos/2026-12-cerimonia-conclusao-preceptoria.png"
+image-alt: "Convite para a cerimônia de conclusão da Pós-Graduação em Preceptoria"
 ---
 
 ## Finalidade

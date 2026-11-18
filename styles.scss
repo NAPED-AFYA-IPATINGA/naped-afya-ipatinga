@@ -122,6 +122,14 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 .action-card, .project-card, .evidence-card, .team-card { overflow: hidden; background: $surface; border: 1px solid $line; border-radius: 1rem; box-shadow: 0 10px 26px rgba(37,20,35,.04); }
 .card-image { display: block; height: 11rem; background: #e9d6e1; }
 .card-image img { width: 100%; height: 100%; object-fit: cover; }
+/* Cards com informações essenciais ou participantes devem aparecer inteiros. */
+.card-image img[src$="2026-11-formacao-okr-card.png"],
+.card-image img[src$="2026-11-reuniao-naped-nacional-sdd-01.png"],
+.card-image img[src$="2026-12-cerimonia-conclusao-preceptoria.png"],
+.card-image img[src$="2026-12-confraternizacao-afya-ipatinga.png"] {
+  object-fit: contain;
+  background: #f8f3f6;
+}
 /* Mantém o rosto visível no card vertical da premiação docente. */
 .card-image img[src$="2026-10-premiacao-docente-01.png"] { object-position: center top; }
 .card-body { padding: 1.2rem; }
@@ -142,6 +150,7 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 .project-card, .evidence-card, .team-card { padding: 1.4rem; }.project-card span,.evidence-card span,.team-card span { color:$brand-accent; font-weight:800; font-size:.76rem; letter-spacing:.09em; text-transform:uppercase; }
 .team-photo { display: block; width: calc(100% + 2.8rem); height: 12rem; object-fit: cover; object-position: center 24%; margin: -1.4rem -1.4rem 1.2rem; }
 .project-card-image { display: block; width: calc(100% + 2.8rem); height: 11rem; object-fit: cover; margin: -1.4rem -1.4rem 1.2rem; }
+.project-card-image[src$="2026-12-cerimonia-conclusao-preceptoria.png"] { object-fit: contain; background: #f8f3f6; }
 .project-feature-image { margin: 1.2rem 0 1.8rem; }
 .project-feature-image img { width: 100%; height: auto; border-radius: .9rem; }
 .project-card h2,.evidence-card h2,.team-card h2 { font-size:1.5rem; margin:.55rem 0; }.project-card p,.evidence-card p,.team-card p { color:$muted; font-size:.94rem; }

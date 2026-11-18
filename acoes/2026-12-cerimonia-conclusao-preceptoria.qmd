@@ -1,0 +1,38 @@
+---
+title: "Cerimônia de conclusão da Pós-Graduação em Preceptoria"
+description: "Convite aos preceptores para a cerimônia de conclusão da pós-graduação, prevista para 10 de dezembro de 2026."
+date: 2026-12-10
+categories: ["Formação de Preceptores", "Valorização Profissional", "Comunicação Institucional"]
+status: "publicado"
+image: "fotos/2026-12-cerimonia-conclusao-preceptoria.png"
+image-alt: "Convite para a cerimônia de conclusão da Pós-Graduação em Preceptoria em 10 de dezembro de 2026 às 18h30"
+participantes: null
+horas: null
+publico: "Preceptores e familiares"
+cursos: ["Medicina"]
+local: ""
+projeto: "Projeto Preceptoria"
+ordem: 44
+---
+
+::: {.acao-figura}
+![Convite para a cerimônia de conclusão da Pós-Graduação em Preceptoria](../fotos/2026-12-cerimonia-conclusao-preceptoria.png){#fig-cerimonia-conclusao-preceptoria fig-alt="Arte do NAPED e da Afya convidando os preceptores para a cerimônia de conclusão da Pós-Graduação em Preceptoria, em 10 de dezembro de 2026 às 18h30"}
+:::
+
+## Objetivo
+
+Celebrar a conclusão da **Pós-Graduação em Preceptoria** e reconhecer o percurso formativo realizado pelos preceptores.
+
+## Desenvolvimento
+
+A cerimônia está prevista para **10 de dezembro de 2026**, às **18h30**. O convite é dirigido aos preceptores e estende a participação às suas famílias, valorizando a conquista e o apoio recebido ao longo da formação.
+
+Após a cerimônia, haverá um *coffee break*. O local não foi incluído neste registro porque não consta no material recebido.
+
+## Resultados e encaminhamentos
+
+Por se tratar de uma ação futura, o registro documenta a etapa de mobilização e convite. A cerimônia representará o encerramento do percurso formativo e um momento de reconhecimento institucional aos concluintes.
+
+## Evidência
+
+O card institucional registra a data, o horário, o público convidado e a programação prevista para a celebração.

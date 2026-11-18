@@ -8,5 +8,19 @@ description: "Página da Liga Acadêmica de Nutrologia da Afya Ipatinga."
 
 <p class="league-teacher"><strong>Docente responsável:</strong> Prof.ª Thaygra Thays Assuncao De Melo</p>
 
-<div class="empty-state"><strong>Página cadastrada.</strong> As ações, os textos e as evidências serão incluídos à medida que forem disponibilizados.</div>
+## Avaliação da composição corporal em atividade prática
+
+A Liga Acadêmica de Nutrologia participou de uma atividade prática de avaliação corporal com o uso de equipamento de bioimpedância. Os registros mostram a organização das medições, o acompanhamento dos participantes e a atuação dos ligantes durante o procedimento.
+
+A experiência aproximou os estudantes de uma ferramenta utilizada na avaliação da composição corporal e favoreceu a aprendizagem prática sobre preparação, posicionamento e registro das medidas. As imagens documentam o desenvolvimento da atividade sem expor resultados individuais.
+
+::: {.league-gallery}
+![Participante posicionada no equipamento de bioimpedância durante a atividade da Liga de Nutrologia](../fotos/ligas-academicas-nutrologia-01.jpg){fig-alt="Participante sobre a plataforma do equipamento de bioimpedância, segurando os sensores manuais, acompanhada por integrante da Liga de Nutrologia"}
+
+![Avaliação corporal acompanhada por integrantes da Liga Acadêmica de Nutrologia](../fotos/ligas-academicas-nutrologia-02.jpg){fig-alt="Participante utilizando os sensores manuais do equipamento de bioimpedância enquanto integrantes da liga acompanham o procedimento"}
+
+![Participante realizando avaliação corporal com equipamento de bioimpedância](../fotos/ligas-academicas-nutrologia-03.jpg){fig-alt="Participante em pé sobre a plataforma e segurando os sensores do equipamento durante atividade prática de Nutrologia"}
+
+![Integrantes da Liga Acadêmica de Nutrologia reunidos após a atividade prática](../fotos/ligas-academicas-nutrologia-04.jpg){fig-alt="Grupo de integrantes da Liga Acadêmica de Nutrologia reunido ao final da atividade de avaliação corporal"}
+:::
 :::

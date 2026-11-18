@@ -1,6 +1,6 @@
 ---
 title: "Liga Acadêmica de Ortopedia"
-description: "Página da Liga Acadêmica de Ortopedia da Afya Ipatinga."
+description: "Ações e evidências da Liga Acadêmica de Ortopedia da Afya Ipatinga."
 ---
 
 ::: {.league-page}
@@ -8,5 +8,18 @@ description: "Página da Liga Acadêmica de Ortopedia da Afya Ipatinga."
 
 <p class="league-teacher"><strong>Docente responsável:</strong> Prof. Rodrigo Rocha Ribeiro Vitor</p>
 
-<div class="empty-state"><strong>Página cadastrada.</strong> As ações, os textos e as evidências serão incluídos à medida que forem disponibilizados.</div>
+## Aprendizagem prática em imobilizações ortopédicas
+
+Sob orientação do professor **Rodrigo Rocha Ribeiro Vitor**, a Liga Acadêmica de Ortopedia desenvolveu uma atividade prática voltada à aplicação de técnicas de imobilização. Os estudantes participaram da preparação dos materiais e da confecção de imobilizações em membros superiores, utilizando ataduras e outros recursos próprios do treinamento.
+
+Os registros evidenciam uma dinâmica colaborativa, com acompanhamento docente, participação ativa dos acadêmicos e execução das técnicas entre os próprios estudantes. A experiência contribui para aproximar os conhecimentos teóricos da prática e fortalecer habilidades importantes para o atendimento inicial de situações ortopédicas.
+
+Não foram atribuídos data ou nome específico ao encontro, pois essas informações não foram confirmadas.
+
+<div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de Ortopedia">
+  <img src="../fotos/ligas-academicas-ortopedia-01.png" alt="Docente e estudantes durante atividade prática de imobilização ortopédica" loading="lazy">
+  <img src="../fotos/ligas-academicas-ortopedia-02.png" alt="Estudantes aplicando técnica de imobilização em membro superior" loading="lazy">
+  <img src="../fotos/ligas-academicas-ortopedia-03.png" alt="Acadêmicos preparando ataduras durante treinamento de imobilização" loading="lazy">
+  <img src="../fotos/ligas-academicas-ortopedia-04.png" alt="Grupo de estudantes realizando prática colaborativa de imobilização ortopédica" loading="lazy">
+</div>
 :::

@@ -9,6 +9,46 @@ Esta seção organiza fotografias, materiais e documentos autorizados para publi
 
 {{< include generated/comprovacoes.md >}}
 
+## Evidências institucionais
+
+### Reunião do NAPED Nacional — alinhamento da SDD
+
+Registros da reunião on-line de alinhamento da **Semana de Desenvolvimento Docente (SDD)**. [Acesse o texto institucional da ação](acoes/2026-11-reuniao-naped-nacional-sdd.qmd).
+
+::: {.attendance-grid}
+[![Participantes da reunião do NAPED Nacional para alinhamento da SDD](fotos/2026-11-reuniao-naped-nacional-sdd-01.png)](fotos/2026-11-reuniao-naped-nacional-sdd-01.png){.attendance-document}
+
+[![Segundo registro da reunião do NAPED Nacional para alinhamento da SDD](fotos/2026-11-reuniao-naped-nacional-sdd-02.png)](fotos/2026-11-reuniao-naped-nacional-sdd-02.png){.attendance-document}
+:::
+
+### Homenagem do Dia dos Professores
+
+Registro da entrega de lembranças durante a homenagem institucional. [Acesse o texto da ação comemorativa](acoes/2026-10-cafe-dia-professores-tecnicos.qmd).
+
+::: {.attendance-grid}
+[![Integrantes da comunidade acadêmica com lembranças da homenagem do Dia dos Professores](fotos/2026-10-cafe-dia-professores-tecnicos-05.png)](fotos/2026-10-cafe-dia-professores-tecnicos-05.png){.attendance-document}
+:::
+
+### Contato do NAPED com os docentes
+
+Capturas autorizadas que comprovam o contato direto do NAPED com docentes para o compartilhamento de orientações e materiais de capacitação. Estes registros são apresentados somente como evidências institucionais e não correspondem a uma ação individual no portfólio.
+
+::: {.attendance-grid}
+[![Registro de contato do NAPED com docente para compartilhamento de capacitações](fotos/2026-11-contato-docentes-01.png)](fotos/2026-11-contato-docentes-01.png){.attendance-document}
+
+[![Segundo registro de contato do NAPED com docente para compartilhamento de capacitações](fotos/2026-11-contato-docentes-02.png)](fotos/2026-11-contato-docentes-02.png){.attendance-document}
+:::
+
+### Formação da equipe do NAPED em OKRs
+
+Registros da participação da coordenadora **Cristina Gonzaga** no treinamento sobre OKRs, indicadores, gestão ágil de processos e comunicação de resultados. [Acesse o texto institucional da ação](acoes/2026-11-formacao-equipe-naped-okrs.qmd).
+
+::: {.attendance-grid}
+[![Cristina Gonzaga e outros integrantes do NAPED durante o treinamento on-line](fotos/2026-11-formacao-okr-evidencia-01.png)](fotos/2026-11-formacao-okr-evidencia-01.png){.attendance-document}
+
+[![Participantes acompanhando conteúdo do treinamento sobre demonstração de valor](fotos/2026-11-formacao-okr-evidencia-02.png)](fotos/2026-11-formacao-okr-evidencia-02.png){.attendance-document}
+:::
+
 ## Registros de participação docente
 
 Esta é a pasta documental das comprovações de participação de professores: reuniões de alinhamento, Semana de Desenvolvimento Docente (SDD), formações, atendimentos e demais ações do NAPED. Cada registro deve identificar a atividade e a data, reunindo as fotos das listas ou fichas de presença correspondentes.

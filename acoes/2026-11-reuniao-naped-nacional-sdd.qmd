@@ -1,0 +1,42 @@
+---
+title: "Reunião do NAPED Nacional para alinhamento da SDD"
+description: "Encontro institucional para alinhar o planejamento e as orientações da Semana de Desenvolvimento Docente."
+date: 2026-11-01
+date-label: "Registro institucional"
+date-format: "MMMM YYYY"
+categories: ["Desenvolvimento Docente", "Gestão Pedagógica", "Articulação Institucional"]
+status: "publicado"
+image: "fotos/2026-11-reuniao-naped-nacional-sdd-01.png"
+image-alt: "Participantes de reunião on-line do NAPED Nacional para alinhamento da Semana de Desenvolvimento Docente"
+participantes: null
+horas: null
+publico: "Equipes do NAPED"
+cursos: []
+local: "On-line"
+projeto: "Ação geral do NAPED"
+ordem: 41
+---
+
+## Objetivo
+
+Alinhar, em âmbito nacional, as orientações e o planejamento da **Semana de Desenvolvimento Docente (SDD)**, favorecendo a organização integrada das ações formativas nas unidades.
+
+## Desenvolvimento
+
+O NAPED participou de uma reunião nacional dedicada à preparação da SDD. O encontro reuniu integrantes das equipes para compartilhar direcionamentos, esclarecer pontos do planejamento e articular as etapas necessárias à realização da programação.
+
+A reunião contou com a participação de **Denny José Almeida Costa** e possibilitou o diálogo entre os profissionais envolvidos na organização das ações de desenvolvimento docente. O registro preserva apenas as informações confirmadas pelas evidências fornecidas, sem atribuir ao encontro uma data exata não informada.
+
+## Resultados e encaminhamentos
+
+O alinhamento fortaleceu a comunicação entre as equipes do NAPED e contribuiu para a organização conjunta da SDD. As orientações discutidas servirão de referência para os próximos encaminhamentos e para a adequação do planejamento às necessidades institucionais.
+
+## Evidências
+
+As capturas abaixo registram a participação das equipes na reunião on-line do NAPED Nacional.
+
+::: {.action-evidence-grid}
+![Participantes reunidos on-line para o alinhamento nacional da Semana de Desenvolvimento Docente](../fotos/2026-11-reuniao-naped-nacional-sdd-01.png){fig-alt="Grade de participantes em reunião on-line do NAPED Nacional, com Denny José Almeida Costa em destaque"}
+
+![Segundo registro da reunião on-line do NAPED Nacional sobre a Semana de Desenvolvimento Docente](../fotos/2026-11-reuniao-naped-nacional-sdd-02.png){fig-alt="Segundo registro da grade de participantes durante o alinhamento nacional da Semana de Desenvolvimento Docente"}
+:::

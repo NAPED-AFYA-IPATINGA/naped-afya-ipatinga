@@ -61,3 +61,7 @@ As fotografias abaixo registram a fala da direção, a participação das equipe
 ::: {.acao-figura}
 ![Professores e técnicos administrativos celebrando juntos](../fotos/2026-10-cafe-dia-professores-tecnicos-04.png){#fig-cafe-dia-professores-tecnicos-04 fig-alt="Grupo de professores e técnicos administrativos reunido junto à decoração da comemoração do Dia dos Professores"}
 :::
+
+::: {.acao-figura}
+![Integrantes da comunidade acadêmica com as lembranças da homenagem](../fotos/2026-10-cafe-dia-professores-tecnicos-05.png){#fig-cafe-dia-professores-tecnicos-05 fig-alt="Três integrantes da comunidade acadêmica sorrindo e segurando lembranças da homenagem do Dia dos Professores"}
+:::
