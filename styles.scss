@@ -187,6 +187,7 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 .league-teacher { color: $muted; border-left: 3px solid $brand-accent; padding-left: .85rem; }
 .league-back { display: inline-block; margin-bottom: 1.1rem; font-weight: 750; text-decoration: none; }
 .league-gallery { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); align-items: start; gap: 1rem; margin-top: 1.6rem; }
+.league-gallery > p { display: contents; }
 .league-gallery img { display: block; width: 100%; height: auto; object-fit: contain; border: 1px solid $line; border-radius: .9rem; background: #f8f3f6; box-shadow: 0 8px 22px rgba(37,20,35,.06); }
 .giro-month-grid { display: grid; grid-template-columns: 1fr; align-items: start; gap: 1.6rem; max-width: 64rem; margin: 1.5rem auto 3rem; }
 .giro-month-card { overflow: hidden; border: 1px solid $line; border-radius: 1rem; background: $surface; box-shadow: 0 10px 26px rgba(37,20,35,.04); }
@@ -225,7 +226,7 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 }
 /* Em telas de mão mais largas, duas colunas continuam legíveis e evitam áreas vazias. */
 @media (max-width: 480px) {
-  .link-grid, .editorial-list, .metric-grid, .action-grid, .project-grid, .evidence-grid, .team-grid, .league-index-grid, .league-gallery, .giro-month-grid, .action-evidence-grid { grid-template-columns: 1fr; }
+  .link-grid, .editorial-list, .metric-grid, .action-grid, .project-grid, .evidence-grid, .team-grid, .league-index-grid, .giro-month-grid, .action-evidence-grid { grid-template-columns: 1fr; }
   .league-page { padding: 1rem; }
   .giro-zoom span { right: .6rem; bottom: .6rem; }
   .giro-lightbox img { max-width: calc(100vw - 2rem); max-height: calc(100vh - 6rem); }
