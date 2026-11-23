@@ -1,0 +1,21 @@
+---
+title: "Liga Acadêmica de Cardiologia"
+description: "Ações e evidências da Liga Acadêmica de Cardiologia da Afya Ipatinga."
+---
+
+::: {.league-page}
+[← Voltar para Ligas Acadêmicas](../ligas-academicas.qmd){.league-back}
+
+## Integração entre anatomia, ECG e casos clínicos
+
+A Liga Acadêmica de Cardiologia participou de uma atividade prática voltada à integração entre conhecimentos anatômicos e raciocínio clínico. Os estudantes utilizaram modelos cardiovasculares, traçados de eletrocardiograma e materiais de apoio para analisar casos e discutir condutas.
+
+Os registros mostram momentos de orientação em pequenos grupos, revisão das estruturas cardíacas e discussão sobre cuidados pós-parada. A dinâmica favoreceu a participação ativa dos acadêmicos e a aplicação dos conteúdos em situações contextualizadas.
+
+<div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de Cardiologia">
+  <img src="../fotos/ligas-academicas-cardiologia-01.png" alt="Estudantes da Liga de Cardiologia discutindo traçados de eletrocardiograma ao redor de um modelo cardíaco" loading="lazy">
+  <img src="../fotos/ligas-academicas-cardiologia-02.png" alt="Grupo da Liga Acadêmica de Cardiologia participando de discussão orientada sobre caso clínico" loading="lazy">
+  <img src="../fotos/ligas-academicas-cardiologia-03.png" alt="Atividade prática de Cardiologia com modelos anatômicos do coração e dos vasos sanguíneos" loading="lazy">
+  <img src="../fotos/ligas-academicas-cardiologia-04.png" alt="Estudantes acompanhando explicação sobre anatomia cardiovascular com modelo didático" loading="lazy">
+</div>
+:::

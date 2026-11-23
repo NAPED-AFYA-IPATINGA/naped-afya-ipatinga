@@ -14,8 +14,6 @@ Sob orientação do professor **Rodrigo Rocha Ribeiro Vitor**, a Liga Acadêmica
 
 Os registros evidenciam uma dinâmica colaborativa, com acompanhamento docente, participação ativa dos acadêmicos e execução das técnicas entre os próprios estudantes. A experiência contribui para aproximar os conhecimentos teóricos da prática e fortalecer habilidades importantes para o atendimento inicial de situações ortopédicas.
 
-Não foram atribuídos data ou nome específico ao encontro, pois essas informações não foram confirmadas.
-
 <div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de Ortopedia">
   <img src="../fotos/ligas-academicas-ortopedia-01.png" alt="Docente e estudantes durante atividade prática de imobilização ortopédica" loading="lazy">
   <img src="../fotos/ligas-academicas-ortopedia-02.png" alt="Estudantes aplicando técnica de imobilização em membro superior" loading="lazy">

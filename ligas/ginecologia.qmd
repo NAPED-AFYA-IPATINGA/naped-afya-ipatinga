@@ -8,5 +8,16 @@ description: "Página da Liga Acadêmica de Ginecologia da Afya Ipatinga."
 
 <p class="league-teacher"><strong>Docente responsável:</strong> Prof.ª Thais Abreu Santos Reggiani</p>
 
-<div class="empty-state"><strong>Página cadastrada.</strong> As ações, os textos e as evidências serão incluídos à medida que forem disponibilizados.</div>
+## Educação em saúde da mulher e atuação comunitária
+
+A Liga Acadêmica de Ginecologia desenvolveu atividades educativas com o uso de modelos didáticos e materiais de orientação em saúde. Os registros apresentam a equipe reunida para a preparação das ações e a organização de recursos voltados à abordagem de temas relacionados à saúde da mulher.
+
+Em atividade junto à comunidade, as integrantes da liga utilizaram modelos anatômicos e materiais impressos para orientar o público, dialogar com as participantes e ampliar o acesso a informações de cuidado e prevenção. A ação articula formação acadêmica, comunicação em saúde e compromisso social.
+
+<div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de Ginecologia">
+  <img src="../fotos/ligas-academicas-ginecologia-01.png" alt="Integrantes da Liga de Ginecologia reunidas com modelos didáticos e materiais de educação em saúde" loading="lazy">
+  <img src="../fotos/ligas-academicas-ginecologia-02.png" alt="Equipe da Liga Acadêmica de Ginecologia em ação comunitária de saúde da mulher" loading="lazy">
+  <img src="../fotos/ligas-academicas-ginecologia-03.png" alt="Mesa educativa com modelo anatômico e folhetos sobre saúde da mulher" loading="lazy">
+  <img src="../fotos/ligas-academicas-ginecologia-04.png" alt="Integrante da Liga de Ginecologia orientando participantes durante ação comunitária" loading="lazy">
+</div>
 :::

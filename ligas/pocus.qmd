@@ -12,7 +12,7 @@ description: "Evidências acadêmicas da Liga Acadêmica de POCUS da Afya Ipatin
 
 Os registros apresentam integrantes da Liga Acadêmica de POCUS em momentos de formação e integração, com utilização de equipamento portátil de ultrassonografia e participação em atividade no Hospital Municipal de Ipatinga.
 
-As evidências documentam a aproximação dos estudantes com o uso do ultrassom à beira do leito e com cenários reais de atenção à saúde. Não foi atribuída data ou descrição específica da atividade, pois essas informações não foram confirmadas.
+As evidências documentam a aproximação dos estudantes com o uso do ultrassom à beira do leito e com cenários reais de atenção à saúde.
 
 <div class="league-gallery" aria-label="Registros fotográficos da Liga Acadêmica de POCUS">
   <img src="../fotos/ligas-academicas-pocus-01.png" alt="Integrantes da Liga de POCUS com equipamento portátil de ultrassonografia" loading="lazy">
