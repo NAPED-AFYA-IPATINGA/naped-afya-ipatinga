@@ -6,6 +6,16 @@ description: "Ações e evidências da Liga Acadêmica de Cardiologia da Afya Ip
 ::: {.league-page}
 [← Voltar para Ligas Acadêmicas](../ligas-academicas.qmd){.league-back}
 
+## Simpósio da Liga de Cardiologia 2026
+
+A Liga Acadêmica de Cardiologia realizará o simpósio **“Cardiologia em Foco: da prevenção à intervenção”**, dedicado à atualização científica e à discussão de decisões clínicas ao longo da jornada cardiovascular.
+
+O encontro acontecerá no dia **28 de novembro de 2026**, às **8h**, no **Auditório da Faculdade Afya Ipatinga**. A programação abordará hipertensão arterial e dislipidemia com a **Dra. Laura Junqueira**, síndrome coronariana aguda com o **Dr. Renato Lott** e insuficiência cardíaca crônica e aguda com o **Dr. Milton Henriques**, além de quiz interativo e premiação.
+
+[Inscreva-se no simpósio](https://forms.gle/CqPderDH41ipxmwn7){.btn .btn-primary}
+
+![Programação do Simpósio da Liga de Cardiologia 2026](../fotos/2026-11-simposio-liga-cardiologia.png){fig-alt="Card do Simpósio da Liga de Cardiologia 2026 com o tema Cardiologia em Foco e cronograma das atividades"}
+
 ## Integração entre anatomia, ECG e casos clínicos
 
 A Liga Acadêmica de Cardiologia participou de uma atividade prática voltada à integração entre conhecimentos anatômicos e raciocínio clínico. Os estudantes utilizaram modelos cardiovasculares, traçados de eletrocardiograma e materiais de apoio para analisar casos e discutir condutas.

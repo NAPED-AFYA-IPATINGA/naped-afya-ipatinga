@@ -6,6 +6,11 @@ description: "Ações do NAPED Afya Ipatinga em novembro de 2026."
 <div class="page-kicker">Linha do tempo · 2026</div>
 
 <div class="action-grid"><article class="action-card">
+  <a class="card-image" href="../acoes/2026-11-gestao-previsivel-saude.html"><img src="../fotos/2026-11-gestao-previsivel-saude.png" alt="Convite para a capacitação Gestão Previsível na Saúde, em 24 de novembro de 2026, às 14h, na Afya Ipatinga" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">24/11/2026</div><span class="tag">Gestão em Saúde</span><span class="tag">Formação Profissional</span><span class="tag">Atenção Primária</span>
+  <h3><a href="../acoes/2026-11-gestao-previsivel-saude.html">Gestão Previsível na Saúde</a></h3><p>Capacitação estratégica sobre qualificação das equipes, decisões assistenciais e fortalecimento da Atenção Primária na gestão municipal.</p></div>
+</article>
+<article class="action-card">
   <a class="card-image" href="../acoes/2026-11-formacao-equipe-naped-okrs.html"><img src="../fotos/2026-11-formacao-okr-card.png" alt="Card do curso OKRs, indicadores e gestão ágil de processos, com último módulo em 17 de novembro às 17 horas" loading="lazy"></a>
   <div class="card-body"><div class="card-meta">17/11/2026</div><span class="tag">Desenvolvimento da Equipe</span><span class="tag">Gestão Pedagógica</span><span class="tag">Planejamento</span>
   <h3><a href="../acoes/2026-11-formacao-equipe-naped-okrs.html">Formação da equipe do NAPED em OKRs, indicadores e gestão ágil</a></h3><p>Conclusão da jornada formativa voltada a objetivos, indicadores, processos ágeis e comunicação de resultados.</p></div>
