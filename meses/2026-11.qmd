@@ -36,6 +36,11 @@ description: "Ações do NAPED Afya Ipatinga em novembro de 2026."
   <h3><a href="../acoes/2026-11-reuniao-quinzenal-te.html">Reunião quinzenal de Tecnologias Educacionais</a></h3><p>Encontro quinzenal para alinhamento de demandas, orientações e processos relacionados às Tecnologias Educacionais.</p></div>
 </article>
 <article class="action-card">
+  <a class="card-image" href="../acoes/2026-11-formacao-regional-matrizes-she.html"><img src="../fotos/hero-workshop-demo.png" alt="NAPED Ipatinga participa de formação sobre as novas matrizes SHE" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">04/11/2026</div><span class="tag">Formação Docente</span><span class="tag">Articulação Institucional</span>
+  <h3><a href="../acoes/2026-11-formacao-regional-matrizes-she.html">NAPED Ipatinga participa de formação sobre as novas matrizes SHE</a></h3><p>Cristina Gonzaga representou o NAPED da Afya Ipatinga na formação das Regionais 2 e 3 sobre as novas matrizes de Saúde, Humanas e Exatas.</p></div>
+</article>
+<article class="action-card">
   <a class="card-image" href="../acoes/2026-11-reuniao-naped-nacional-sdd.html"><img src="../fotos/2026-11-reuniao-naped-nacional-sdd-01.png" alt="Participantes de reunião on-line do NAPED Nacional para alinhamento da Semana de Desenvolvimento Docente" loading="lazy"></a>
   <div class="card-body"><div class="card-meta">Registro institucional</div><span class="tag">Desenvolvimento Docente</span><span class="tag">Gestão Pedagógica</span><span class="tag">Articulação Institucional</span>
   <h3><a href="../acoes/2026-11-reuniao-naped-nacional-sdd.html">Reunião do NAPED Nacional para alinhamento da SDD</a></h3><p>Encontro institucional para alinhar o planejamento e as orientações da Semana de Desenvolvimento Docente.</p></div>
