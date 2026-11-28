@@ -13,6 +13,7 @@ project:
   resources:
     - fotos/*.png
     - fotos/*.jpg
+    - fotos/2026-11-afya-intelligence.mp4
     - Lista_de_Presenca_Avaliacao_Antropometrica.docx
 
 website:

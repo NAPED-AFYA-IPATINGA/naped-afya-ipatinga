@@ -1,0 +1,39 @@
+---
+title: "Afya Intelligence no apoio ao trabalho docente"
+description: "Conheça a plataforma que reúne indicadores acadêmicos e recursos de inteligência artificial para apoiar o acompanhamento e o planejamento no curso de Medicina."
+date: 2026-11-28
+categories: ["Formação Docente", "Inovação Pedagógica"]
+status: "publicado"
+image: "fotos/2026-11-afya-intelligence.png"
+image-alt: "Tela de abertura do vídeo institucional de apresentação do Afya Intelligence"
+participantes: null
+horas: null
+publico: "Docentes de Medicina"
+cursos: ["Medicina"]
+local: ""
+projeto: ""
+ordem: null
+---
+
+O **Afya Intelligence** reúne dados educacionais e recursos de inteligência artificial em um ambiente de apoio à formação médica. Para os docentes, a plataforma oferece uma visão das turmas e dos estudantes, com indicadores que ajudam a identificar pontos de atenção e a planejar intervenções pedagógicas.
+
+## Assista ao vídeo
+
+<video controls playsinline preload="none" poster="../fotos/2026-11-afya-intelligence.png" aria-label="Vídeo de apresentação do Afya Intelligence" style="display:block;width:100%;height:auto;aspect-ratio:16/9;background:#23101a;border-radius:1rem">
+  <source src="../fotos/2026-11-afya-intelligence.mp4" type="video/mp4">
+  <a href="../fotos/2026-11-afya-intelligence.mp4">Abrir o vídeo do Afya Intelligence em MP4</a>
+</video>
+
+## Como a plataforma pode ajudar o professor
+
+Quando uma dificuldade aparece em vários estudantes, os indicadores podem ajudar o professor a decidir qual objetivo de aprendizagem retomar em aula. Se a necessidade é individual, os registros podem orientar um feedback mais específico e ajudar a acompanhar a evolução depois da intervenção.
+
+A ferramenta também permite consultar objetivos de aprendizagem dos módulos e usar a IA como ponto de partida para elaborar questões e atividades. Cabe ao docente revisar as sugestões, ajustar a complexidade e considerar o contexto da turma.
+
+## Acesso docente
+
+O comunicado institucional informa que docentes de Medicina do **1º ao 8º período**, com módulos ou disciplinas ativos no semestre, podem entrar com o e-mail institucional `@afya.com.br`.
+
+[Acessar o Afya Intelligence](https://intelligence.afya.com.br/login){.btn .btn-primary}
+
+[Conheça os recursos para docentes na apresentação institucional da Afya](https://faculdades.afya.com.br/noticias/afya-garanhuns-afya-intelligence-ja-esta-disponivel-para-alunos-e-docentes-de-medicina-da-afya-garanhuns)
